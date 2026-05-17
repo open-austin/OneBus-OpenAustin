@@ -1,0 +1,176 @@
+/* Bottom Sheet Container */
+.bottom-sheet-backdrop {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.25);
+  z-index: 50;
+}
+
+.bottom-sheet-container {
+  position: fixed;
+  inset: 0;
+  overflow-y: auto;
+  z-index: 50;
+}
+
+.bottom-sheet-wrapper {
+  display: flex;
+  min-height: 100%;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 1rem;
+}
+
+/* Bottom Sheet Panel */
+.bottom-sheet-panel {
+  width: 100%;
+  max-width: 28rem;
+  transform: translateY(0);
+  opacity: 1;
+  background-color: white;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  transition: all 300ms ease-out;
+}
+
+.bottom-sheet-panel.closed {
+  transform: translateY(100%);
+  opacity: 0;
+}
+
+/* Content Styles */
+.bottom-sheet-title {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #111827;
+  padding-right: 2rem;
+}
+
+.bottom-sheet-content {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.bottom-sheet-text {
+  font-size: 0.875rem;
+  color: #4B5563;
+}
+
+.bottom-sheet-text strong {
+  font-weight: 600;
+  color: #1F2937;
+}
+
+.bottom-sheet-accessible {
+  font-size: 0.875rem;
+  color: #059669;
+}
+
+/* Button Styles */
+.bottom-sheet-buttons {
+  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.btn-primary {
+  width: 100%;
+  border-radius: 0.5rem;
+  background-color: #3B82F6;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 200ms;
+}
+
+.btn-primary:hover {
+  background-color: #2563EB;
+}
+
+.btn-primary:focus {
+  outline: none;
+  ring: 2px solid #3B82F6;
+  ring-offset: 2px;
+}
+
+.btn-secondary {
+  width: 100%;
+  border-radius: 0.5rem;
+  border: 1px solid #D1D5DB;
+  background-color: transparent;
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #374151;
+  cursor: pointer;
+  transition: background-color 200ms;
+}
+
+.btn-secondary:hover {
+  background-color: #F9FAFB;
+}
+
+.btn-secondary:focus {
+  outline: none;
+  ring: 2px solid #D1D5DB;
+  ring-offset: 2px;
+}
+
+/* Animation Keyframes */
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+}
+
+.bottom-sheet-enter {
+  animation: slideUp 300ms ease-out forwards;
+}
+
+.bottom-sheet-exit {
+  animation: slideDown 200ms ease-in forwards;
+}
+
+/* Fade animation for backdrop */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+.backdrop-enter {
+  animation: fadeIn 300ms ease-out forwards;
+}
+
+.backdrop-exit {
+  animation: fadeOut 200ms ease-in forwards;
+}
