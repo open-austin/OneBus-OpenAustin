@@ -1,0 +1,3615 @@
+route_stop_id,route_id,direction_id,stop_sequence,trip_headsign,stop_id
+1,20,1,1,20 ABIA Airport SB,1619
+2,20,1,2,20 ABIA Airport SB,1621
+3,20,1,3,20 ABIA Airport SB,1622
+4,20,1,4,20 ABIA Airport SB,1625
+5,20,1,5,20 ABIA Airport SB,1626
+6,20,1,6,20 ABIA Airport SB,1627
+7,20,1,7,20 ABIA Airport SB,1629
+8,20,1,8,20 ABIA Airport SB,1631
+9,20,1,9,20 ABIA Airport SB,6084
+10,20,1,10,20 ABIA Airport SB,1633
+11,20,1,11,20 ABIA Airport SB,1634
+12,20,1,12,20 ABIA Airport SB,1635
+13,20,1,13,20 ABIA Airport SB,1636
+14,20,1,14,20 ABIA Airport SB,4193
+15,20,1,16,20 ABIA Airport SB,1639
+16,20,1,17,20 ABIA Airport SB,1640
+17,20,1,18,20 ABIA Airport SB,1642
+18,20,1,19,20 ABIA Airport SB,1644
+19,20,1,20,20 ABIA Airport SB,2077
+20,20,1,21,20 ABIA Airport SB,6498
+21,20,1,22,20 ABIA Airport SB,2079
+22,20,1,24,20 ABIA Airport SB,497
+23,20,1,25,20 ABIA Airport SB,498
+24,10,0,1,10 Southpark Meadows SB,6419
+25,20,1,27,20 ABIA Airport SB,2738
+26,10,0,2,10 Southpark Meadows SB,5446
+27,10,0,3,10 Southpark Meadows SB,4720
+28,10,0,4,10 Southpark Meadows SB,2455
+29,7,0,1,7 William Cannon SB,5604
+30,7,0,2,7 William Cannon SB,2877
+31,10,0,5,10 Southpark Meadows SB,2456
+32,7,1,2,7 Airport/Highland NB,5758
+33,7,0,3,7 William Cannon SB,5510
+34,10,0,6,10 Southpark Meadows SB,2457
+35,20,1,31,20 ABIA Airport SB,3846
+36,7,0,4,7 William Cannon SB,5603
+37,10,0,7,10 Southpark Meadows SB,6346
+38,7,0,5,7 William Cannon SB,6526
+39,7,0,6,7 William Cannon SB,5625
+40,10,0,8,10 Southpark Meadows SB,1313
+41,10,0,9,10 Southpark Meadows SB,4748
+42,7,0,7,7 William Cannon SB,1164
+43,10,0,10,10 Southpark Meadows SB,5186
+44,10,0,11,10 Southpark Meadows SB,1316
+45,7,0,8,7 William Cannon SB,6248
+46,20,1,40,20 ABIA Airport SB,1003
+47,10,0,12,10 Southpark Meadows SB,1318
+48,7,0,9,7 William Cannon SB,1168
+49,10,0,13,10 Southpark Meadows SB,1319
+50,10,0,14,10 Southpark Meadows SB,6295
+51,7,0,10,7 William Cannon SB,1169
+52,7,1,11,7 Airport/Highland NB,6309
+53,7,1,12,7 Airport/Highland NB,6313
+54,10,0,15,10 Southpark Meadows SB,6335
+55,7,0,11,7 William Cannon SB,4150
+56,20,1,46,20 ABIA Airport SB,6368
+57,337,0,1,337 Mopac WB,6183
+58,5,1,1,5 Northcross WB,5007
+59,7,1,13,7 Airport/Highland NB,1228
+60,10,0,16,10 Southpark Meadows SB,5794
+61,7,0,12,7 William Cannon SB,1171
+62,5,1,2,5 Northcross WB,6385
+63,337,0,2,337 Mopac WB,5981
+64,7,1,14,7 Airport/Highland NB,1229
+65,7,0,13,7 William Cannon SB,1172
+66,10,0,17,10 Southpark Meadows SB,5483
+67,5,1,3,5 Northcross WB,5912
+68,7,1,15,7 Airport/Highland NB,1230
+69,7,0,14,7 William Cannon SB,4152
+70,10,0,18,10 Southpark Meadows SB,5670
+71,7,0,15,7 William Cannon SB,1174
+72,10,0,19,10 Southpark Meadows SB,5918
+73,7,1,16,7 Airport/Highland NB,1231
+74,7,0,16,7 William Cannon SB,1175
+75,337,0,3,337 Mopac WB,2282
+76,5,1,4,5 Northcross WB,1085
+77,10,0,20,10 Southpark Meadows SB,3271
+78,7,1,17,7 Airport/Highland NB,1232
+79,337,0,4,337 Mopac WB,2288
+80,324,0,1,324 Highland EB,6388
+81,337,0,5,337 Mopac WB,4615
+82,7,0,17,7 William Cannon SB,1176
+83,5,1,5,5 Northcross WB,6369
+84,7,0,18,7 William Cannon SB,1177
+85,337,0,6,337 Mopac WB,5558
+86,5,1,6,5 Northcross WB,1089
+87,7,1,19,7 Airport/Highland NB,5663
+88,324,0,2,324 Highland EB,5855
+89,10,0,21,10 Southpark Meadows SB,3532
+90,7,0,19,7 William Cannon SB,1179
+91,337,0,7,337 Mopac WB,2290
+92,5,1,7,5 Northcross WB,1091
+93,337,0,8,337 Mopac WB,2291
+94,7,1,22,7 Airport/Highland NB,4324
+95,10,0,22,10 Southpark Meadows SB,1701
+96,7,0,20,7 William Cannon SB,1180
+97,5,1,8,5 Northcross WB,1092
+98,7,1,23,7 Airport/Highland NB,1237
+99,10,0,23,10 Southpark Meadows SB,6337
+100,324,0,3,324 Highland EB,5746
+101,5,1,9,5 Northcross WB,1093
+102,324,0,4,324 Highland EB,3063
+103,7,1,24,7 Airport/Highland NB,1238
+104,337,0,9,337 Mopac WB,2292
+105,10,0,24,10 Southpark Meadows SB,1703
+106,7,1,25,7 Airport/Highland NB,1239
+107,324,0,5,324 Highland EB,3120
+108,10,0,25,10 Southpark Meadows SB,1704
+109,5,1,10,5 Northcross WB,1094
+110,7,1,26,7 Airport/Highland NB,1240
+111,7,0,21,7 William Cannon SB,916
+112,337,0,10,337 Mopac WB,5847
+113,10,0,26,10 Southpark Meadows SB,5569
+114,324,0,6,324 Highland EB,5662
+115,5,1,11,5 Northcross WB,4670
+116,20,1,52,20 ABIA Airport SB,4326
+117,217,0,1,217 Shady Lane NB,832
+118,337,0,11,337 Mopac WB,2295
+119,7,1,27,7 Airport/Highland NB,1359
+120,217,0,2,217 Shady Lane NB,5736
+121,7,0,22,7 William Cannon SB,919
+122,10,0,27,10 Southpark Meadows SB,1706
+123,5,1,12,5 Northcross WB,1096
+124,324,0,7,324 Highland EB,3123
+125,337,0,12,337 Mopac WB,2296
+126,217,0,3,217 Shady Lane NB,3255
+127,7,1,28,7 Airport/Highland NB,1243
+128,324,0,8,324 Highland EB,3125
+129,217,0,4,217 Shady Lane NB,5466
+130,5,1,13,5 Northcross WB,1098
+131,7,1,29,7 Airport/Highland NB,1244
+132,217,0,5,217 Shady Lane NB,3256
+133,10,0,28,10 Southpark Meadows SB,2077
+134,217,0,6,217 Shady Lane NB,4306
+135,10,1,1,10 Norwood Transit Center NB,5263
+136,30,1,1,30 Westgate Transit Center SB,5856
+137,7,0,23,7 William Cannon SB,6499
+138,324,0,9,324 Highland EB,4733
+139,337,0,13,337 Mopac WB,2298
+140,5,1,14,5 Northcross WB,1099
+141,7,1,30,7 Airport/Highland NB,1361
+142,324,0,10,324 Highland EB,4731
+143,10,0,29,10 Southpark Meadows SB,2757
+144,337,0,14,337 Mopac WB,2299
+145,7,1,31,7 Airport/Highland NB,1032
+146,324,0,11,324 Highland EB,4728
+147,10,1,2,10 Norwood Transit Center NB,6479
+148,5,1,15,5 Northcross WB,1101
+149,337,0,15,337 Mopac WB,2300
+150,324,0,12,324 Highland EB,3127
+151,337,0,16,337 Mopac WB,4610
+152,7,1,32,7 Airport/Highland NB,6443
+153,10,1,3,10 Norwood Transit Center NB,5968
+154,7,0,24,7 William Cannon SB,5937
+155,5,1,16,5 Northcross WB,1102
+156,337,0,17,337 Mopac WB,5008
+157,217,0,7,217 Shady Lane NB,6432
+158,5,1,17,5 Northcross WB,1103
+159,30,1,3,30 Westgate Transit Center SB,1906
+160,801,1,5,801 Southpark Meadows SB,5858
+161,7,1,33,7 Airport/Highland NB,1034
+162,10,0,30,10 Southpark Meadows SB,1179
+163,10,1,4,10 Norwood Transit Center NB,4404
+164,324,0,13,324 Highland EB,6255
+165,30,1,4,30 Westgate Transit Center SB,4649
+166,5,1,18,5 Northcross WB,1105
+167,337,0,18,337 Mopac WB,2302
+168,7,0,25,7 William Cannon SB,5938
+169,10,0,31,10 Southpark Meadows SB,1180
+170,10,1,5,10 Norwood Transit Center NB,3768
+171,30,1,5,30 Westgate Transit Center SB,1907
+172,20,0,1,20 Springdale NB,4326
+173,243,1,1,243 Tech Ridge Park & Ride EB,5607
+174,311,0,1,311 Westgate Transit Center WB,6439
+175,337,0,19,337 Mopac WB,5781
+176,350,0,1,350 North Lamar Transit Center NB,6439
+177,18,1,2,18 Exposition WB,5642
+178,5,1,19,5 Northcross WB,1106
+179,7,1,34,7 Airport/Highland NB,1246
+180,324,0,14,324 Highland EB,6252
+181,10,1,6,10 Norwood Transit Center NB,3769
+182,337,0,20,337 Mopac WB,2305
+183,10,1,7,10 Norwood Transit Center NB,2636
+184,333,1,1,333 Thaxton EB,2597
+185,5,1,20,5 Northcross WB,1107
+186,30,1,6,30 Westgate Transit Center SB,1909
+187,3,1,2,3 Arboretum NB,6479
+188,324,0,15,324 Highland EB,6251
+189,10,1,8,10 Norwood Transit Center NB,3757
+190,243,1,2,243 Tech Ridge Park & Ride EB,5305
+191,7,1,35,7 Airport/Highland NB,4024
+192,2,0,1,2 EASTSIDE BUS PLAZA SB,669
+193,803,1,1,803 Westgate Transit Center SB,5919
+194,10,0,32,10 Southpark Meadows SB,916
+195,350,0,2,350 North Lamar Transit Center NB,1017
+196,7,0,26,7 William Cannon SB,2613
+197,30,1,7,30 Westgate Transit Center SB,1910
+198,311,0,2,311 Westgate Transit Center WB,1017
+199,243,1,3,243 Tech Ridge Park & Ride EB,5278
+200,20,0,2,20 Springdale NB,5099
+201,18,1,4,18 Exposition WB,5640
+202,324,0,16,324 Highland EB,6257
+203,337,0,21,337 Mopac WB,4592
+204,10,1,9,10 Norwood Transit Center NB,5735
+205,1,0,1,1 William Cannon SB,5273
+206,7,1,36,7 Airport/Highland NB,1249
+207,801,0,1,801 Tech Ridge Park & Ride NB,5873
+208,837,0,1,837 Downtown SB,6183
+209,243,1,4,243 Tech Ridge Park & Ride EB,4813
+210,5,1,21,5 Northcross WB,1109
+211,10,0,33,10 Southpark Meadows SB,919
+212,311,0,3,311 Westgate Transit Center WB,6524
+213,350,0,3,350 North Lamar Transit Center NB,6368
+214,2,0,2,2 EASTSIDE BUS PLAZA SB,1338
+215,30,1,8,30 Westgate Transit Center SB,1911
+216,10,1,10,10 Norwood Transit Center NB,2638
+217,801,1,7,801 Southpark Meadows SB,467
+218,3,1,4,3 Arboretum NB,6407
+219,18,1,5,18 Exposition WB,5641
+220,324,0,17,324 Highland EB,6258
+221,243,1,5,243 Tech Ridge Park & Ride EB,4815
+222,337,0,22,337 Mopac WB,2870
+223,333,1,2,333 Thaxton EB,6393
+224,30,1,9,30 Westgate Transit Center SB,1912
+225,350,0,4,350 North Lamar Transit Center NB,5748
+226,18,1,6,18 Exposition WB,4602
+227,2,0,3,2 EASTSIDE BUS PLAZA SB,1339
+228,20,0,3,20 Springdale NB,6241
+229,3,1,5,3 Arboretum NB,5416
+230,243,1,6,243 Tech Ridge Park & Ride EB,4817
+231,10,0,34,10 Southpark Meadows SB,6499
+232,217,0,8,217 Shady Lane NB,6448
+233,3,0,1,3 Southpark Meadows SB,3837
+234,310,1,1,310 S. Congress Transit Center WB,6439
+235,318,0,1,318 Thaxton EB,6379
+236,323,0,1,323 Northcross WB,6424
+237,324,0,18,324 Highland EB,2583
+238,325,1,1,325 Tech Ridge Park & Ride NB,6421
+239,325,0,1,325 Norwood Transit Center SB,5302
+240,333,0,1,333 Oak Hill WB,5702
+241,335,0,1,335 Exposition WB,5926
+242,345,0,1,345 Burnet WB,3843
+243,350,1,1,350 ACC Riverside SB,5226
+244,383,0,1,383 Lakeline Station NB,5225
+245,4,1,1,4 Shady EB,6243
+246,5,0,1,5 Tannehill EB,5854
+247,800,0,1,800 Mueller NB,6504
+248,800,1,1,800 Slaughter SB,5926
+249,7,1,37,7 Airport/Highland NB,2767
+250,311,0,4,311 Westgate Transit Center WB,2229
+251,10,1,11,10 Norwood Transit Center NB,3770
+252,801,0,2,801 Tech Ridge Park & Ride NB,6362
+253,337,0,23,337 Mopac WB,2459
+254,803,1,2,803 Westgate Transit Center SB,4682
+255,324,0,19,324 Highland EB,4539
+256,350,0,5,350 North Lamar Transit Center NB,3253
+257,345,0,2,345 Burnet WB,5283
+258,1,0,2,1 William Cannon SB,5374
+259,2,0,4,2 EASTSIDE BUS PLAZA SB,3261
+260,30,1,10,30 Westgate Transit Center SB,1913
+261,322,1,1,322 Hancock Center NB,6404
+262,803,0,1,803 Domain NB,6373
+263,18,1,7,18 Exposition WB,898
+264,383,0,2,383 Lakeline Station NB,5071
+265,10,1,12,10 Norwood Transit Center NB,2639
+266,3,1,7,3 Arboretum NB,2933
+267,324,0,20,324 Highland EB,2585
+268,337,0,24,337 Mopac WB,2460
+269,837,0,2,837 Downtown SB,2282
+270,243,1,7,243 Tech Ridge Park & Ride EB,5342
+271,345,0,3,345 Burnet WB,6336
+272,333,0,2,333 Oak Hill WB,5699
+273,7,0,27,7 William Cannon SB,2763
+274,350,1,2,350 ACC Riverside SB,471
+275,311,0,5,311 Westgate Transit Center WB,2230
+276,3,0,2,3 Southpark Meadows SB,5019
+277,322,1,2,322 Hancock Center NB,2045
+278,5,0,2,5 Tannehill EB,954
+279,325,1,2,325 Tech Ridge Park & Ride NB,5446
+280,324,0,21,324 Highland EB,4725
+281,323,0,2,323 Northcross WB,5193
+282,318,0,2,318 Thaxton EB,4231
+283,311,0,6,311 Westgate Transit Center WB,5974
+284,333,0,3,333 Oak Hill WB,6521
+285,10,1,13,10 Norwood Transit Center NB,1540
+286,10,0,35,10 Southpark Meadows SB,5937
+287,350,0,6,350 North Lamar Transit Center NB,3254
+288,243,1,8,243 Tech Ridge Park & Ride EB,5761
+289,800,1,2,800 Slaughter SB,6293
+290,345,0,4,345 Burnet WB,1787
+291,322,1,3,322 Hancock Center NB,1959
+292,337,0,25,337 Mopac WB,4712
+293,383,0,3,383 Lakeline Station NB,3795
+294,3,1,8,3 Arboretum NB,2934
+295,335,0,2,335 Exposition WB,6293
+296,324,0,22,324 Highland EB,5406
+297,5,1,22,5 Northcross WB,6499
+298,310,1,2,310 S. Congress Transit Center WB,1017
+299,837,0,3,837 Downtown SB,5644
+300,318,0,3,318 Thaxton EB,1746
+301,325,0,2,325 Norwood Transit Center SB,5374
+302,350,0,7,350 North Lamar Transit Center NB,3255
+303,333,1,3,333 Thaxton EB,6390
+304,5,0,3,5 Tannehill EB,956
+305,333,0,4,333 Oak Hill WB,4361
+306,10,1,14,10 Norwood Transit Center NB,1541
+307,383,0,4,383 Lakeline Station NB,3796
+308,3,1,9,3 Arboretum NB,2935
+309,345,0,5,345 Burnet WB,5394
+310,318,1,1,318 Westgate Transit Center WB,5702
+311,7,0,28,7 William Cannon SB,3846
+312,2,0,5,2 EASTSIDE BUS PLAZA SB,634
+313,803,0,2,803 Domain NB,2370
+314,318,0,4,318 Thaxton EB,1747
+315,322,1,4,322 Hancock Center NB,2046
+316,324,0,23,324 Highland EB,1148
+317,18,1,8,18 Exposition WB,902
+318,243,1,9,243 Tech Ridge Park & Ride EB,6453
+319,310,1,3,310 S. Congress Transit Center WB,5728
+320,10,0,36,10 Southpark Meadows SB,5938
+321,311,0,7,311 Westgate Transit Center WB,5836
+322,383,0,5,383 Lakeline Station NB,3797
+323,5,0,4,5 Tannehill EB,958
+324,325,1,3,325 Tech Ridge Park & Ride NB,4720
+325,7,0,29,7 William Cannon SB,3847
+326,350,0,8,350 North Lamar Transit Center NB,5466
+327,10,1,15,10 Norwood Transit Center NB,1542
+328,7,1,38,7 Airport/Highland NB,2643
+329,800,1,3,800 Slaughter SB,6291
+330,337,0,26,337 Mopac WB,1410
+331,322,1,5,322 Hancock Center NB,2047
+332,5,0,5,5 Tannehill EB,4523
+333,7,0,30,7 William Cannon SB,5023
+334,350,0,9,350 North Lamar Transit Center NB,3256
+335,383,0,6,383 Lakeline Station NB,3798
+336,333,1,4,333 Thaxton EB,3206
+337,18,1,9,18 Exposition WB,5571
+338,350,1,5,350 ACC Riverside SB,2877
+339,345,0,6,345 Burnet WB,4920
+340,3,0,3,3 Southpark Meadows SB,3017
+341,318,0,5,318 Thaxton EB,1748
+342,325,1,4,325 Tech Ridge Park & Ride NB,5082
+343,2,0,6,2 EASTSIDE BUS PLAZA SB,5464
+344,335,0,3,335 Exposition WB,6291
+345,350,0,10,350 North Lamar Transit Center NB,4306
+346,5,0,6,5 Tannehill EB,960
+347,20,0,4,20 Springdale NB,4692
+348,333,1,5,333 Thaxton EB,3207
+349,5,1,23,5 Northcross WB,5937
+350,318,0,6,318 Thaxton EB,4219
+351,243,1,10,243 Tech Ridge Park & Ride EB,5765
+352,310,1,4,310 S. Congress Transit Center WB,1018
+353,10,1,16,10 Norwood Transit Center NB,2641
+354,217,1,1,217 ACC Riverside SB,6448
+355,271,0,1,271 Grove WB,5927
+356,311,0,8,311 Westgate Transit Center WB,5834
+357,315,0,1,315 S. Congress Transit Center EB,2597
+358,803,0,3,803 Domain NB,6357
+359,837,0,4,837 Downtown SB,1614
+360,3,0,4,3 Southpark Meadows SB,5452
+361,350,1,6,350 ACC Riverside SB,5510
+362,333,0,5,333 Oak Hill WB,6482
+363,337,0,27,337 Mopac WB,1412
+364,7,0,31,7 William Cannon SB,1186
+365,322,1,6,322 Hancock Center NB,2048
+366,2,0,7,2 EASTSIDE BUS PLAZA SB,635
+367,18,1,10,18 Exposition WB,905
+368,5,0,7,5 Tannehill EB,962
+369,345,0,7,345 Burnet WB,4921
+370,325,1,5,325 Tech Ridge Park & Ride NB,5081
+371,20,0,5,20 Springdale NB,3248
+372,7,1,39,7 Airport/Highland NB,6314
+373,383,0,7,383 Lakeline Station NB,3799
+374,1,0,3,1 William Cannon SB,5319
+375,10,0,37,10 Southpark Meadows SB,2613
+376,318,0,7,318 Thaxton EB,2337
+377,5,0,8,5 Tannehill EB,963
+378,324,0,24,324 Highland EB,1149
+379,318,1,2,318 Westgate Transit Center WB,6339
+380,4,1,6,4 Shady EB,2108
+381,325,0,3,325 Norwood Transit Center SB,5522
+382,7,0,32,7 William Cannon SB,1187
+383,18,1,11,18 Exposition WB,4196
+384,801,0,3,801 Tech Ridge Park & Ride NB,4382
+385,20,0,6,20 Springdale NB,3249
+386,311,0,9,311 Westgate Transit Center WB,6467
+387,10,1,17,10 Norwood Transit Center NB,1545
+388,271,0,2,271 Grove WB,5622
+389,345,0,8,345 Burnet WB,1054
+390,30,1,13,30 Westgate Transit Center SB,1917
+391,318,0,8,318 Thaxton EB,2338
+392,335,0,4,335 Exposition WB,1636
+393,243,1,11,243 Tech Ridge Park & Ride EB,5767
+394,7,0,33,7 William Cannon SB,1188
+395,333,1,6,333 Thaxton EB,3208
+396,271,0,3,271 Grove WB,5803
+397,333,0,6,333 Oak Hill WB,5383
+398,800,1,4,800 Slaughter SB,6496
+399,310,1,5,310 S. Congress Transit Center WB,1021
+400,10,1,18,10 Norwood Transit Center NB,1546
+401,4,1,7,4 Shady EB,2110
+402,325,0,4,325 Norwood Transit Center SB,4820
+403,5,0,9,5 Tannehill EB,964
+404,333,0,7,333 Oak Hill WB,2504
+405,5,1,24,5 Northcross WB,5938
+406,7,1,1,7 Crestview Station NB,5377
+407,18,1,12,18 Exposition WB,5786
+408,345,0,9,345 Burnet WB,1055
+409,837,0,5,837 Downtown SB,1616
+410,324,0,25,324 Highland EB,1150
+411,803,0,4,803 Domain NB,5875
+412,318,0,9,318 Thaxton EB,2339
+413,323,0,3,323 Northcross WB,5646
+414,30,1,14,30 Westgate Transit Center SB,1918
+415,325,1,6,325 Tech Ridge Park & Ride NB,3144
+416,345,0,10,345 Burnet WB,1056
+417,310,1,6,310 S. Congress Transit Center WB,1022
+418,5,0,10,5 Tannehill EB,965
+419,18,1,13,18 Exposition WB,5801
+420,333,0,8,333 Oak Hill WB,2505
+421,383,0,8,383 Lakeline Station NB,4753
+422,324,0,26,324 Highland EB,1151
+423,10,1,19,10 Norwood Transit Center NB,1548
+424,7,1,2,7 Crestview Station NB,5758
+425,2,1,1,2 Springdale NB,6447
+426,20,0,8,20 Springdale NB,951
+427,333,1,7,333 Thaxton EB,4446
+428,337,0,30,337 Mopac WB,1415
+429,7,1,40,7 Airport/Highland NB,6315
+430,7,0,34,7 William Cannon SB,999
+431,30,1,15,30 Westgate Transit Center SB,4652
+432,3,0,5,3 Southpark Meadows SB,5718
+433,837,0,6,837 Downtown SB,1618
+434,310,1,7,310 S. Congress Transit Center WB,1023
+435,333,1,8,333 Thaxton EB,4445
+436,20,0,9,20 Springdale NB,5728
+437,30,1,16,30 Westgate Transit Center SB,1919
+438,271,0,4,271 Grove WB,5990
+439,243,1,12,243 Tech Ridge Park & Ride EB,5768
+440,322,1,7,322 Hancock Center NB,6331
+441,300,1,2,300 Crestview Station NB,4212
+442,335,0,5,335 Exposition WB,6288
+443,5,0,11,5 Tannehill EB,966
+444,333,0,9,333 Oak Hill WB,5137
+445,803,0,5,803 Domain NB,2260
+446,311,0,10,311 Westgate Transit Center WB,5147
+447,324,0,27,324 Highland EB,1152
+448,18,1,14,18 Exposition WB,909
+449,325,0,5,325 Norwood Transit Center SB,4821
+450,7,1,3,7 Crestview Station NB,4348
+451,801,0,5,801 Tech Ridge Park & Ride NB,6525
+452,2,0,9,2 EASTSIDE BUS PLAZA SB,638
+453,383,0,9,383 Lakeline Station NB,4757
+454,800,0,2,800 Mueller NB,6530
+455,10,0,38,10 Southpark Meadows SB,1655
+456,337,0,31,337 Mopac WB,5603
+457,310,1,8,310 S. Congress Transit Center WB,1024
+458,271,0,5,271 Grove WB,5988
+459,318,0,10,318 Thaxton EB,2340
+460,345,0,11,345 Burnet WB,1057
+461,30,1,17,30 Westgate Transit Center SB,1920
+462,5,0,12,5 Tannehill EB,967
+463,7,0,35,7 William Cannon SB,5554
+464,311,0,11,311 Westgate Transit Center WB,5289
+465,10,0,39,10 Southpark Meadows SB,1656
+466,324,0,28,324 Highland EB,1153
+467,5,1,25,5 Northcross WB,2613
+468,7,1,41,7 Airport/Highland NB,864
+469,300,1,3,300 Crestview Station NB,4234
+470,322,1,8,322 Hancock Center NB,2055
+471,333,0,10,333 Oak Hill WB,2507
+472,335,0,6,335 Exposition WB,6286
+473,20,0,10,20 Springdale NB,1018
+474,4,1,9,4 Shady EB,6314
+475,10,1,20,10 Norwood Transit Center NB,1549
+476,30,1,18,30 Westgate Transit Center SB,1921
+477,333,1,9,333 Thaxton EB,3887
+478,18,1,15,18 Exposition WB,910
+479,1,0,5,1 William Cannon SB,5271
+480,135,0,1,135 Tech Ridge Park & Ride NB,1369
+481,3,0,6,3 Southpark Meadows SB,3020
+482,310,1,9,310 S. Congress Transit Center WB,1025
+483,311,1,1,311 ACC RIVERSIDE EB,6375
+484,315,1,1,315 Oak Hill WB,5551
+485,325,1,7,325 Tech Ridge Park & Ride NB,3145
+486,345,0,12,345 Burnet WB,6310
+487,350,0,11,350 North Lamar Transit Center NB,6413
+488,5,0,13,5 Tannehill EB,968
+489,837,1,1,837 Decker NB,2112
+490,837,0,7,837 Downtown SB,6494
+491,311,0,12,311 Westgate Transit Center WB,5831
+492,10,0,40,10 Southpark Meadows SB,1657
+493,350,1,10,350 ACC Riverside SB,5372
+494,7,0,36,7 William Cannon SB,1002
+495,333,0,11,333 Oak Hill WB,2508
+496,18,1,16,18 Exposition WB,5492
+497,318,0,11,318 Thaxton EB,2341
+498,2,0,10,2 EASTSIDE BUS PLAZA SB,3728
+499,383,0,10,383 Lakeline Station NB,6427
+500,318,1,3,318 Westgate Transit Center WB,6329
+501,300,1,4,300 Crestview Station NB,4216
+502,800,1,5,800 Slaughter SB,634
+503,10,1,21,10 Norwood Transit Center NB,1550
+504,337,0,32,337 Mopac WB,6526
+505,310,1,10,310 S. Congress Transit Center WB,5788
+506,271,0,6,271 Grove WB,5987
+507,335,0,7,335 Exposition WB,2071
+508,30,1,19,30 Westgate Transit Center SB,1922
+509,350,1,11,350 ACC Riverside SB,5415
+510,5,0,14,5 Tannehill EB,969
+511,3,0,7,3 Southpark Meadows SB,6457
+512,325,1,8,325 Tech Ridge Park & Ride NB,1141
+513,217,1,2,217 ACC Riverside SB,3304
+514,18,1,17,18 Exposition WB,911
+515,311,0,13,311 Westgate Transit Center WB,5828
+516,322,1,9,322 Hancock Center NB,2056
+517,323,0,4,323 Northcross WB,5227
+518,345,1,1,345 Hancock Center EB,814
+519,345,0,13,345 Burnet WB,814
+520,20,0,11,20 Springdale NB,1021
+521,803,0,6,803 Domain NB,777
+522,333,0,12,333 Oak Hill WB,4354
+523,315,0,2,315 S. Congress Transit Center EB,5585
+524,318,0,12,318 Thaxton EB,4427
+525,4,1,10,4 Shady EB,6370
+526,311,1,2,311 ACC RIVERSIDE EB,4231
+527,243,1,13,243 Tech Ridge Park & Ride EB,5771
+528,337,0,33,337 Mopac WB,5625
+529,310,1,11,310 S. Congress Transit Center WB,1356
+530,1,0,6,1 William Cannon SB,5346
+531,335,0,8,335 Exposition WB,4738
+532,311,0,14,311 Westgate Transit Center WB,1223
+533,322,1,10,322 Hancock Center NB,2057
+534,345,1,2,345 Hancock Center EB,4202
+535,837,0,8,837 Downtown SB,1622
+536,383,0,11,383 Lakeline Station NB,6456
+537,333,1,10,333 Thaxton EB,3212
+538,350,1,12,350 ACC Riverside SB,5684
+539,324,0,29,324 Highland EB,1156
+540,300,1,5,300 Crestview Station NB,6357
+541,30,1,20,30 Westgate Transit Center SB,1923
+542,7,0,37,7 William Cannon SB,1190
+543,325,0,6,325 Norwood Transit Center SB,4824
+544,5,0,15,5 Tannehill EB,970
+545,20,0,12,20 Springdale NB,6367
+546,217,1,3,217 ACC Riverside SB,3306
+547,310,1,12,310 S. Congress Transit Center WB,2238
+548,311,1,3,311 ACC RIVERSIDE EB,1746
+549,10,1,22,10 Norwood Transit Center NB,1553
+550,2,0,11,2 EASTSIDE BUS PLAZA SB,4172
+551,318,0,13,318 Thaxton EB,2342
+552,322,1,11,322 Hancock Center NB,2058
+553,7,1,42,7 Airport/Highland NB,866
+554,324,0,30,324 Highland EB,1157
+555,335,0,9,335 Exposition WB,4737
+556,311,0,15,311 Westgate Transit Center WB,1224
+557,18,1,18,18 Exposition WB,913
+558,333,1,11,333 Thaxton EB,3213
+559,333,0,13,333 Oak Hill WB,2511
+560,837,1,2,837 Decker NB,6503
+561,4,1,11,4 Shady EB,928
+562,310,1,13,310 S. Congress Transit Center WB,1358
+563,383,0,12,383 Lakeline Station NB,4682
+564,311,1,4,311 ACC RIVERSIDE EB,1747
+565,217,1,4,217 ACC Riverside SB,5749
+566,2,0,12,2 EASTSIDE BUS PLAZA SB,4170
+567,1,0,7,1 William Cannon SB,5347
+568,20,0,13,20 Springdale NB,6442
+569,325,1,9,325 Tech Ridge Park & Ride NB,6418
+570,5,0,16,5 Tannehill EB,971
+571,318,0,14,318 Thaxton EB,2343
+572,10,1,23,10 Norwood Transit Center NB,1554
+573,801,0,6,801 Tech Ridge Park & Ride NB,6355
+574,345,1,3,345 Hancock Center EB,974
+575,10,0,41,10 Southpark Meadows SB,1659
+576,7,0,38,7 William Cannon SB,1191
+577,322,1,12,322 Hancock Center NB,2059
+578,350,0,12,350 North Lamar Transit Center NB,3259
+579,217,1,5,217 ACC Riverside SB,3308
+580,333,1,12,333 Thaxton EB,3214
+581,318,1,4,318 Westgate Transit Center WB,6326
+582,325,0,7,325 Norwood Transit Center SB,5442
+583,7,1,6,7 Crestview Station NB,4948
+584,803,0,7,803 Domain NB,781
+585,324,0,31,324 Highland EB,1158
+586,323,0,5,323 Northcross WB,3278
+587,300,1,6,300 Crestview Station NB,2374
+588,311,0,16,311 Westgate Transit Center WB,2489
+589,350,1,13,350 ACC Riverside SB,3290
+590,5,0,17,5 Tannehill EB,972
+591,271,0,7,271 Grove WB,5985
+592,2,0,13,2 EASTSIDE BUS PLAZA SB,3730
+593,383,0,13,383 Lakeline Station NB,3014
+594,318,0,15,318 Thaxton EB,2344
+595,325,1,10,325 Tech Ridge Park & Ride NB,1143
+596,345,1,4,345 Hancock Center EB,4521
+597,10,1,24,10 Norwood Transit Center NB,1556
+598,311,1,5,311 ACC RIVERSIDE EB,1748
+599,837,1,3,837 Decker NB,6315
+600,324,0,32,324 Highland EB,1159
+601,333,1,13,333 Thaxton EB,3215
+602,800,1,6,800 Slaughter SB,6488
+603,315,1,2,315 Oak Hill WB,2175
+604,323,0,6,323 Northcross WB,4580
+605,837,0,9,837 Downtown SB,1627
+606,311,0,17,311 Westgate Transit Center WB,2490
+607,10,0,42,10 Southpark Meadows SB,1661
+608,20,0,14,20 Springdale NB,1030
+609,322,1,13,322 Hancock Center NB,2060
+610,7,0,39,7 William Cannon SB,3535
+611,350,0,13,350 North Lamar Transit Center NB,4581
+612,300,1,7,300 Crestview Station NB,771
+613,318,1,5,318 Westgate Transit Center WB,6324
+614,217,1,6,217 ACC Riverside SB,6454
+615,311,1,6,311 ACC RIVERSIDE EB,4219
+616,318,0,16,318 Thaxton EB,4430
+617,335,0,10,335 Exposition WB,6281
+618,800,0,3,800 Mueller NB,6510
+619,310,1,14,310 S. Congress Transit Center WB,1193
+620,322,1,14,322 Hancock Center NB,2061
+621,325,0,8,325 Norwood Transit Center SB,3041
+622,315,0,3,315 S. Congress Transit Center EB,6396
+623,30,1,21,30 Westgate Transit Center SB,5421
+624,333,0,14,333 Oak Hill WB,5704
+625,345,1,5,345 Hancock Center EB,5877
+626,4,1,12,4 Shady EB,929
+627,18,1,19,18 Exposition WB,2761
+628,323,0,7,323 Northcross WB,3279
+629,322,1,15,322 Hancock Center NB,2062
+630,333,1,14,333 Thaxton EB,3216
+631,5,1,26,5 Northcross WB,5499
+632,10,1,25,10 Norwood Transit Center NB,1666
+633,18,1,20,18 Exposition WB,4586
+634,2,0,14,2 EASTSIDE BUS PLAZA SB,3731
+635,310,1,15,310 S. Congress Transit Center WB,1194
+636,337,0,35,337 Mopac WB,4513
+637,837,1,4,837 Decker NB,6500
+638,20,0,15,20 Springdale NB,1032
+639,311,1,7,311 ACC RIVERSIDE EB,2337
+640,311,0,18,311 Westgate Transit Center WB,2491
+641,325,1,11,325 Tech Ridge Park & Ride NB,5612
+642,324,0,33,324 Highland EB,5510
+643,325,0,9,325 Norwood Transit Center SB,2567
+644,5,0,18,5 Tannehill EB,973
+645,322,1,16,322 Hancock Center NB,2063
+646,1,0,10,1 William Cannon SB,4696
+647,217,1,7,217 ACC Riverside SB,832
+648,243,1,14,243 Tech Ridge Park & Ride EB,5301
+649,310,0,1,310 ACC Riverside EB,5544
+650,350,1,14,350 ACC Riverside SB,3291
+651,383,1,1,383 North Lamar Transit Center SB,5229
+652,801,0,7,801 Tech Ridge Park & Ride NB,5552
+653,803,1,7,803 Westgate Transit Center SB,5849
+654,7,0,40,7 William Cannon SB,1193
+655,333,1,15,333 Thaxton EB,3217
+656,323,0,8,323 Northcross WB,1078
+657,30,1,22,30 Westgate Transit Center SB,1925
+658,10,0,43,10 Southpark Meadows SB,1662
+659,1,0,11,1 William Cannon SB,6528
+660,311,1,8,311 ACC RIVERSIDE EB,2338
+661,318,0,17,318 Thaxton EB,5478
+662,345,1,6,345 Hancock Center EB,977
+663,837,0,10,837 Downtown SB,1631
+664,318,1,6,318 Westgate Transit Center WB,6321
+665,7,1,43,7 Airport/Highland NB,1253
+666,135,0,2,135 Tech Ridge Park & Ride NB,3261
+667,10,1,26,10 Norwood Transit Center NB,1558
+668,310,1,16,310 S. Congress Transit Center WB,1195
+669,350,0,14,350 North Lamar Transit Center NB,3260
+670,300,1,9,300 Crestview Station NB,773
+671,18,1,21,18 Exposition WB,5992
+672,333,1,16,333 Thaxton EB,5594
+673,4,1,13,4 Shady EB,6461
+674,315,0,4,315 S. Congress Transit Center EB,6317
+675,5,1,27,5 Northcross WB,1970
+676,7,0,41,7 William Cannon SB,1194
+677,323,0,9,323 Northcross WB,1080
+678,350,1,15,350 ACC Riverside SB,5796
+679,2,0,15,2 EASTSIDE BUS PLAZA SB,5496
+680,311,0,19,311 Westgate Transit Center WB,4362
+681,801,1,14,801 Southpark Meadows SB,5357
+682,10,1,27,10 Norwood Transit Center NB,1559
+683,30,1,23,30 Westgate Transit Center SB,4650
+684,311,1,9,311 ACC RIVERSIDE EB,2339
+685,337,0,36,337 Mopac WB,4509
+686,800,1,7,800 Slaughter SB,1349
+687,1,0,12,1 William Cannon SB,5857
+688,318,0,18,318 Thaxton EB,2349
+689,335,0,11,335 Exposition WB,6279
+690,10,0,44,10 Southpark Meadows SB,1663
+691,315,1,3,315 Oak Hill WB,2176
+692,322,1,17,322 Hancock Center NB,2065
+693,333,0,15,333 Oak Hill WB,555
+694,800,0,4,800 Mueller NB,1220
+695,5,0,19,5 Tannehill EB,974
+696,323,0,10,323 Northcross WB,3281
+697,318,1,7,318 Westgate Transit Center WB,6327
+698,325,0,10,325 Norwood Transit Center SB,5614
+699,300,1,10,300 Crestview Station NB,2260
+700,310,1,17,310 S. Congress Transit Center WB,4325
+701,345,1,7,345 Hancock Center EB,978
+702,837,1,5,837 Decker NB,866
+703,350,0,15,350 North Lamar Transit Center NB,3261
+704,7,1,44,7 Airport/Highland NB,3491
+705,315,0,5,315 S. Congress Transit Center EB,6446
+706,7,0,42,7 William Cannon SB,1195
+707,135,0,3,135 Tech Ridge Park & Ride NB,3262
+708,322,1,18,322 Hancock Center NB,2066
+709,20,0,17,20 Springdale NB,1034
+710,5,1,28,5 Northcross WB,5424
+711,333,1,17,333 Thaxton EB,3220
+712,10,1,28,10 Norwood Transit Center NB,1560
+713,318,0,19,318 Thaxton EB,5994
+714,311,0,20,311 Westgate Transit Center WB,4364
+715,10,0,45,10 Southpark Meadows SB,1664
+716,324,0,34,324 Highland EB,1160
+717,333,0,16,333 Oak Hill WB,556
+718,345,1,8,345 Hancock Center EB,979
+719,4,1,14,4 Shady EB,5610
+720,5,0,20,5 Tannehill EB,4521
+721,325,1,12,325 Tech Ridge Park & Ride NB,3147
+722,800,0,5,800 Mueller NB,1222
+723,30,1,24,30 Westgate Transit Center SB,1927
+724,325,0,11,325 Norwood Transit Center SB,2751
+725,803,0,8,803 Domain NB,5498
+726,318,1,8,318 Westgate Transit Center WB,6479
+727,2,0,16,2 EASTSIDE BUS PLAZA SB,6382
+728,322,1,19,322 Hancock Center NB,2067
+729,350,1,16,350 ACC Riverside SB,6531
+730,323,0,11,323 Northcross WB,5849
+731,335,0,12,335 Exposition WB,6277
+732,1,1,28,1 Tech Ridge Park & Ride NB,591
+733,310,1,18,310 S. Congress Transit Center WB,4323
+734,318,0,20,318 Thaxton EB,5473
+735,315,1,4,315 Oak Hill WB,2177
+736,383,0,14,383 Lakeline Station NB,5916
+737,7,0,43,7 William Cannon SB,4325
+738,18,1,22,18 Exposition WB,501
+739,333,0,17,333 Oak Hill WB,3169
+740,30,1,25,30 Westgate Transit Center SB,1928
+741,135,0,4,135 Tech Ridge Park & Ride NB,5567
+742,345,1,9,345 Hancock Center EB,5979
+743,318,1,9,318 Westgate Transit Center WB,5968
+744,800,1,8,800 Slaughter SB,6516
+745,311,1,10,311 ACC RIVERSIDE EB,4223
+746,10,1,29,10 Norwood Transit Center NB,1561
+747,325,0,12,325 Norwood Transit Center SB,5356
+748,311,0,21,311 Westgate Transit Center WB,4275
+749,350,0,16,350 North Lamar Transit Center NB,3262
+750,5,0,21,5 Tannehill EB,5877
+751,5,1,29,5 Northcross WB,5995
+752,7,1,45,7 Airport/Highland NB,1256
+753,837,0,11,837 Downtown SB,5926
+754,4,1,15,4 Shady EB,934
+755,315,0,6,315 S. Congress Transit Center EB,6318
+756,333,1,18,333 Thaxton EB,3221
+757,322,1,20,322 Hancock Center NB,4186
+758,10,0,46,10 Southpark Meadows SB,1666
+759,5,1,30,5 Northcross WB,4089
+760,318,0,21,318 Thaxton EB,5924
+761,801,1,15,801 Southpark Meadows SB,5863
+762,1,1,29,1 Tech Ridge Park & Ride NB,593
+763,350,0,17,350 North Lamar Transit Center NB,5568
+764,1,0,13,1 William Cannon SB,5555
+765,310,0,2,310 ACC Riverside EB,5711
+766,310,1,19,310 S. Congress Transit Center WB,2169
+767,311,1,11,311 ACC RIVERSIDE EB,3109
+768,20,0,18,20 Springdale NB,1246
+769,350,1,17,350 ACC Riverside SB,3293
+770,30,1,26,30 Westgate Transit Center SB,1929
+771,333,0,18,333 Oak Hill WB,3170
+772,345,1,10,345 Hancock Center EB,4919
+773,30,0,4,30 NORTHCROSS NB,4494
+774,7,0,44,7 William Cannon SB,4323
+775,383,1,2,383 North Lamar Transit Center SB,5413
+776,325,0,13,325 Norwood Transit Center SB,2568
+777,1,1,30,1 Tech Ridge Park & Ride NB,5940
+778,18,1,23,18 Exposition WB,243
+779,318,0,22,318 Thaxton EB,5837
+780,318,1,10,318 Westgate Transit Center WB,6407
+781,325,1,13,325 Tech Ridge Park & Ride NB,3148
+782,333,1,19,333 Thaxton EB,3223
+783,3,1,23,3 Arboretum NB,758
+784,383,0,15,383 Lakeline Station NB,3016
+785,135,0,5,135 Tech Ridge Park & Ride NB,3266
+786,10,0,47,10 Southpark Meadows SB,1667
+787,311,0,22,311 Westgate Transit Center WB,3100
+788,310,1,20,310 S. Congress Transit Center WB,1199
+789,322,1,21,322 Hancock Center NB,4189
+790,4,1,16,4 Shady EB,935
+791,10,1,30,10 Norwood Transit Center NB,1562
+792,350,0,18,350 North Lamar Transit Center NB,5567
+793,323,0,12,323 Northcross WB,5851
+794,7,1,46,7 Airport/Highland NB,1257
+795,350,1,18,350 ACC Riverside SB,3295
+796,30,1,27,30 Westgate Transit Center SB,1930
+797,5,0,22,5 Tannehill EB,4528
+798,335,0,13,335 Exposition WB,5350
+799,837,0,12,837 Downtown SB,6293
+800,800,0,6,800 Mueller NB,6490
+801,837,1,6,837 Decker NB,3491
+802,333,0,19,333 Oak Hill WB,4398
+803,7,1,11,7 Crestview Station NB,6309
+804,325,1,14,325 Tech Ridge Park & Ride NB,3149
+805,7,1,47,7 Airport/Highland NB,1258
+806,30,1,28,30 Westgate Transit Center SB,1931
+807,5,1,31,5 Northcross WB,4156
+808,325,0,14,325 Norwood Transit Center SB,2569
+809,350,1,19,350 ACC Riverside SB,3296
+810,318,0,23,318 Thaxton EB,5840
+811,135,0,6,135 Tech Ridge Park & Ride NB,4191
+812,3,0,16,3 Southpark Meadows SB,5849
+813,311,1,12,311 ACC RIVERSIDE EB,3110
+814,315,0,7,315 S. Congress Transit Center EB,1750
+815,315,1,5,315 Oak Hill WB,6377
+816,383,0,16,383 Lakeline Station NB,2726
+817,392,1,1,392 Kramer Station WB,5281
+818,7,0,45,7 William Cannon SB,2169
+819,801,1,16,801 Southpark Meadows SB,497
+820,803,0,9,803 Domain NB,5868
+821,20,0,19,20 Springdale NB,4024
+822,322,1,22,322 Hancock Center NB,2863
+823,333,1,20,333 Thaxton EB,3224
+824,1,0,14,1 William Cannon SB,5858
+825,333,0,20,333 Oak Hill WB,3172
+826,345,1,11,345 Hancock Center EB,4529
+827,310,0,3,310 ACC Riverside EB,6444
+828,318,1,11,318 Westgate Transit Center WB,5416
+829,10,1,31,10 Norwood Transit Center NB,4065
+830,4,1,17,4 Shady EB,936
+831,311,0,23,311 Westgate Transit Center WB,4277
+832,5,0,23,5 Tannehill EB,4831
+833,335,0,14,335 Exposition WB,5351
+834,30,1,29,30 Westgate Transit Center SB,1932
+835,2,0,17,2 EASTSIDE BUS PLAZA SB,5937
+836,10,0,48,10 Southpark Meadows SB,1669
+837,7,0,46,7 William Cannon SB,1199
+838,315,1,6,315 Oak Hill WB,4235
+839,350,0,19,350 North Lamar Transit Center NB,3266
+840,7,1,48,7 Airport/Highland NB,1259
+841,333,1,21,333 Thaxton EB,4436
+842,383,0,17,383 Lakeline Station NB,3804
+843,318,1,12,318 Westgate Transit Center WB,3766
+844,311,1,13,311 ACC RIVERSIDE EB,4225
+845,30,1,30,30 Westgate Transit Center SB,1933
+846,837,0,13,837 Downtown SB,6291
+847,4,1,18,4 Shady EB,937
+848,800,1,9,800 Slaughter SB,1353
+849,5,1,32,5 Northcross WB,4154
+850,383,1,3,383 North Lamar Transit Center SB,6517
+851,325,1,15,325 Tech Ridge Park & Ride NB,3150
+852,333,0,21,333 Oak Hill WB,1685
+853,7,1,12,7 Crestview Station NB,6313
+854,10,0,49,10 Southpark Meadows SB,1671
+855,350,1,20,350 ACC Riverside SB,3297
+856,20,0,20,20 Springdale NB,1249
+857,323,0,13,323 Northcross WB,5854
+858,335,0,15,335 Exposition WB,809
+859,271,0,8,271 Grove WB,3324
+860,18,1,24,18 Exposition WB,1511
+861,310,0,4,310 ACC Riverside EB,5259
+862,311,1,14,311 ACC RIVERSIDE EB,3112
+863,5,0,24,5 Tannehill EB,5978
+864,315,1,7,315 Oak Hill WB,4231
+865,318,1,13,318 Westgate Transit Center WB,2933
+866,30,0,6,30 NORTHCROSS NB,2183
+867,4,1,19,4 Shady EB,938
+868,7,0,47,7 William Cannon SB,4318
+869,335,0,16,335 Exposition WB,2086
+870,1,0,15,1 William Cannon SB,4542
+871,10,1,32,10 Norwood Transit Center NB,1564
+872,333,1,22,333 Thaxton EB,4428
+873,800,1,10,800 Slaughter SB,4283
+874,325,0,15,325 Norwood Transit Center SB,5734
+875,350,0,20,350 North Lamar Transit Center NB,4191
+876,345,1,12,345 Hancock Center EB,2312
+877,325,1,16,325 Tech Ridge Park & Ride NB,2530
+878,311,0,24,311 Westgate Transit Center WB,3102
+879,7,1,49,7 Airport/Highland NB,1260
+880,322,1,23,322 Hancock Center NB,2864
+881,333,0,22,333 Oak Hill WB,1686
+882,5,0,25,5 Tannehill EB,2913
+883,300,1,14,300 Crestview Station NB,4044
+884,315,1,8,315 Oak Hill WB,1746
+885,7,0,48,7 William Cannon SB,4317
+886,18,1,25,18 Exposition WB,1513
+887,383,0,18,383 Lakeline Station NB,3806
+888,350,1,21,350 ACC Riverside SB,3298
+889,803,0,10,803 Domain NB,2606
+890,1,1,31,1 Tech Ridge Park & Ride NB,1042
+891,135,0,7,135 Tech Ridge Park & Ride NB,5918
+892,318,0,24,318 Thaxton EB,6334
+893,333,1,23,333 Thaxton EB,3226
+894,2,0,18,2 EASTSIDE BUS PLAZA SB,5938
+895,7,1,13,7 Crestview Station NB,1228
+896,803,1,10,803 Westgate Transit Center SB,684
+897,837,1,7,837 Decker NB,2006
+898,10,0,50,10 Southpark Meadows SB,1673
+899,30,0,7,30 NORTHCROSS NB,2184
+900,322,1,24,322 Hancock Center NB,2071
+901,311,1,15,311 ACC RIVERSIDE EB,3113
+902,310,1,21,310 S. Congress Transit Center WB,5240
+903,300,1,15,300 Crestview Station NB,4040
+904,315,1,9,315 Oak Hill WB,1747
+905,135,0,8,135 Tech Ridge Park & Ride NB,3271
+906,318,0,25,318 Thaxton EB,6469
+907,800,0,7,800 Mueller NB,6505
+908,333,0,23,333 Oak Hill WB,3173
+909,318,1,14,318 Westgate Transit Center WB,2934
+910,392,1,2,392 Kramer Station WB,5530
+911,10,1,33,10 Norwood Transit Center NB,1565
+912,3,1,27,3 Arboretum NB,4230
+913,322,1,25,322 Hancock Center NB,4738
+914,325,1,17,325 Tech Ridge Park & Ride NB,3152
+915,350,0,21,350 North Lamar Transit Center NB,5436
+916,383,0,19,383 Lakeline Station NB,4688
+917,7,0,49,7 William Cannon SB,1202
+918,30,1,31,30 Westgate Transit Center SB,1935
+919,325,0,16,325 Norwood Transit Center SB,4769
+920,800,1,11,800 Slaughter SB,4288
+921,311,0,25,311 Westgate Transit Center WB,3103
+922,335,0,17,335 Exposition WB,2087
+923,383,1,4,383 North Lamar Transit Center SB,5411
+924,7,1,14,7 Crestview Station NB,1229
+925,4,1,20,4 Shady EB,939
+926,18,1,26,18 Exposition WB,4157
+927,10,0,51,10 Southpark Meadows SB,1674
+928,311,1,16,311 ACC RIVERSIDE EB,3114
+929,318,1,15,318 Westgate Transit Center WB,2935
+930,801,1,17,801 Southpark Meadows SB,5866
+931,271,0,9,271 Grove WB,3238
+932,345,1,13,345 Hancock Center EB,3843
+933,350,1,22,350 ACC Riverside SB,3299
+934,20,0,21,20 Springdale NB,2767
+935,5,0,26,5 Tannehill EB,4125
+936,322,1,26,322 Hancock Center NB,4737
+937,7,1,50,7 Airport/Highland NB,1261
+938,7,0,50,7 William Cannon SB,5917
+939,837,0,14,837 Downtown SB,6497
+940,315,1,10,315 Oak Hill WB,1748
+941,350,0,22,350 North Lamar Transit Center NB,6532
+942,310,0,5,310 ACC Riverside EB,5663
+943,10,1,34,10 Norwood Transit Center NB,1566
+944,318,0,26,318 Thaxton EB,6484
+945,333,1,24,333 Thaxton EB,4424
+946,383,0,20,383 Lakeline Station NB,5290
+947,383,1,5,383 North Lamar Transit Center SB,3820
+948,300,1,16,300 Crestview Station NB,2266
+949,3,1,28,3 Arboretum NB,764
+950,333,0,24,333 Oak Hill WB,3174
+951,315,1,11,315 Oak Hill WB,4219
+952,335,0,18,335 Exposition WB,2088
+953,325,0,17,325 Norwood Transit Center SB,5822
+954,5,1,33,5 Northcross WB,4829
+955,311,1,17,311 ACC RIVERSIDE EB,5487
+956,310,0,6,310 ACC Riverside EB,1235
+957,337,0,43,337 Mopac WB,2475
+958,4,1,21,4 Shady EB,940
+959,7,1,51,7 Airport/Highland NB,1262
+960,315,1,12,315 Oak Hill WB,4220
+961,1,1,32,1 Tech Ridge Park & Ride NB,5864
+962,10,1,35,10 Norwood Transit Center NB,1567
+963,30,1,32,30 Westgate Transit Center SB,1936
+964,318,0,27,318 Thaxton EB,2663
+965,837,0,15,837 Downtown SB,1639
+966,311,0,26,311 Westgate Transit Center WB,4278
+967,300,1,17,300 Crestview Station NB,1465
+968,1,0,17,1 William Cannon SB,5445
+969,18,1,27,18 Exposition WB,1517
+970,333,1,25,333 Thaxton EB,3228
+971,7,1,15,7 Crestview Station NB,1230
+972,3,0,22,3 Southpark Meadows SB,5733
+973,310,0,7,310 ACC Riverside EB,5456
+974,837,1,8,837 Decker NB,1578
+975,350,1,23,350 ACC Riverside SB,3300
+976,325,1,18,325 Tech Ridge Park & Ride NB,4727
+977,7,0,51,7 William Cannon SB,1203
+978,383,1,6,383 North Lamar Transit Center SB,4465
+979,800,1,12,800 Slaughter SB,4298
+980,335,0,19,335 Exposition WB,2089
+981,383,0,21,383 Lakeline Station NB,3809
+982,5,1,34,5 Northcross WB,806
+983,300,1,18,300 Crestview Station NB,1466
+984,311,1,18,311 ACC RIVERSIDE EB,4393
+985,10,0,52,10 Southpark Meadows SB,1676
+986,311,0,27,311 Westgate Transit Center WB,4226
+987,18,1,28,18 Exposition WB,1519
+988,803,0,11,803 Domain NB,591
+989,318,0,28,318 Thaxton EB,4412
+990,325,0,18,325 Norwood Transit Center SB,5679
+991,800,0,8,800 Mueller NB,6507
+992,5,1,35,5 Northcross WB,807
+993,801,1,18,801 Southpark Meadows SB,2738
+994,310,0,8,310 ACC Riverside EB,4324
+995,311,1,19,311 ACC RIVERSIDE EB,3116
+996,1,1,33,1 Tech Ridge Park & Ride NB,5353
+997,311,0,28,311 Westgate Transit Center WB,4224
+998,324,1,1,324 Northcross WB,1160
+999,325,1,19,325 Tech Ridge Park & Ride NB,5680
+1000,333,0,1,333 Brush Country WB,5702
+1001,333,0,25,333 Oak Hill WB,3175
+1002,337,1,1,337 Decker EB,6408
+1003,392,0,1,392 Tech Ridge Park & Ride EB,5580
+1004,7,1,52,7 Airport/Highland NB,1263
+1005,350,1,24,350 ACC Riverside SB,5100
+1006,383,1,7,383 North Lamar Transit Center SB,4466
+1007,30,1,33,30 Westgate Transit Center SB,1938
+1008,350,0,23,350 North Lamar Transit Center NB,5918
+1009,5,1,36,5 Northcross WB,4646
+1010,4,1,22,4 Shady EB,942
+1011,322,1,27,322 Hancock Center NB,1785
+1012,383,0,22,383 Lakeline Station NB,3810
+1013,7,1,16,7 Crestview Station NB,1231
+1014,300,1,19,300 Crestview Station NB,1467
+1015,2,1,14,2 Springdale NB,6314
+1016,1,0,18,1 William Cannon SB,465
+1017,315,0,8,315 S. Congress Transit Center EB,2335
+1018,315,1,13,315 Oak Hill WB,5449
+1019,318,1,16,318 Westgate Transit Center WB,2938
+1020,837,1,9,837 Decker NB,1582
+1021,310,0,9,310 ACC Riverside EB,1237
+1022,333,1,26,333 Thaxton EB,3229
+1023,800,1,13,800 Slaughter SB,1356
+1024,837,0,16,837 Downtown SB,1642
+1025,18,1,29,18 Exposition WB,5754
+1026,318,0,29,318 Thaxton EB,4411
+1027,311,0,29,311 Westgate Transit Center WB,3105
+1028,335,0,20,335 Exposition WB,2090
+1029,1,1,34,1 Tech Ridge Park & Ride NB,5634
+1030,7,0,52,7 William Cannon SB,5712
+1031,30,1,34,30 Westgate Transit Center SB,1939
+1032,7,1,53,7 Airport/Highland NB,1264
+1033,333,0,26,333 Oak Hill WB,3177
+1034,271,0,10,271 Grove WB,3240
+1035,10,0,53,10 Southpark Meadows SB,2623
+1036,310,1,22,310 S. Congress Transit Center WB,5544
+1037,311,1,20,311 ACC RIVERSIDE EB,4276
+1038,322,1,28,322 Hancock Center NB,5283
+1039,325,0,19,325 Norwood Transit Center SB,5681
+1040,350,0,24,350 North Lamar Transit Center NB,3271
+1041,800,0,9,800 Mueller NB,6511
+1042,337,0,44,337 Mopac WB,2476
+1043,4,1,23,4 Shady EB,6450
+1044,392,1,3,392 Kramer Station WB,5328
+1045,837,1,10,837 Decker NB,5616
+1046,392,0,2,392 Tech Ridge Park & Ride EB,4970
+1047,5,1,37,5 Northcross WB,4830
+1048,315,1,14,315 Oak Hill WB,4470
+1049,300,1,20,300 Crestview Station NB,1474
+1050,315,0,9,315 S. Congress Transit Center EB,4218
+1051,3,1,31,3 Arboretum NB,767
+1052,333,1,27,333 Thaxton EB,3230
+1053,311,0,30,311 Westgate Transit Center WB,3106
+1054,1,0,19,1 William Cannon SB,467
+1055,333,0,2,333 Brush Country WB,5699
+1056,383,0,23,383 Lakeline Station NB,3811
+1057,7,1,17,7 Crestview Station NB,1232
+1058,325,1,20,325 Tech Ridge Park & Ride NB,5678
+1059,803,0,12,803 Domain NB,4657
+1060,310,0,10,310 ACC Riverside EB,1238
+1061,318,1,17,318 Westgate Transit Center WB,6480
+1062,20,0,22,20 Springdale NB,2643
+1063,350,1,25,350 ACC Riverside SB,3302
+1064,2,0,21,2 EASTSIDE BUS PLAZA SB,993
+1065,318,0,30,318 Thaxton EB,2974
+1066,333,1,28,333 Thaxton EB,3231
+1067,18,1,30,18 Exposition WB,5740
+1068,801,1,19,801 Southpark Meadows SB,2611
+1069,10,1,36,10 Norwood Transit Center NB,2643
+1070,335,0,21,335 Exposition WB,1423
+1071,324,1,2,324 Northcross WB,3276
+1072,1,1,35,1 Tech Ridge Park & Ride NB,603
+1073,30,1,35,30 Westgate Transit Center SB,1997
+1074,325,0,20,325 Norwood Transit Center SB,5682
+1075,10,0,54,10 Southpark Meadows SB,4394
+1076,315,0,10,315 S. Congress Transit Center EB,1754
+1077,300,1,21,300 Crestview Station NB,1475
+1078,333,0,3,333 Brush Country WB,6521
+1079,318,1,18,318 Westgate Transit Center WB,2666
+1080,311,1,21,311 ACC RIVERSIDE EB,4365
+1081,2,1,15,2 Springdale NB,6315
+1082,337,0,45,337 Mopac WB,6408
+1083,800,1,14,800 Slaughter SB,6512
+1084,7,1,54,7 Airport/Highland NB,1265
+1085,5,0,27,5 Tannehill EB,4153
+1086,7,0,53,7 William Cannon SB,1204
+1087,318,0,31,318 Thaxton EB,2975
+1088,392,1,4,392 Kramer Station WB,5329
+1089,383,1,8,383 North Lamar Transit Center SB,4656
+1090,311,0,31,311 Westgate Transit Center WB,5741
+1091,1,0,20,1 William Cannon SB,468
+1092,325,1,21,325 Tech Ridge Park & Ride NB,5823
+1093,310,0,11,310 ACC Riverside EB,1239
+1094,333,1,29,333 Thaxton EB,2917
+1095,335,0,22,335 Exposition WB,1424
+1096,30,1,36,30 Westgate Transit Center SB,1998
+1097,392,0,3,392 Tech Ridge Park & Ride EB,3021
+1098,800,0,10,800 Mueller NB,1027
+1099,333,0,27,333 Oak Hill WB,4429
+1100,2,0,22,2 EASTSIDE BUS PLAZA SB,5633
+1101,837,1,11,837 Decker NB,6091
+1102,350,0,25,350 North Lamar Transit Center NB,3272
+1103,333,1,30,333 Thaxton EB,2918
+1104,333,0,4,333 Brush Country WB,4361
+1105,801,0,11,801 Tech Ridge Park & Ride NB,2767
+1106,350,1,26,350 ACC Riverside SB,3303
+1107,310,0,12,310 ACC Riverside EB,1240
+1108,30,1,37,30 Westgate Transit Center SB,1999
+1109,315,1,15,315 Oak Hill WB,4471
+1110,318,0,32,318 Thaxton EB,2976
+1111,5,1,38,5 Northcross WB,1058
+1112,7,1,55,7 Airport/Highland NB,1267
+1113,801,1,20,801 Southpark Meadows SB,5867
+1114,837,0,17,837 Downtown SB,6498
+1115,990,1,1,990 Downtown/University of Texas WB,5777
+1116,300,1,22,300 Crestview Station NB,6511
+1117,325,1,22,325 Tech Ridge Park & Ride NB,4770
+1118,337,1,2,337 Decker EB,2419
+1119,10,0,55,10 Southpark Meadows SB,1682
+1120,1,1,36,1 Tech Ridge Park & Ride NB,604
+1121,18,1,31,18 Exposition WB,5723
+1122,315,0,11,315 S. Congress Transit Center EB,2216
+1123,10,1,37,10 Norwood Transit Center NB,6314
+1124,318,1,19,318 Westgate Transit Center WB,5842
+1125,2,0,23,2 EASTSIDE BUS PLAZA SB,995
+1126,392,0,4,392 Tech Ridge Park & Ride EB,4971
+1127,311,0,32,311 Westgate Transit Center WB,3107
+1128,4,1,24,4 Shady EB,6261
+1129,7,1,19,7 Crestview Station NB,5663
+1130,800,1,15,800 Slaughter SB,6508
+1131,271,0,11,271 Grove WB,3241
+1132,5,1,39,5 Northcross WB,1059
+1133,1,0,21,1 William Cannon SB,6452
+1134,311,1,22,311 ACC RIVERSIDE EB,4363
+1135,300,1,23,300 Crestview Station NB,4296
+1136,333,1,31,333 Thaxton EB,3234
+1137,333,0,28,333 Oak Hill WB,3178
+1138,5,0,28,5 Tannehill EB,4155
+1139,800,0,11,800 Mueller NB,1028
+1140,325,0,21,325 Norwood Transit Center SB,3129
+1141,383,0,24,383 Lakeline Station NB,5432
+1142,350,0,26,350 North Lamar Transit Center NB,3273
+1143,392,1,5,392 Kramer Station WB,5335
+1144,20,0,23,20 Springdale NB,5965
+1145,335,0,23,335 Exposition WB,1425
+1146,7,1,56,7 Airport/Highland NB,5494
+1147,324,1,3,324 Northcross WB,1274
+1148,383,1,9,383 North Lamar Transit Center SB,5514
+1149,318,0,33,318 Thaxton EB,3767
+1150,1,1,37,1 Tech Ridge Park & Ride NB,605
+1151,7,0,54,7 William Cannon SB,6312
+1152,837,1,12,837 Decker NB,6292
+1153,30,1,38,30 Westgate Transit Center SB,5349
+1154,350,0,27,350 North Lamar Transit Center NB,6340
+1155,383,0,25,383 Lakeline Station NB,3812
+1156,311,0,33,311 Westgate Transit Center WB,2367
+1157,5,1,40,5 Northcross WB,1060
+1158,325,1,23,325 Tech Ridge Park & Ride NB,2539
+1159,10,0,56,10 Southpark Meadows SB,2640
+1160,318,1,20,318 Westgate Transit Center WB,5843
+1161,335,0,24,335 Exposition WB,1426
+1162,7,1,21,7 Crestview Station NB,5456
+1163,803,1,13,803 Westgate Transit Center SB,5349
+1164,18,1,32,18 Exposition WB,4986
+1165,310,0,13,310 ACC Riverside EB,6511
+1166,2,1,16,2 Springdale NB,5209
+1167,337,1,3,337 Decker EB,4588
+1168,4,1,25,4 Shady EB,6263
+1169,350,0,28,350 North Lamar Transit Center NB,1794
+1170,310,0,14,310 ACC Riverside EB,4296
+1171,392,0,5,392 Tech Ridge Park & Ride EB,3022
+1172,383,1,10,383 North Lamar Transit Center SB,3823
+1173,333,1,32,333 Thaxton EB,4384
+1174,7,0,55,7 William Cannon SB,6311
+1175,1,1,38,1 Tech Ridge Park & Ride NB,606
+1176,325,0,22,325 Norwood Transit Center SB,3130
+1177,18,1,33,18 Exposition WB,4161
+1178,30,0,10,30 NORTHCROSS NB,2207
+1179,333,0,29,333 Oak Hill WB,4437
+1180,5,1,41,5 Northcross WB,1061
+1181,311,1,23,311 ACC RIVERSIDE EB,4331
+1182,350,0,29,350 North Lamar Transit Center NB,1795
+1183,30,1,39,30 Westgate Transit Center SB,5352
+1184,800,0,12,800 Mueller NB,5779
+1185,324,1,4,324 Northcross WB,1275
+1186,325,1,24,325 Tech Ridge Park & Ride NB,2540
+1187,7,1,22,7 Crestview Station NB,4324
+1188,10,0,57,10 Southpark Meadows SB,2626
+1189,1,0,22,1 William Cannon SB,5227
+1190,10,1,38,10 Norwood Transit Center NB,6315
+1191,18,1,34,18 Exposition WB,1983
+1192,300,1,24,300 Crestview Station NB,1027
+1193,315,0,12,315 S. Congress Transit Center EB,6377
+1194,318,0,34,318 Thaxton EB,5999
+1195,323,1,1,323 Norwood Transit Center EB,5854
+1196,333,1,33,333 Thaxton EB,550
+1197,350,1,27,350 ACC Riverside SB,6242
+1198,801,0,12,801 Tech Ridge Park & Ride NB,5868
+1199,803,0,13,803 Domain NB,5865
+1200,837,1,13,837 Decker NB,5925
+1201,2,0,24,2 EASTSIDE BUS PLAZA SB,2812
+1202,333,0,5,333 Brush Country WB,6482
+1203,350,0,30,350 North Lamar Transit Center NB,5493
+1204,337,1,4,337 Decker EB,2421
+1205,1,1,39,1 Tech Ridge Park & Ride NB,607
+1206,20,0,24,20 Springdale NB,591
+1207,315,1,16,315 Oak Hill WB,6395
+1208,325,0,23,325 Norwood Transit Center SB,2581
+1209,5,0,29,5 Tannehill EB,4090
+1210,333,0,30,333 Oak Hill WB,3179
+1211,4,1,26,4 Shady EB,6265
+1212,7,0,56,7 William Cannon SB,1212
+1213,311,0,34,311 Westgate Transit Center WB,4218
+1214,392,0,6,392 Tech Ridge Park & Ride EB,3023
+1215,10,0,58,10 Southpark Meadows SB,3763
+1216,383,1,11,383 North Lamar Transit Center SB,3824
+1217,7,1,23,7 Crestview Station NB,1237
+1218,333,1,34,333 Thaxton EB,551
+1219,311,1,24,311 ACC RIVERSIDE EB,2497
+1220,350,0,31,350 North Lamar Transit Center NB,1796
+1221,310,0,15,310 ACC Riverside EB,2271
+1222,801,1,21,801 Southpark Meadows SB,2763
+1223,5,1,42,5 Northcross WB,1062
+1224,800,1,16,800 Slaughter SB,6506
+1225,30,1,40,30 Westgate Transit Center SB,489
+1226,5,0,30,5 Tannehill EB,4088
+1227,837,0,18,837 Downtown SB,1179
+1228,324,1,5,324 Northcross WB,1276
+1229,800,0,13,800 Mueller NB,4284
+1230,7,1,57,7 Airport/Highland NB,1271
+1231,20,0,25,20 Springdale NB,593
+1232,325,1,25,325 Tech Ridge Park & Ride NB,2541
+1233,10,0,59,10 Southpark Meadows SB,2627
+1234,333,0,31,333 Oak Hill WB,3180
+1235,337,1,5,337 Decker EB,2422
+1236,383,0,26,383 Lakeline Station NB,2727
+1237,318,0,35,318 Thaxton EB,5380
+1238,318,1,21,318 Westgate Transit Center WB,5840
+1239,311,0,35,311 Westgate Transit Center WB,1754
+1240,300,1,25,300 Crestview Station NB,1028
+1241,310,0,16,310 ACC Riverside EB,1008
+1242,325,0,24,325 Norwood Transit Center SB,2582
+1243,333,1,35,333 Thaxton EB,552
+1244,1,1,40,1 Tech Ridge Park & Ride NB,608
+1245,2,1,17,2 Springdale NB,657
+1246,322,0,2,322 RBJ Center SB,1703
+1247,392,0,7,392 Tech Ridge Park & Ride EB,4972
+1248,803,0,14,803 Domain NB,5864
+1249,3,1,38,3 Arboretum NB,4072
+1250,383,1,12,383 North Lamar Transit Center SB,4958
+1251,20,0,26,20 Springdale NB,5940
+1252,2,0,25,2 EASTSIDE BUS PLAZA SB,1802
+1253,30,1,41,30 Westgate Transit Center SB,490
+1254,350,0,32,350 North Lamar Transit Center NB,1797
+1255,803,1,14,803 Westgate Transit Center SB,5357
+1256,7,1,24,7 Crestview Station NB,1238
+1257,10,1,39,10 Norwood Transit Center NB,864
+1258,800,0,14,800 Mueller NB,1364
+1259,271,0,12,271 Grove WB,6241
+1260,323,1,2,323 Norwood Transit Center EB,954
+1261,333,0,6,333 Brush Country WB,5383
+1262,5,0,31,5 Tannehill EB,4084
+1263,5,1,43,5 Northcross WB,1063
+1264,311,1,25,311 ACC RIVERSIDE EB,5713
+1265,325,1,26,325 Tech Ridge Park & Ride NB,5752
+1266,318,0,36,318 Thaxton EB,5623
+1267,2,1,18,2 Springdale NB,658
+1268,7,0,57,7 William Cannon SB,1213
+1269,801,0,13,801 Tech Ridge Park & Ride NB,2606
+1270,350,0,33,350 North Lamar Transit Center NB,6527
+1271,318,1,22,318 Westgate Transit Center WB,5838
+1272,1,1,41,1 Tech Ridge Park & Ride NB,609
+1273,3,0,34,3 Southpark Meadows SB,1999
+1274,310,0,17,310 ACC Riverside EB,1009
+1275,325,0,25,325 Norwood Transit Center SB,2583
+1276,333,0,7,333 Brush Country WB,2504
+1277,333,0,32,333 Oak Hill WB,3182
+1278,392,1,6,392 Kramer Station WB,5320
+1279,4,1,27,4 Shady EB,1368
+1280,311,0,36,311 Westgate Transit Center WB,2216
+1281,3,1,39,3 Arboretum NB,776
+1282,337,1,6,337 Decker EB,2423
+1283,392,0,8,392 Tech Ridge Park & Ride EB,4973
+1284,7,1,25,7 Crestview Station NB,1239
+1285,310,0,18,310 ACC Riverside EB,1010
+1286,5,1,44,5 Northcross WB,1064
+1287,315,1,17,315 Oak Hill WB,6320
+1288,383,1,13,383 North Lamar Transit Center SB,4959
+1289,333,1,36,333 Thaxton EB,5703
+1290,5,0,32,5 Tannehill EB,2107
+1291,30,1,42,30 Westgate Transit Center SB,5357
+1292,323,1,3,323 Norwood Transit Center EB,956
+1293,311,1,26,311 ACC RIVERSIDE EB,2499
+1294,3,0,35,3 Southpark Meadows SB,5349
+1295,318,0,37,318 Thaxton EB,6322
+1296,325,1,27,325 Tech Ridge Park & Ride NB,3036
+1297,2,1,19,2 Springdale NB,659
+1298,2,0,26,2 EASTSIDE BUS PLAZA SB,6272
+1299,324,1,6,324 Northcross WB,1278
+1300,5,0,33,5 Tannehill EB,2108
+1301,333,0,8,333 Brush Country WB,2505
+1302,300,1,26,300 Crestview Station NB,5779
+1303,7,0,58,7 William Cannon SB,1214
+1304,10,0,60,10 Southpark Meadows SB,2628
+1305,325,0,26,325 Norwood Transit Center SB,4539
+1306,5,1,45,5 Northcross WB,1065
+1307,350,0,34,350 North Lamar Transit Center NB,5602
+1308,383,1,14,383 North Lamar Transit Center SB,4960
+1309,318,1,23,318 Westgate Transit Center WB,5962
+1310,315,0,13,315 S. Congress Transit Center EB,2218
+1311,7,1,58,7 Airport/Highland NB,1797
+1312,322,0,3,322 RBJ Center SB,2012
+1313,392,1,7,392 Kramer Station WB,5321
+1314,7,1,26,7 Crestview Station NB,1240
+1315,310,0,19,310 ACC Riverside EB,1011
+1316,333,1,37,333 Thaxton EB,6520
+1317,1,1,42,1 Tech Ridge Park & Ride NB,610
+1318,325,1,28,325 Tech Ridge Park & Ride NB,5705
+1319,333,0,33,333 Oak Hill WB,3183
+1320,311,1,27,311 ACC RIVERSIDE EB,4335
+1321,5,0,34,5 Tannehill EB,2110
+1322,3,0,36,3 Southpark Meadows SB,5352
+1323,5,1,46,5 Northcross WB,1066
+1324,323,1,4,323 Norwood Transit Center EB,5508
+1325,383,1,15,383 North Lamar Transit Center SB,5792
+1326,318,1,24,318 Westgate Transit Center WB,4431
+1327,837,1,14,837 Decker NB,6495
+1328,803,1,15,803 Westgate Transit Center SB,5863
+1329,325,0,27,325 Norwood Transit Center SB,2585
+1330,350,1,28,350 ACC Riverside SB,3304
+1331,333,0,9,333 Brush Country WB,5137
+1332,10,0,61,10 Southpark Meadows SB,2629
+1333,801,1,22,801 Southpark Meadows SB,4029
+1334,7,1,59,7 Airport/Highland NB,6527
+1335,337,1,8,337 Decker EB,2425
+1336,2,0,27,2 EASTSIDE BUS PLAZA SB,6270
+1337,10,1,40,10 Norwood Transit Center NB,866
+1338,318,0,38,318 Thaxton EB,6319
+1339,30,1,43,30 Westgate Transit Center SB,2003
+1340,803,0,15,803 Domain NB,603
+1341,7,0,59,7 William Cannon SB,1215
+1342,800,1,17,800 Slaughter SB,6491
+1343,311,1,28,311 ACC RIVERSIDE EB,5826
+1344,311,0,37,311 Westgate Transit Center WB,6375
+1345,392,0,9,392 Tech Ridge Park & Ride EB,4550
+1346,5,0,35,5 Tannehill EB,2112
+1347,5,1,47,5 Northcross WB,1067
+1348,322,0,4,322 RBJ Center SB,2013
+1349,350,0,35,350 North Lamar Transit Center NB,1273
+1350,20,0,27,20 Springdale NB,1042
+1351,837,0,19,837 Downtown SB,916
+1352,325,1,29,325 Tech Ridge Park & Ride NB,5615
+1353,300,1,27,300 Crestview Station NB,4284
+1354,315,1,18,315 Oak Hill WB,6316
+1355,7,1,27,7 Crestview Station NB,1359
+1356,2,1,20,2 Springdale NB,661
+1357,3,0,37,3 Southpark Meadows SB,489
+1358,324,1,7,324 Northcross WB,5923
+1359,10,0,62,10 Southpark Meadows SB,3764
+1360,800,0,15,800 Mueller NB,6515
+1361,310,0,20,310 ACC Riverside EB,5774
+1362,333,0,34,333 Oak Hill WB,4435
+1363,333,1,38,333 Thaxton EB,2478
+1364,318,1,25,318 Westgate Transit Center WB,5476
+1365,323,1,5,323 Norwood Transit Center EB,3284
+1366,350,1,29,350 ACC Riverside SB,3306
+1367,392,0,10,392 Tech Ridge Park & Ride EB,3081
+1368,350,0,36,350 North Lamar Transit Center NB,5509
+1369,1,1,43,1 Tech Ridge Park & Ride NB,611
+1370,333,0,10,333 Brush Country WB,2507
+1371,5,1,48,5 Northcross WB,1068
+1372,322,0,5,322 RBJ Center SB,2014
+1373,801,0,14,801 Tech Ridge Park & Ride NB,591
+1374,3,0,38,3 Southpark Meadows SB,490
+1375,392,1,8,392 Kramer Station WB,5323
+1376,325,0,28,325 Norwood Transit Center SB,1289
+1377,311,1,29,311 ACC RIVERSIDE EB,5829
+1378,333,0,35,333 Oak Hill WB,3185
+1379,392,0,11,392 Tech Ridge Park & Ride EB,5951
+1380,315,0,14,315 S. Congress Transit Center EB,2220
+1381,315,1,19,315 Oak Hill WB,2617
+1382,350,1,30,350 ACC Riverside SB,5749
+1383,337,1,9,337 Decker EB,5393
+1384,7,1,60,7 Airport/Highland NB,5602
+1385,7,0,60,7 William Cannon SB,5383
+1386,803,1,16,803 Westgate Transit Center SB,497
+1387,990,1,2,990 Downtown/University of Texas WB,5696
+1388,310,0,21,310 ACC Riverside EB,1013
+1389,5,1,49,5 Northcross WB,1069
+1390,300,1,28,300 Crestview Station NB,1364
+1391,383,1,16,383 North Lamar Transit Center SB,4962
+1392,10,0,63,10 Southpark Meadows SB,4403
+1393,318,1,26,318 Westgate Transit Center WB,5963
+1394,324,1,8,324 Northcross WB,5922
+1395,2,0,28,2 EASTSIDE BUS PLAZA SB,6268
+1396,333,0,11,333 Brush Country WB,2508
+1397,2,1,21,2 Springdale NB,5627
+1398,333,0,36,333 Oak Hill WB,3186
+1399,350,1,31,350 ACC Riverside SB,3308
+1400,7,1,28,7 Crestview Station NB,1243
+1401,350,0,37,350 North Lamar Transit Center NB,2878
+1402,30,1,44,30 Westgate Transit Center SB,494
+1403,1,1,44,1 Tech Ridge Park & Ride NB,612
+1404,18,0,2,18 Springdale EB,1984
+1405,333,1,39,333 Thaxton EB,4355
+1406,323,1,6,323 Norwood Transit Center EB,3285
+1407,7,0,61,7 William Cannon SB,4353
+1408,392,0,12,392 Tech Ridge Park & Ride EB,3082
+1409,837,1,15,837 Decker NB,1594
+1410,3,0,39,3 Southpark Meadows SB,5357
+1411,383,0,27,383 Lakeline Station NB,5432
+1412,350,0,38,350 North Lamar Transit Center NB,1417
+1413,318,0,39,318 Thaxton EB,6323
+1414,10,0,64,10 Southpark Meadows SB,4915
+1415,5,1,50,5 Northcross WB,1070
+1416,325,1,30,325 Tech Ridge Park & Ride NB,2544
+1417,311,1,30,311 ACC RIVERSIDE EB,5832
+1418,337,1,10,337 Decker EB,2427
+1419,1,1,45,1 Tech Ridge Park & Ride NB,613
+1420,30,1,45,30 Westgate Transit Center SB,5863
+1421,800,0,16,800 Mueller NB,1369
+1422,315,0,15,315 S. Congress Transit Center EB,2221
+1423,333,0,37,333 Oak Hill WB,3187
+1424,333,0,12,333 Brush Country WB,4354
+1425,383,0,28,383 Lakeline Station NB,3812
+1426,2,1,22,2 Springdale NB,4171
+1427,350,1,32,350 ACC Riverside SB,834
+1428,7,1,29,7 Crestview Station NB,1244
+1429,271,0,13,271 Grove WB,5470
+1430,1,1,46,1 Tech Ridge Park & Ride NB,614
+1431,10,0,65,10 Southpark Meadows SB,5999
+1432,801,0,15,801 Tech Ridge Park & Ride NB,4657
+1433,310,0,22,310 ACC Riverside EB,1015
+1434,322,0,6,322 RBJ Center SB,2015
+1435,800,1,18,800 Slaughter SB,1212
+1436,2,0,29,2 EASTSIDE BUS PLAZA SB,6266
+1437,300,1,29,300 Crestview Station NB,1365
+1438,318,1,27,318 Westgate Transit Center WB,2357
+1439,837,0,20,837 Downtown SB,6499
+1440,18,0,3,18 Springdale EB,1985
+1441,318,0,40,318 Thaxton EB,6325
+1442,333,0,38,333 Oak Hill WB,3188
+1443,325,1,31,325 Tech Ridge Park & Ride NB,4833
+1444,20,0,28,20 Springdale NB,3512
+1445,1,0,30,1 William Cannon SB,476
+1446,801,1,23,801 Southpark Meadows SB,4046
+1447,324,1,9,324 Northcross WB,1282
+1448,3,0,40,3 Southpark Meadows SB,2003
+1449,392,0,13,392 Tech Ridge Park & Ride EB,3083
+1450,18,0,4,18 Springdale EB,1440
+1451,5,1,51,5 Northcross WB,1072
+1452,7,1,61,7 Airport/Highland NB,1273
+1453,350,1,33,350 ACC Riverside SB,3310
+1454,10,1,41,10 Norwood Transit Center NB,1253
+1455,1,1,47,1 Tech Ridge Park & Ride NB,5862
+1456,803,0,16,803 Domain NB,5351
+1457,325,0,29,325 Norwood Transit Center SB,6416
+1458,333,0,39,333 Oak Hill WB,4441
+1459,7,0,62,7 William Cannon SB,4352
+1460,392,0,14,392 Tech Ridge Park & Ride EB,6433
+1461,333,1,40,333 Thaxton EB,5121
+1462,333,0,13,333 Brush Country WB,2511
+1463,5,0,36,5 Tannehill EB,2643
+1464,10,0,66,10 Southpark Meadows SB,5380
+1465,7,1,30,7 Crestview Station NB,1361
+1466,383,0,29,383 Lakeline Station NB,3813
+1467,325,1,32,325 Tech Ridge Park & Ride NB,4795
+1468,2,1,23,2 Springdale NB,663
+1469,271,0,14,271 Grove WB,5434
+1470,318,1,28,318 Westgate Transit Center WB,2679
+1471,800,1,19,800 Slaughter SB,1213
+1472,324,1,10,324 Northcross WB,1283
+1473,7,1,62,7 Airport/Highland NB,5509
+1474,837,0,21,837 Downtown SB,6501
+1475,5,1,52,5 Northcross WB,1074
+1476,383,1,17,383 North Lamar Transit Center SB,5515
+1477,350,1,34,350 ACC Riverside SB,5191
+1478,20,0,29,20 Springdale NB,2004
+1479,392,0,15,392 Tech Ridge Park & Ride EB,5123
+1480,3,0,41,3 Southpark Meadows SB,494
+1481,392,1,9,392 Kramer Station WB,5324
+1482,1,0,31,1 William Cannon SB,5861
+1483,318,1,29,318 Westgate Transit Center WB,2680
+1484,325,1,33,325 Tech Ridge Park & Ride NB,4797
+1485,350,0,39,350 North Lamar Transit Center NB,5226
+1486,803,1,17,803 Westgate Transit Center SB,5866
+1487,10,0,67,10 Southpark Meadows SB,5623
+1488,7,1,31,7 Crestview Station NB,1032
+1489,30,1,46,30 Westgate Transit Center SB,497
+1490,10,1,42,10 Norwood Transit Center NB,3491
+1491,333,0,40,333 Oak Hill WB,4442
+1492,325,0,30,325 Norwood Transit Center SB,6417
+1493,800,0,17,800 Mueller NB,6489
+1494,18,0,5,18 Springdale EB,4158
+1495,5,1,53,5 Northcross WB,1075
+1496,1,1,48,1 Tech Ridge Park & Ride NB,617
+1497,310,0,23,310 ACC Riverside EB,2280
+1498,333,1,41,333 Thaxton EB,5159
+1499,3,0,42,3 Southpark Meadows SB,5863
+1500,837,1,16,837 Decker NB,1599
+1501,311,1,31,311 ACC RIVERSIDE EB,6468
+1502,803,0,17,803 Domain NB,4830
+1503,271,0,15,271 Grove WB,4692
+1504,383,0,30,383 Lakeline Station NB,4690
+1505,324,1,11,324 Northcross WB,1284
+1506,318,1,30,318 Westgate Transit Center WB,2360
+1507,325,1,34,325 Tech Ridge Park & Ride NB,4796
+1508,7,0,63,7 William Cannon SB,4350
+1509,315,0,16,315 S. Congress Transit Center EB,5655
+1510,350,1,35,350 ACC Riverside SB,3311
+1511,333,1,42,333 Thaxton EB,5136
+1512,300,1,30,300 Crestview Station NB,6515
+1513,837,0,22,837 Downtown SB,6502
+1514,10,0,68,10 Southpark Meadows SB,6322
+1515,2,1,24,2 Springdale NB,3932
+1516,5,1,54,5 Northcross WB,1076
+1517,318,1,31,318 Westgate Transit Center WB,2361
+1518,383,1,18,383 North Lamar Transit Center SB,5672
+1519,311,1,32,311 ACC RIVERSIDE EB,5833
+1520,315,1,20,315 Oak Hill WB,2597
+1521,323,1,7,323 Norwood Transit Center EB,5226
+1522,3,1,44,3 Arboretum NB,5498
+1523,333,1,43,333 Thaxton EB,2482
+1524,392,1,10,392 Kramer Station WB,5325
+1525,5,0,37,5 Tannehill EB,6314
+1526,30,1,47,30 Westgate Transit Center SB,498
+1527,383,0,31,383 Lakeline Station NB,5671
+1528,333,0,14,333 Brush Country WB,5704
+1529,2,0,30,2 EASTSIDE BUS PLAZA SB,6414
+1530,7,1,32,7 Crestview Station NB,6443
+1531,271,0,16,271 Grove WB,3248
+1532,318,0,41,318 Thaxton EB,6328
+1533,325,0,31,325 Norwood Transit Center SB,4721
+1534,18,0,6,18 Springdale EB,1444
+1535,1,1,49,1 Tech Ridge Park & Ride NB,618
+1536,801,1,24,801 Southpark Meadows SB,5870
+1537,310,0,24,310 ACC Riverside EB,5043
+1538,333,0,41,333 Oak Hill WB,3193
+1539,10,1,43,10 Norwood Transit Center NB,1256
+1540,318,1,32,318 Westgate Transit Center WB,2362
+1541,20,0,30,20 Springdale NB,2006
+1542,350,1,36,350 ACC Riverside SB,951
+1543,324,1,12,324 Northcross WB,1285
+1544,803,1,18,803 Westgate Transit Center SB,2738
+1545,5,1,55,5 Northcross WB,1077
+1546,271,0,17,271 Grove WB,3249
+1547,243,0,1,243 Howard Station WB,5301
+1548,300,1,31,300 Crestview Station NB,1368
+1549,333,1,44,333 Thaxton EB,2483
+1550,7,1,63,7 Airport/Highland NB,5604
+1551,800,1,20,800 Slaughter SB,6509
+1552,801,0,16,801 Tech Ridge Park & Ride NB,5865
+1553,837,1,17,837 Decker NB,1601
+1554,7,0,64,7 William Cannon SB,5757
+1555,3,0,43,3 Southpark Meadows SB,497
+1556,333,0,42,333 Oak Hill WB,5491
+1557,311,1,33,311 ACC RIVERSIDE EB,5835
+1558,392,1,11,392 Kramer Station WB,4554
+1559,7,1,33,7 Crestview Station NB,1034
+1560,135,0,9,135 Tech Ridge Park & Ride NB,4672
+1561,333,1,45,333 Thaxton EB,5398
+1562,350,1,37,350 ACC Riverside SB,2280
+1563,1,1,50,1 Tech Ridge Park & Ride NB,5860
+1564,318,1,33,318 Westgate Transit Center WB,2363
+1565,325,1,35,325 Tech Ridge Park & Ride NB,5520
+1566,333,0,43,333 Oak Hill WB,4444
+1567,18,0,7,18 Springdale EB,1446
+1568,5,1,56,5 Northcross WB,1078
+1569,800,0,18,800 Mueller NB,3262
+1570,324,1,13,324 Northcross WB,1286
+1571,392,1,12,392 Kramer Station WB,4553
+1572,3,0,44,3 Southpark Meadows SB,498
+1573,10,1,44,10 Norwood Transit Center NB,2005
+1574,310,0,25,310 ACC Riverside EB,953
+1575,7,0,65,7 William Cannon SB,4345
+1576,271,0,18,271 Grove WB,950
+1577,300,1,32,300 Crestview Station NB,1369
+1578,10,0,69,10 Southpark Meadows SB,5263
+1579,2,1,25,2 Springdale NB,665
+1580,315,0,17,315 S. Congress Transit Center EB,5551
+1581,325,0,32,325 Norwood Transit Center SB,3134
+1582,333,0,44,333 Oak Hill WB,4447
+1583,550,0,1,550 Downtown Station SB,5542
+1584,30,1,48,30 Westgate Transit Center SB,501
+1585,333,0,15,333 Brush Country WB,555
+1586,801,0,17,801 Tech Ridge Park & Ride NB,5864
+1587,5,1,57,5 Northcross WB,1080
+1588,803,0,18,803 Domain NB,1058
+1589,318,1,34,318 Westgate Transit Center WB,2364
+1590,1,1,51,1 Tech Ridge Park & Ride NB,2878
+1591,392,0,16,392 Tech Ridge Park & Ride EB,3087
+1592,350,1,38,350 ACC Riverside SB,5043
+1593,271,0,19,271 Grove WB,951
+1594,333,1,46,333 Thaxton EB,6481
+1595,5,0,38,5 Tannehill EB,6315
+1596,803,1,19,803 Westgate Transit Center SB,2611
+1597,325,1,36,325 Tech Ridge Park & Ride NB,4822
+1598,325,0,33,325 Norwood Transit Center SB,3135
+1599,5,1,58,5 Northcross WB,3281
+1600,311,1,34,311 ACC RIVERSIDE EB,4310
+1601,333,0,45,333 Oak Hill WB,5055
+1602,392,1,13,392 Kramer Station WB,4551
+1603,1,1,52,1 Tech Ridge Park & Ride NB,1417
+1604,3,1,45,3 Arboretum NB,5868
+1605,2,1,26,2 Springdale NB,5392
+1606,383,0,32,383 Lakeline Station NB,5649
+1607,271,0,20,271 Grove WB,2280
+1608,333,0,16,333 Brush Country WB,556
+1609,337,1,14,337 Decker EB,1160
+1610,392,0,17,392 Tech Ridge Park & Ride EB,3088
+1611,135,0,10,135 Tech Ridge Park & Ride NB,4671
+1612,7,1,64,7 Airport/Highland NB,2877
+1613,300,1,33,300 Crestview Station NB,1372
+1614,7,1,34,7 Crestview Station NB,1246
+1615,20,0,31,20 Springdale NB,4186
+1616,325,0,34,325 Norwood Transit Center SB,3136
+1617,837,1,18,837 Decker NB,1603
+1618,324,1,14,324 Northcross WB,3147
+1619,350,1,39,350 ACC Riverside SB,953
+1620,392,1,14,392 Kramer Station WB,3895
+1621,3,0,45,3 Southpark Meadows SB,501
+1622,325,1,37,325 Tech Ridge Park & Ride NB,5521
+1623,333,0,17,333 Brush Country WB,3169
+1624,1,1,53,1 Tech Ridge Park & Ride NB,622
+1625,333,0,46,333 Oak Hill WB,3196
+1626,323,1,8,323 Norwood Transit Center EB,5647
+1627,5,1,59,5 Northcross WB,5849
+1628,311,1,35,311 ACC RIVERSIDE EB,2279
+1629,300,1,34,300 Crestview Station NB,1373
+1630,325,1,38,325 Tech Ridge Park & Ride NB,5659
+1631,2,0,31,2 EASTSIDE BUS PLAZA SB,6447
+1632,30,1,49,30 Westgate Transit Center SB,2738
+1633,310,0,26,310 ACC Riverside EB,6439
+1634,392,1,15,392 Kramer Station WB,4964
+1635,801,1,25,801 Southpark Meadows SB,5553
+1636,803,1,20,803 Westgate Transit Center SB,5867
+1637,5,0,39,5 Tannehill EB,864
+1638,383,1,19,383 North Lamar Transit Center SB,5650
+1639,392,0,18,392 Tech Ridge Park & Ride EB,3089
+1640,7,1,65,7 Airport/Highland NB,5510
+1641,2,1,27,2 Springdale NB,666
+1642,333,1,47,333 Thaxton EB,4357
+1643,318,1,35,318 Westgate Transit Center WB,3107
+1644,20,0,32,20 Springdale NB,1578
+1645,325,0,35,325 Norwood Transit Center SB,4557
+1646,243,0,2,243 Howard Station WB,5770
+1647,837,1,19,837 Decker NB,3655
+1648,333,0,18,333 Brush Country WB,3170
+1649,3,1,46,3 Arboretum NB,2606
+1650,10,1,45,10 Norwood Transit Center NB,4144
+1651,801,0,18,801 Tech Ridge Park & Ride NB,603
+1652,392,1,16,392 Kramer Station WB,5014
+1653,7,0,66,7 William Cannon SB,553
+1654,333,0,47,333 Oak Hill WB,3197
+1655,7,1,35,7 Crestview Station NB,4024
+1656,392,0,19,392 Tech Ridge Park & Ride EB,3090
+1657,135,0,11,135 Tech Ridge Park & Ride NB,5274
+1658,3,0,46,3 Southpark Meadows SB,2738
+1659,324,1,15,324 Northcross WB,3148
+1660,350,1,40,350 ACC Riverside SB,6439
+1661,318,1,36,318 Westgate Transit Center WB,2367
+1662,300,1,35,300 Crestview Station NB,5150
+1663,333,1,48,333 Thaxton EB,3901
+1664,383,0,33,383 Lakeline Station NB,5673
+1665,5,1,60,5 Northcross WB,5851
+1666,800,0,19,800 Mueller NB,5616
+1667,392,1,17,392 Kramer Station WB,4965
+1668,30,1,50,30 Westgate Transit Center SB,5950
+1669,333,0,19,333 Brush Country WB,4398
+1670,20,0,33,20 Springdale NB,1580
+1671,324,1,16,324 Northcross WB,3149
+1672,311,1,36,311 ACC RIVERSIDE EB,2280
+1673,318,0,42,318 Thaxton EB,6338
+1674,325,1,39,325 Tech Ridge Park & Ride NB,5345
+1675,2,1,28,2 Springdale NB,667
+1676,801,1,26,801 Southpark Meadows SB,6356
+1677,322,0,17,322 RBJ Center SB,2028
+1678,333,1,49,333 Thaxton EB,6522
+1679,1,1,54,1 Tech Ridge Park & Ride NB,5227
+1680,10,1,46,10 Norwood Transit Center NB,2493
+1681,392,0,20,392 Tech Ridge Park & Ride EB,3091
+1682,7,1,36,7 Crestview Station NB,1249
+1683,7,1,66,7 Airport/Highland NB,5603
+1684,7,0,67,7 William Cannon SB,5377
+1685,800,1,21,800 Slaughter SB,6441
+1686,803,0,19,803 Domain NB,817
+1687,837,0,23,837 Downtown SB,2112
+1688,333,0,48,333 Oak Hill WB,6391
+1689,333,0,20,333 Brush Country WB,3172
+1690,803,1,21,803 Westgate Transit Center SB,716
+1691,383,0,34,383 Lakeline Station NB,4952
+1692,392,1,18,392 Kramer Station WB,3010
+1693,311,1,37,311 ACC RIVERSIDE EB,5043
+1694,5,0,40,5 Tannehill EB,1113
+1695,300,1,36,300 Crestview Station NB,5130
+1696,318,1,37,318 Westgate Transit Center WB,4218
+1697,3,0,47,3 Southpark Meadows SB,2611
+1698,20,0,34,20 Springdale NB,1582
+1699,325,0,36,325 Norwood Transit Center SB,2439
+1700,10,1,47,10 Norwood Transit Center NB,4147
+1701,383,1,20,383 North Lamar Transit Center SB,3829
+1702,333,0,21,333 Brush Country WB,1685
+1703,337,1,18,337 Decker EB,5104
+1704,5,1,61,5 Northcross WB,5854
+1705,801,0,19,801 Tech Ridge Park & Ride NB,606
+1706,2,1,29,2 Springdale NB,668
+1707,318,1,38,318 Westgate Transit Center WB,1754
+1708,392,1,19,392 Kramer Station WB,3011
+1709,30,1,51,30 Westgate Transit Center SB,2613
+1710,837,1,20,837 Decker NB,1608
+1711,800,0,20,800 Mueller NB,6091
+1712,333,1,50,333 Thaxton EB,5700
+1713,311,1,38,311 ACC RIVERSIDE EB,953
+1714,324,1,17,324 Northcross WB,6256
+1715,337,1,19,337 Decker EB,4713
+1716,803,0,20,803 Domain NB,822
+1717,300,1,37,300 Crestview Station NB,1377
+1718,243,0,3,243 Howard Station WB,5769
+1719,333,0,22,333 Brush Country WB,1686
+1720,5,0,41,5 Tannehill EB,1114
+1721,322,0,20,322 RBJ Center SB,2032
+1722,20,0,35,20 Springdale NB,5616
+1723,325,1,40,325 Tech Ridge Park & Ride NB,5302
+1724,3,0,48,3 Southpark Meadows SB,5867
+1725,10,1,48,10 Norwood Transit Center NB,1784
+1726,7,1,37,7 Crestview Station NB,2767
+1727,1,1,55,1 Tech Ridge Park & Ride NB,623
+1728,383,0,35,383 Lakeline Station NB,4953
+1729,18,0,10,18 Springdale EB,2522
+1730,300,1,38,300 Crestview Station NB,5465
+1731,325,0,37,325 Norwood Transit Center SB,5447
+1732,318,1,39,318 Westgate Transit Center WB,2216
+1733,322,0,21,322 RBJ Center SB,2033
+1734,324,1,18,324 Northcross WB,6250
+1735,333,0,49,333 Oak Hill WB,6392
+1736,333,0,23,333 Brush Country WB,3173
+1737,2,1,30,2 Springdale NB,3722
+1738,20,0,36,20 Springdale NB,5617
+1739,322,0,22,322 RBJ Center SB,6330
+1740,333,1,51,333 Thaxton EB,5798
+1741,383,1,21,383 North Lamar Transit Center SB,3830
+1742,800,0,21,800 Mueller NB,6292
+1743,10,1,49,10 Norwood Transit Center NB,1785
+1744,801,1,27,801 Southpark Meadows SB,546
+1745,318,0,43,318 Thaxton EB,5700
+1746,392,1,20,392 Kramer Station WB,3012
+1747,5,0,42,5 Tannehill EB,4173
+1748,18,0,11,18 Springdale EB,2768
+1749,300,1,39,300 Crestview Station NB,4534
+1750,311,1,39,311 ACC RIVERSIDE EB,6439
+1751,323,1,9,323 Norwood Transit Center EB,6424
+1752,3,1,48,3 Arboretum NB,593
+1753,392,0,21,392 Tech Ridge Park & Ride EB,5336
+1754,20,0,37,20 Springdale NB,6289
+1755,383,0,36,383 Lakeline Station NB,4954
+1756,1,1,56,1 Tech Ridge Park & Ride NB,6451
+1757,801,1,28,801 Southpark Meadows SB,5871
+1758,337,1,20,337 Decker EB,3496
+1759,333,0,24,333 Brush Country WB,3174
+1760,18,0,12,18 Springdale EB,5624
+1761,324,1,19,324 Northcross WB,6253
+1762,10,1,50,10 Norwood Transit Center NB,6336
+1763,333,1,52,333 Thaxton EB,5701
+1764,392,1,21,392 Kramer Station WB,4967
+1765,243,0,4,243 Howard Station WB,5766
+1766,300,1,40,300 Crestview Station NB,1379
+1767,20,0,38,20 Springdale NB,4524
+1768,803,0,21,803 Domain NB,826
+1769,2,1,31,2 Springdale NB,669
+1770,3,1,49,3 Arboretum NB,5940
+1771,325,0,38,325 Norwood Transit Center SB,6421
+1772,333,1,53,333 Thaxton EB,5702
+1773,383,0,37,383 Lakeline Station NB,4955
+1774,383,1,22,383 North Lamar Transit Center SB,2727
+1775,803,1,22,803 Westgate Transit Center SB,4070
+1776,801,0,20,801 Tech Ridge Park & Ride NB,610
+1777,392,0,22,392 Tech Ridge Park & Ride EB,5330
+1778,337,1,21,337 Decker EB,2432
+1779,1,1,57,1 Tech Ridge Park & Ride NB,624
+1780,322,0,23,322 RBJ Center SB,2039
+1781,10,1,51,10 Norwood Transit Center NB,1787
+1782,837,1,21,837 Decker NB,4614
+1783,18,0,13,18 Springdale EB,4183
+1784,20,0,39,20 Springdale NB,1588
+1785,383,0,38,383 Lakeline Station NB,4956
+1786,318,0,44,318 Thaxton EB,5798
+1787,392,0,23,392 Tech Ridge Park & Ride EB,5331
+1788,392,1,22,392 Kramer Station WB,4968
+1789,30,1,52,30 Westgate Transit Center SB,1655
+1790,318,1,40,318 Westgate Transit Center WB,6379
+1791,333,0,25,333 Brush Country WB,3175
+1792,333,0,50,333 Oak Hill WB,2597
+1793,5,0,43,5 Tannehill EB,2856
+1794,985,0,1,985 Downtown/University of Texas SB,5387
+1795,324,1,20,324 Northcross WB,6254
+1796,337,1,22,337 Decker EB,2433
+1797,10,1,52,10 Norwood Transit Center NB,4529
+1798,300,1,41,300 Crestview Station NB,1381
+1799,18,0,14,18 Springdale EB,870
+1800,5,0,44,5 Tannehill EB,1118
+1801,243,0,5,243 Howard Station WB,5764
+1802,3,0,49,3 Southpark Meadows SB,716
+1803,30,1,53,30 Westgate Transit Center SB,1718
+1804,1,1,58,1 Tech Ridge Park & Ride NB,6348
+1805,322,0,24,322 RBJ Center SB,2040
+1806,337,1,23,337 Decker EB,6431
+1807,803,1,23,803 Westgate Transit Center SB,2324
+1808,7,1,38,7 Crestview Station NB,2643
+1809,333,0,26,333 Brush Country WB,3177
+1810,383,0,39,383 Lakeline Station NB,4957
+1811,1,1,59,1 Tech Ridge Park & Ride NB,627
+1812,30,0,28,30 NORTHCROSS NB,593
+1813,800,0,22,800 Mueller NB,5926
+1814,801,1,29,801 Southpark Meadows SB,5872
+1815,803,0,22,803 Domain NB,829
+1816,30,1,54,30 Westgate Transit Center SB,2155
+1817,18,0,15,18 Springdale EB,872
+1818,322,0,25,322 RBJ Center SB,2041
+1819,837,1,22,837 Decker NB,2416
+1820,20,0,40,20 Springdale NB,1589
+1821,300,1,42,300 Crestview Station NB,1382
+1822,30,0,29,30 NORTHCROSS NB,5940
+1823,318,0,45,318 Thaxton EB,5701
+1824,5,0,45,5 Tannehill EB,5747
+1825,801,0,21,801 Tech Ridge Park & Ride NB,612
+1826,1,1,60,1 Tech Ridge Park & Ride NB,628
+1827,383,0,40,383 Lakeline Station NB,3818
+1828,335,1,9,335 Berkman EB,6276
+1829,383,1,23,383 North Lamar Transit Center SB,3831
+1830,5,0,46,5 Tannehill EB,1121
+1831,392,0,24,392 Tech Ridge Park & Ride EB,4672
+1832,318,0,46,318 Thaxton EB,5702
+1833,392,1,23,392 Kramer Station WB,4761
+1834,1,1,61,1 Tech Ridge Park & Ride NB,3075
+1835,337,1,24,337 Decker EB,5782
+1836,30,1,55,30 Westgate Transit Center SB,4630
+1837,3,0,50,3 Southpark Meadows SB,717
+1838,333,0,27,333 Brush Country WB,4429
+1839,300,1,43,300 Crestview Station NB,1383
+1840,10,1,53,10 Norwood Transit Center NB,3291
+1841,335,1,10,335 Berkman EB,6278
+1842,7,1,39,7 Crestview Station NB,6314
+1843,3,1,50,3 Arboretum NB,1042
+1844,20,0,41,20 Springdale NB,6495
+1845,243,0,6,243 Howard Station WB,5976
+1846,383,0,41,383 Lakeline Station NB,4654
+1847,333,0,28,333 Brush Country WB,3178
+1848,324,1,21,324 Northcross WB,3155
+1849,5,0,47,5 Tannehill EB,1123
+1850,30,1,56,30 Westgate Transit Center SB,2160
+1851,383,1,24,383 North Lamar Transit Center SB,3832
+1852,1,1,62,1 Tech Ridge Park & Ride NB,2821
+1853,801,0,22,801 Tech Ridge Park & Ride NB,5862
+1854,392,1,24,392 Kramer Station WB,5791
+1855,803,1,24,803 Westgate Transit Center SB,2328
+1856,803,0,23,803 Domain NB,4570
+1857,392,0,25,392 Tech Ridge Park & Ride EB,5332
+1858,337,1,25,337 Decker EB,2393
+1859,243,0,7,243 Howard Station WB,4818
+1860,335,1,11,335 Berkman EB,6280
+1861,30,1,57,30 Westgate Transit Center SB,2202
+1862,383,0,42,383 Lakeline Station NB,5785
+1863,20,0,42,20 Springdale NB,1592
+1864,322,0,26,322 RBJ Center SB,5427
+1865,300,1,44,300 Crestview Station NB,1384
+1866,1,1,63,1 Tech Ridge Park & Ride NB,4541
+1867,324,1,22,324 Northcross WB,4729
+1868,10,1,54,10 Norwood Transit Center NB,5669
+1869,333,0,29,333 Brush Country WB,4437
+1870,392,1,25,392 Kramer Station WB,5580
+1871,800,1,22,800 Slaughter SB,6504
+1872,5,0,48,5 Tannehill EB,4200
+1873,18,0,19,18 Springdale EB,5802
+1874,337,1,26,337 Decker EB,2394
+1875,1,1,64,1 Tech Ridge Park & Ride NB,5517
+1876,324,1,23,324 Northcross WB,4730
+1877,243,0,8,243 Howard Station WB,4816
+1878,3,0,51,3 Southpark Meadows SB,2322
+1879,333,0,30,333 Brush Country WB,3179
+1880,803,1,25,803 Westgate Transit Center SB,5879
+1881,300,1,45,300 Crestview Station NB,1385
+1882,30,0,30,30 NORTHCROSS NB,1042
+1883,30,1,58,30 Westgate Transit Center SB,4079
+1884,322,0,27,322 RBJ Center SB,1957
+1885,20,0,43,20 Springdale NB,1594
+1886,383,0,43,383 Lakeline Station NB,4655
+1887,324,1,24,324 Northcross WB,4732
+1888,335,1,12,335 Berkman EB,6282
+1889,337,1,27,337 Decker EB,5707
+1890,5,0,49,5 Tannehill EB,1126
+1891,7,1,40,7 Crestview Station NB,6315
+1892,7,0,1,7 Willaim Cannon SB,5603
+1893,803,0,24,803 Domain NB,4572
+1894,333,0,31,333 Brush Country WB,3180
+1895,383,1,25,383 North Lamar Transit Center SB,3833
+1896,3,1,51,3 Arboretum NB,5864
+1897,801,1,30,801 Southpark Meadows SB,6361
+1898,20,0,44,20 Springdale NB,1595
+1899,243,0,9,243 Howard Station WB,4814
+1900,10,1,55,10 Norwood Transit Center NB,6332
+1901,1,1,65,1 Tech Ridge Park & Ride NB,4543
+1902,30,1,59,30 Westgate Transit Center SB,2206
+1903,300,1,46,300 Crestview Station NB,1387
+1904,20,0,45,20 Springdale NB,4805
+1905,5,0,50,5 Tannehill EB,1127
+1906,3,0,52,3 Southpark Meadows SB,4070
+1907,300,1,47,300 Crestview Station NB,4742
+1908,322,0,28,322 RBJ Center SB,6404
+1909,324,1,25,324 Northcross WB,3033
+1910,333,0,32,333 Brush Country WB,3182
+1911,337,1,28,337 Decker EB,2396
+1912,392,0,26,392 Tech Ridge Park & Ride EB,5281
+1913,1,1,66,1 Tech Ridge Park & Ride NB,4545
+1914,7,0,2,7 Willaim Cannon SB,6526
+1915,10,1,56,10 Norwood Transit Center NB,6409
+1916,243,0,10,243 Howard Station WB,5929
+1917,7,1,41,7 Crestview Station NB,864
+1918,3,1,52,3 Arboretum NB,5353
+1919,801,0,23,801 Tech Ridge Park & Ride NB,5860
+1920,335,1,13,335 Berkman EB,2012
+1921,30,1,60,30 Westgate Transit Center SB,4166
+1922,383,1,26,383 North Lamar Transit Center SB,3834
+1923,5,0,51,5 Tannehill EB,1128
+1924,7,0,3,7 Willaim Cannon SB,5625
+1925,324,1,26,324 Northcross WB,4734
+1926,803,1,26,803 Westgate Transit Center SB,6358
+1927,300,1,48,300 Crestview Station NB,4743
+1928,243,0,11,243 Howard Station WB,5277
+1929,30,0,31,30 NORTHCROSS NB,5864
+1930,18,0,22,18 Springdale EB,880
+1931,214,0,1,214 Lago Vista WB,5228
+1932,801,1,31,801 Southpark Meadows SB,5873
+1933,803,0,25,803 Domain NB,4757
+1934,837,1,23,837 Decker NB,6183
+1935,990,1,3,990 Downtown/University of Texas WB,5776
+1936,3,0,53,3 Southpark Meadows SB,5635
+1937,337,1,29,337 Decker EB,2397
+1938,3,1,53,3 Arboretum NB,5634
+1939,1,1,67,1 Tech Ridge Park & Ride NB,4548
+1940,20,0,46,20 Springdale NB,1599
+1941,18,0,23,18 Springdale EB,881
+1942,3,0,54,3 Southpark Meadows SB,2324
+1943,335,1,14,335 Berkman EB,2013
+1944,243,0,12,243 Howard Station WB,5339
+1945,10,1,57,10 Norwood Transit Center NB,5925
+1946,5,0,52,5 Tannehill EB,4668
+1947,383,1,27,383 North Lamar Transit Center SB,6093
+1948,383,0,44,383 Lakeline Station NB,5653
+1949,337,1,30,337 Decker EB,2398
+1950,1,1,68,1 Tech Ridge Park & Ride NB,3080
+1951,324,1,27,324 Northcross WB,5575
+1952,550,0,2,550 Downtown Station SB,5541
+1953,300,1,49,300 Crestview Station NB,6296
+1954,18,0,24,18 Springdale EB,882
+1955,335,1,15,335 Berkman EB,6285
+1956,20,0,47,20 Springdale NB,1600
+1957,3,0,55,3 Southpark Meadows SB,722
+1958,30,0,32,30 NORTHCROSS NB,5353
+1959,7,0,4,7 Willaim Cannon SB,1164
+1960,803,1,27,803 Westgate Transit Center SB,2334
+1961,1,1,69,1 Tech Ridge Park & Ride NB,4896
+1962,30,1,61,30 Westgate Transit Center SB,2207
+1963,3,1,54,3 Arboretum NB,603
+1964,243,0,13,243 Howard Station WB,5607
+1965,383,1,28,383 North Lamar Transit Center SB,2732
+1966,30,0,33,30 NORTHCROSS NB,5634
+1967,7,1,42,7 Crestview Station NB,866
+1968,20,0,48,20 Springdale NB,1601
+1969,300,1,50,300 Crestview Station NB,6298
+1970,5,0,53,5 Tannehill EB,4667
+1971,10,1,58,10 Norwood Transit Center NB,6294
+1972,1,1,70,1 Tech Ridge Park & Ride NB,5518
+1973,383,0,45,383 Lakeline Station NB,5428
+1974,3,0,56,3 Southpark Meadows SB,2326
+1975,335,1,16,335 Berkman EB,6287
+1976,5,0,54,5 Tannehill EB,1130
+1977,214,0,2,214 Lago Vista WB,5223
+1978,324,1,28,324 Northcross WB,3159
+1979,383,0,46,383 Lakeline Station NB,5222
+1980,1,1,71,1 Tech Ridge Park & Ride NB,5348
+1981,7,0,5,7 Willaim Cannon SB,6248
+1982,214,0,3,214 Lago Vista WB,5653
+1983,171,0,1,171 Downtown/university of Texas NB,5943
+1984,201,0,1,201 Southpark Meadows SB,5377
+1985,228,0,1,228 Shady LVA Clinicane EB,1363
+1986,300,1,51,300 Crestview Station NB,6301
+1987,803,0,26,803 Domain NB,5724
+1988,30,1,62,30 Westgate Transit Center SB,4489
+1989,3,0,57,3 Southpark Meadows SB,2328
+1990,30,0,34,30 NORTHCROSS NB,603
+1991,10,1,59,10 Norwood Transit Center NB,1396
+1992,383,1,29,383 North Lamar Transit Center SB,3837
+1993,3,1,55,3 Arboretum NB,604
+1994,335,1,17,335 Berkman EB,6290
+1995,324,1,29,324 Northcross WB,3160
+1996,18,0,25,18 Springdale EB,886
+1997,214,0,4,214 Lago Vista WB,5428
+1998,5,0,55,5 Tannehill EB,1132
+1999,214,0,5,214 Lago Vista WB,5222
+2000,18,0,26,18 Springdale EB,5636
+2001,30,1,63,30 Westgate Transit Center SB,2191
+2002,333,0,33,333 Brush Country WB,5900
+2003,7,0,6,7 Willaim Cannon SB,1168
+2004,20,0,49,20 Springdale NB,1603
+2005,3,0,58,3 Southpark Meadows SB,2255
+2006,324,1,30,324 Northcross WB,3060
+2007,5,0,56,5 Tannehill EB,5461
+2008,1,1,72,1 Tech Ridge Park & Ride NB,4699
+2009,300,1,52,300 Crestview Station NB,6462
+2010,3,0,59,3 Southpark Meadows SB,5879
+2011,30,1,64,30 Westgate Transit Center SB,4490
+2012,228,0,2,228 Shady LVA Clinicane EB,4288
+2013,30,0,35,30 NORTHCROSS NB,604
+2014,3,1,56,3 Arboretum NB,5350
+2015,1,1,73,1 Tech Ridge Park & Ride NB,5270
+2016,10,1,60,10 Norwood Transit Center NB,1398
+2017,333,0,34,333 Brush Country WB,5902
+2018,801,0,24,801 Tech Ridge Park & Ride NB,5859
+2019,201,0,2,201 Southpark Meadows SB,555
+2020,383,0,47,383 Lakeline Station NB,5654
+2021,383,1,30,383 North Lamar Transit Center SB,3838
+2022,20,0,50,20 Springdale NB,3655
+2023,7,1,43,7 Crestview Station NB,1253
+2024,5,0,57,5 Tannehill EB,5911
+2025,7,0,7,7 Willaim Cannon SB,1169
+2026,803,0,27,803 Domain NB,4761
+2027,10,1,61,10 Norwood Transit Center NB,1399
+2028,324,1,31,324 Northcross WB,5849
+2029,335,1,18,335 Berkman EB,6289
+2030,228,0,3,228 Shady LVA Clinicane EB,6428
+2031,30,1,65,30 Westgate Transit Center SB,4491
+2032,20,0,51,20 Springdale NB,1606
+2033,3,0,60,3 Southpark Meadows SB,728
+2034,300,1,53,300 Crestview Station NB,6343
+2035,803,1,28,803 Westgate Transit Center SB,6373
+2036,30,0,36,30 NORTHCROSS NB,5350
+2037,3,1,57,3 Arboretum NB,5351
+2038,383,0,48,383 Lakeline Station NB,5654
+2039,10,1,62,10 Norwood Transit Center NB,1400
+2040,7,1,44,7 Crestview Station NB,3491
+2041,201,0,3,201 Southpark Meadows SB,5872
+2042,228,0,4,228 Shady LVA Clinicane EB,4298
+2043,335,1,19,335 Berkman EB,6091
+2044,3,0,61,3 Southpark Meadows SB,729
+2045,383,0,49,383 Lakeline Station NB,5805
+2046,10,1,63,10 Norwood Transit Center NB,1401
+2047,20,0,52,20 Springdale NB,6523
+2048,3,1,58,3 Arboretum NB,809
+2049,7,0,8,7 Willaim Cannon SB,4150
+2050,5,0,58,5 Tannehill EB,1138
+2051,30,0,37,30 NORTHCROSS NB,5351
+2052,10,1,64,10 Norwood Transit Center NB,1402
+2053,300,1,54,300 Crestview Station NB,5932
+2054,3,0,62,3 Southpark Meadows SB,730
+2055,324,1,32,324 Northcross WB,5851
+2056,383,1,31,383 North Lamar Transit Center SB,5920
+2057,337,1,36,337 Decker EB,4611
+2058,3,1,59,3 Arboretum NB,4128
+2059,1,1,74,1 Tech Ridge Park & Ride NB,4672
+2060,5,0,59,5 Tannehill EB,6386
+2061,30,0,38,30 NORTHCROSS NB,809
+2062,7,1,45,7 Crestview Station NB,1256
+2063,7,0,9,7 Willaim Cannon SB,1171
+2064,10,1,65,10 Norwood Transit Center NB,6342
+2065,3,1,60,3 Arboretum NB,811
+2066,300,1,55,300 Crestview Station NB,5455
+2067,228,0,5,228 Shady LVA Clinicane EB,1008
+2068,3,0,63,3 Southpark Meadows SB,2650
+2069,30,0,39,30 NORTHCROSS NB,2086
+2070,201,0,4,201 Southpark Meadows SB,5315
+2071,337,1,37,337 Decker EB,2406
+2072,3,1,61,3 Arboretum NB,4129
+2073,335,1,20,335 Berkman EB,6292
+2074,3,0,64,3 Southpark Meadows SB,732
+2075,1,1,75,1 Tech Ridge Park & Ride NB,5332
+2076,300,1,56,300 Crestview Station NB,2388
+2077,228,0,6,228 Shady LVA Clinicane EB,2273
+2078,801,0,25,801 Tech Ridge Park & Ride NB,6348
+2079,7,0,10,7 Willaim Cannon SB,1172
+2080,10,1,66,10 Norwood Transit Center NB,4709
+2081,214,0,6,214 Lago Vista WB,5698
+2082,324,1,33,324 Northcross WB,6388
+2083,5,0,60,5 Tannehill EB,5007
+2084,7,1,46,7 Crestview Station NB,1257
+2085,3,1,62,3 Arboretum NB,813
+2086,337,1,38,337 Decker EB,2407
+2087,383,1,32,383 North Lamar Transit Center SB,5718
+2088,30,0,40,30 NORTHCROSS NB,2087
+2089,300,1,57,300 Crestview Station NB,2389
+2090,7,1,47,7 Crestview Station NB,1258
+2091,3,0,65,3 Southpark Meadows SB,733
+2092,3,1,63,3 Arboretum NB,814
+2093,228,0,7,228 Shady LVA Clinicane EB,2274
+2094,10,1,67,10 Norwood Transit Center NB,4708
+2095,300,1,58,300 Crestview Station NB,2390
+2096,383,0,50,383 Lakeline Station NB,5229
+2097,803,0,28,803 Domain NB,5919
+2098,30,0,41,30 NORTHCROSS NB,1864
+2099,7,0,11,7 Willaim Cannon SB,4152
+2100,3,1,64,3 Arboretum NB,4202
+2101,3,0,66,3 Southpark Meadows SB,734
+2102,30,0,42,30 NORTHCROSS NB,4133
+2103,7,1,48,7 Crestview Station NB,1259
+2104,383,1,33,383 North Lamar Transit Center SB,3020
+2105,300,1,59,300 Crestview Station NB,4609
+2106,7,0,12,7 Willaim Cannon SB,1174
+2107,1,1,76,1 Tech Ridge Park & Ride NB,5273
+2108,30,1,66,30 Westgate Transit Center SB,4492
+2109,801,0,26,801 Tech Ridge Park & Ride NB,2821
+2110,3,1,65,3 Arboretum NB,815
+2111,335,1,21,335 Berkman EB,6335
+2112,10,1,68,10 Norwood Transit Center NB,2436
+2113,30,0,43,30 NORTHCROSS NB,1866
+2114,3,0,67,3 Southpark Meadows SB,735
+2115,337,1,39,337 Decker EB,4612
+2116,20,0,53,20 Springdale NB,1618
+2117,7,0,13,7 Willaim Cannon SB,1175
+2118,3,1,66,3 Arboretum NB,816
+2119,1,0,54,1 William Cannon SB,5743
+2120,300,1,60,300 Crestview Station NB,2392
+2121,383,1,34,383 North Lamar Transit Center SB,6457
+2122,7,1,49,7 Crestview Station NB,1260
+2123,201,0,5,201 Southpark Meadows SB,5311
+2124,3,0,68,3 Southpark Meadows SB,736
+2125,550,0,3,550 Downtown Station SB,5540
+2126,985,0,2,985 Downtown/University of Texas SB,5230
+2127,335,1,22,335 Berkman EB,6387
+2128,10,1,69,10 Norwood Transit Center NB,4707
+2129,228,0,8,228 Shady LVA Clinicane EB,2275
+2130,300,1,61,300 Crestview Station NB,4592
+2131,337,1,40,337 Decker EB,4613
+2132,3,1,67,3 Arboretum NB,817
+2133,3,0,69,3 Southpark Meadows SB,737
+2134,30,1,67,30 Westgate Transit Center SB,2212
+2135,383,1,35,383 North Lamar Transit Center SB,4756
+2136,30,0,44,30 NORTHCROSS NB,4497
+2137,103,1,1,103 Downtown/University of Texas NB,2938
+2138,20,0,54,20 Springdale NB,1619
+2139,339,1,1,339 Tannehill EB,6423
+2140,7,0,14,7 Willaim Cannon SB,1176
+2141,1,0,55,1 William Cannon SB,4029
+2142,7,1,50,7 Crestview Station NB,1261
+2143,3,0,70,3 Southpark Meadows SB,5048
+2144,3,1,68,3 Arboretum NB,819
+2145,30,1,68,30 Westgate Transit Center SB,2213
+2146,10,1,70,10 Norwood Transit Center NB,2439
+2147,300,1,62,300 Crestview Station NB,2870
+2148,30,0,45,30 NORTHCROSS NB,1871
+2149,201,0,6,201 Southpark Meadows SB,6361
+2150,3,1,69,3 Arboretum NB,820
+2151,7,0,15,7 Willaim Cannon SB,1177
+2152,7,1,51,7 Crestview Station NB,1262
+2153,3,0,71,3 Southpark Meadows SB,739
+2154,339,1,2,339 Tannehill EB,5446
+2155,142,1,1,142 Downtown/University of Texas SB,3900
+2156,171,0,2,171 Downtown/university of Texas NB,5498
+2157,228,0,9,228 Shady LVA Clinicane EB,2277
+2158,337,1,41,337 Decker EB,4614
+2159,383,1,36,383 North Lamar Transit Center SB,5784
+2160,30,1,69,30 Westgate Transit Center SB,2214
+2161,3,1,70,3 Arboretum NB,821
+2162,801,0,27,801 Tech Ridge Park & Ride NB,4543
+2163,3,0,72,3 Southpark Meadows SB,740
+2164,228,0,10,228 Shady LVA Clinicane EB,6483
+2165,300,1,63,300 Crestview Station NB,4711
+2166,337,1,42,337 Decker EB,2410
+2167,3,1,71,3 Arboretum NB,822
+2168,339,1,3,339 Tannehill EB,4720
+2169,103,1,2,103 Downtown/University of Texas NB,2666
+2170,30,0,46,30 NORTHCROSS NB,4498
+2171,1,0,56,1 William Cannon SB,522
+2172,383,1,37,383 North Lamar Transit Center SB,4754
+2173,10,1,71,10 Norwood Transit Center NB,5447
+2174,103,1,3,103 Downtown/University of Texas NB,2667
+2175,3,0,73,3 Southpark Meadows SB,742
+2176,335,1,23,335 Berkman EB,5926
+2177,7,1,52,7 Crestview Station NB,1263
+2178,7,0,16,7 Willaim Cannon SB,1179
+2179,30,1,70,30 Westgate Transit Center SB,2215
+2180,337,1,43,337 Decker EB,2416
+2181,339,1,4,339 Tannehill EB,2441
+2182,300,1,64,300 Crestview Station NB,5505
+2183,339,1,5,339 Tannehill EB,4704
+2184,3,1,72,3 Arboretum NB,6486
+2185,228,0,11,228 Shady LVA Clinicane EB,5836
+2186,7,1,53,7 Crestview Station NB,1264
+2187,383,1,38,383 North Lamar Transit Center SB,4691
+2188,3,0,74,3 Southpark Meadows SB,743
+2189,103,1,4,103 Downtown/University of Texas NB,4434
+2190,30,0,47,30 NORTHCROSS NB,1874
+2191,1,0,57,1 William Cannon SB,524
+2192,3,1,73,3 Arboretum NB,824
+2193,7,0,17,7 Willaim Cannon SB,1180
+2194,142,1,2,142 Downtown/University of Texas SB,4878
+2195,339,1,6,339 Tannehill EB,2443
+2196,300,1,65,300 Crestview Station NB,1409
+2197,3,0,75,3 Southpark Meadows SB,744
+2198,30,0,48,30 NORTHCROSS NB,1876
+2199,171,0,3,171 Downtown/university of Texas NB,5944
+2200,3,0,76,3 Southpark Meadows SB,745
+2201,339,1,7,339 Tannehill EB,5819
+2202,103,1,5,103 Downtown/University of Texas NB,2669
+2203,300,1,66,300 Crestview Station NB,1410
+2204,1,0,58,1 William Cannon SB,4046
+2205,10,1,72,10 Norwood Transit Center NB,6419
+2206,201,0,7,201 Southpark Meadows SB,5263
+2207,30,1,71,30 Westgate Transit Center SB,3924
+2208,801,0,28,801 Tech Ridge Park & Ride NB,4548
+2209,7,1,54,7 Crestview Station NB,1265
+2210,30,0,49,30 NORTHCROSS NB,1877
+2211,3,1,74,3 Arboretum NB,826
+2212,142,1,3,142 Downtown/University of Texas SB,4876
+2213,228,0,12,228 Shady LVA Clinicane EB,5882
+2214,339,1,8,339 Tannehill EB,5817
+2215,3,0,77,3 Southpark Meadows SB,746
+2216,1,0,59,1 William Cannon SB,526
+2217,171,0,4,171 Downtown/university of Texas NB,2605
+2218,550,0,4,550 Downtown Station SB,5539
+2219,7,1,55,7 Crestview Station NB,1267
+2220,990,1,4,990 Downtown/University of Texas WB,4513
+2221,201,0,8,201 Southpark Meadows SB,6322
+2222,103,1,6,103 Downtown/University of Texas NB,4433
+2223,300,1,67,300 Crestview Station NB,6306
+2224,3,1,75,3 Arboretum NB,827
+2225,3,0,78,3 Southpark Meadows SB,3772
+2226,7,1,56,7 Crestview Station NB,5494
+2227,383,1,39,383 North Lamar Transit Center SB,3839
+2228,339,1,9,339 Tannehill EB,5815
+2229,142,1,4,142 Downtown/University of Texas SB,4873
+2230,30,0,50,30 NORTHCROSS NB,1878
+2231,3,0,79,3 Southpark Meadows SB,3773
+2232,152,0,1,152 Round Rock NB,5279
+2233,171,0,5,171 Downtown/university of Texas NB,6314
+2234,1,0,60,1 William Cannon SB,527
+2235,3,1,76,3 Arboretum NB,828
+2236,103,1,7,103 Downtown/University of Texas NB,2673
+2237,7,0,18,7 Willaim Cannon SB,916
+2238,228,0,13,228 Shady LVA Clinicane EB,6434
+2239,3,0,80,3 Southpark Meadows SB,3774
+2240,383,1,40,383 North Lamar Transit Center SB,3840
+2241,103,1,8,103 Downtown/University of Texas NB,2674
+2242,3,1,77,3 Arboretum NB,829
+2243,30,0,51,30 NORTHCROSS NB,1879
+2244,337,1,48,337 Decker EB,6183
+2245,550,0,5,550 Downtown Station SB,6519
+2246,3,0,81,3 Southpark Meadows SB,3775
+2247,339,1,10,339 Tannehill EB,5812
+2248,300,1,68,300 Crestview Station NB,2874
+2249,1,0,61,1 William Cannon SB,5870
+2250,30,0,52,30 NORTHCROSS NB,2476
+2251,103,1,9,103 Downtown/University of Texas NB,2675
+2252,7,0,19,7 Willaim Cannon SB,919
+2253,3,0,82,3 Southpark Meadows SB,5472
+2254,171,0,6,171 Downtown/university of Texas NB,6315
+2255,7,1,57,7 Crestview Station NB,1271
+2256,300,1,69,300 Crestview Station NB,6363
+2257,339,0,1,339 Norwood Transit Center WB,5007
+2258,1,0,62,1 William Cannon SB,529
+2259,30,0,53,30 NORTHCROSS NB,6408
+2260,383,1,41,383 North Lamar Transit Center SB,5969
+2261,3,1,78,3 Arboretum NB,5746
+2262,3,1,79,3 Arboretum NB,3063
+2263,339,0,2,339 Norwood Transit Center WB,5643
+2264,171,0,7,171 Downtown/university of Texas NB,864
+2265,1,0,63,1 William Cannon SB,4267
+2266,339,1,11,339 Tannehill EB,5811
+2267,466,0,1,466 Kramer Station KB,5580
+2268,228,0,14,228 Shady LVA Clinicane EB,6085
+2269,30,0,54,30 NORTHCROSS NB,1882
+2270,271,1,14,271 Del Valle EB,5980
+2271,3,0,83,3 Southpark Meadows SB,4414
+2272,801,0,29,801 Tech Ridge Park & Ride NB,5270
+2273,3,1,80,3 Arboretum NB,4570
+2274,142,1,5,142 Downtown/University of Texas SB,3045
+2275,228,0,15,228 Shady LVA Clinicane EB,5844
+2276,50,0,1,50 TECHRIDGE SB,6232
+2277,7,0,20,7 Willaim Cannon SB,6499
+2278,7,1,58,7 Crestview Station NB,1797
+2279,3,0,84,3 Southpark Meadows SB,3776
+2280,990,1,5,990 Downtown/University of Texas WB,484
+2281,214,0,7,214 Lago Vista WB,2832
+2282,171,0,8,171 Downtown/university of Texas NB,866
+2283,7,1,59,7 Crestview Station NB,6527
+2284,3,1,81,3 Arboretum NB,4571
+2285,30,0,55,30 NORTHCROSS NB,4651
+2286,1,0,64,1 William Cannon SB,5545
+2287,3,0,85,3 Southpark Meadows SB,3753
+2288,383,1,42,383 North Lamar Transit Center SB,5225
+2289,103,1,10,103 Downtown/University of Texas NB,2678
+2290,214,0,8,214 Lago Vista WB,5220
+2291,50,0,2,50 TECHRIDGE SB,6229
+2292,339,0,3,339 Norwood Transit Center WB,5914
+2293,30,0,56,30 NORTHCROSS NB,1884
+2294,3,1,82,3 Arboretum NB,4572
+2295,201,0,9,201 Southpark Meadows SB,5778
+2296,30,1,72,30 Westgate Transit Center SB,6379
+2297,7,1,60,7 Crestview Station NB,5602
+2298,3,0,86,3 Southpark Meadows SB,4411
+2299,103,1,11,103 Downtown/University of Texas NB,2357
+2300,50,0,3,50 TECHRIDGE SB,6227
+2301,30,0,57,30 NORTHCROSS NB,1885
+2302,271,1,15,271 Del Valle EB,5986
+2303,7,0,21,7 Willaim Cannon SB,5937
+2304,142,1,6,142 Downtown/University of Texas SB,2564
+2305,1,0,65,1 William Cannon SB,531
+2306,3,1,83,3 Arboretum NB,4753
+2307,30,0,58,30 NORTHCROSS NB,1886
+2308,550,0,6,550 Downtown Station SB,5538
+2309,171,0,9,171 Downtown/university of Texas NB,1253
+2310,3,0,87,3 Southpark Meadows SB,2974
+2311,103,1,12,103 Downtown/University of Texas NB,2679
+2312,1,0,66,1 William Cannon SB,6356
+2313,171,0,10,171 Downtown/university of Texas NB,3491
+2314,7,1,61,7 Crestview Station NB,1273
+2315,142,1,7,142 Downtown/University of Texas SB,2566
+2316,30,0,59,30 NORTHCROSS NB,1887
+2317,3,0,88,3 Southpark Meadows SB,2975
+2318,103,1,13,103 Downtown/University of Texas NB,2680
+2319,214,0,9,214 Lago Vista WB,2831
+2320,3,1,84,3 Arboretum NB,4757
+2321,466,0,3,466 Kramer Station KB,5760
+2322,271,1,16,271 Del Valle EB,5989
+2323,339,1,12,339 Tannehill EB,1603
+2324,7,0,22,7 Willaim Cannon SB,5938
+2325,1,0,67,1 William Cannon SB,543
+2326,30,0,60,30 NORTHCROSS NB,1888
+2327,7,1,62,7 Crestview Station NB,5509
+2328,990,1,6,990 Downtown/University of Texas WB,5405
+2329,3,0,89,3 Southpark Meadows SB,2976
+2330,228,1,1,228 Pleasant Valley WB,5844
+2331,550,0,7,550 Downtown Station SB,5537
+2332,801,0,30,801 Tech Ridge Park & Ride NB,5304
+2333,1,0,68,1 William Cannon SB,5489
+2334,142,1,8,142 Downtown/University of Texas SB,2567
+2335,271,1,17,271 Del Valle EB,5991
+2336,339,1,13,339 Tannehill EB,3655
+2337,3,0,90,3 Southpark Meadows SB,3767
+2338,50,0,4,50 TECHRIDGE SB,6226
+2339,3,1,85,3 Arboretum NB,6427
+2340,103,1,14,103 Downtown/University of Texas NB,4424
+2341,1,0,69,1 William Cannon SB,545
+2342,339,0,4,339 Norwood Transit Center WB,4937
+2343,1,0,70,1 William Cannon SB,5363
+2344,339,1,14,339 Tannehill EB,1606
+2345,103,1,15,103 Downtown/University of Texas NB,2681
+2346,466,0,4,466 Kramer Station KB,5133
+2347,271,1,18,271 Del Valle EB,5927
+2348,7,1,63,7 Crestview Station NB,5604
+2349,142,1,9,142 Downtown/University of Texas SB,5614
+2350,30,0,61,30 NORTHCROSS NB,1890
+2351,7,0,23,7 Willaim Cannon SB,2613
+2352,50,0,5,50 TECHRIDGE SB,6224
+2353,1,0,71,1 William Cannon SB,546
+2354,3,1,86,3 Arboretum NB,6456
+2355,3,0,91,3 Southpark Meadows SB,5999
+2356,1,0,72,1 William Cannon SB,5871
+2357,103,1,16,103 Downtown/University of Texas NB,751
+2358,339,0,5,339 Norwood Transit Center WB,4938
+2359,466,0,5,466 Kramer Station KB,2753
+2360,3,0,92,3 Southpark Meadows SB,5380
+2361,30,0,62,30 NORTHCROSS NB,1891
+2362,142,1,10,142 Downtown/University of Texas SB,2751
+2363,3,1,87,3 Arboretum NB,4682
+2364,1,0,73,1 William Cannon SB,548
+2365,103,1,17,103 Downtown/University of Texas NB,752
+2366,3,0,93,3 Southpark Meadows SB,5623
+2367,30,0,63,30 NORTHCROSS NB,1892
+2368,339,1,15,339 Tannehill EB,1608
+2369,142,1,11,142 Downtown/University of Texas SB,5356
+2370,3,1,88,3 Arboretum NB,3014
+2371,3,0,94,3 Southpark Meadows SB,6322
+2372,1,0,74,1 William Cannon SB,4381
+2373,111,0,1,111 Downtown/University of Texas NB,5909
+2374,201,1,1,201 William Cannon NB,5778
+2375,30,0,64,30 NORTHCROSS NB,1893
+2376,982,0,1,982 Downtown/University of Texas SB,2727
+2377,466,0,6,466 Kramer Station KB,2754
+2378,50,0,6,50 TECHRIDGE SB,6221
+2379,30,0,65,30 NORTHCROSS NB,1894
+2380,1,0,75,1 William Cannon SB,550
+2381,142,1,12,142 Downtown/University of Texas SB,2568
+2382,339,1,16,339 Tannehill EB,4801
+2383,1,0,76,1 William Cannon SB,551
+2384,152,0,2,152 Round Rock NB,6474
+2385,50,1,1,50 ACC Round Rock NB,6474
+2386,990,1,7,990 Downtown/University of Texas WB,497
+2387,339,0,6,339 Norwood Transit Center WB,5644
+2388,339,1,17,339 Tannehill EB,4613
+2389,3,1,89,3 Arboretum NB,4895
+2390,7,0,24,7 Willaim Cannon SB,2763
+2391,30,0,66,30 NORTHCROSS NB,1895
+2392,50,0,7,50 TECHRIDGE SB,6219
+2393,214,0,10,214 Lago Vista WB,4600
+2394,339,0,7,339 Norwood Transit Center WB,5558
+2395,103,1,18,103 Downtown/University of Texas NB,4227
+2396,142,1,13,142 Downtown/University of Texas SB,2569
+2397,3,0,95,3 Southpark Meadows SB,5263
+2398,550,0,8,550 Downtown Station SB,5536
+2399,201,1,2,201 William Cannon NB,4908
+2400,30,0,67,30 NORTHCROSS NB,1896
+2401,214,0,11,214 Lago Vista WB,4925
+2402,3,1,90,3 Arboretum NB,5755
+2403,30,0,68,30 NORTHCROSS NB,1897
+2404,339,1,18,339 Tannehill EB,5645
+2405,339,0,8,339 Norwood Transit Center WB,5846
+2406,111,0,2,111 Downtown/University of Texas NB,5908
+2407,7,0,25,7 Willaim Cannon SB,3846
+2408,30,0,69,30 NORTHCROSS NB,1898
+2409,228,1,2,228 Pleasant Valley WB,3974
+2410,214,0,12,214 Lago Vista WB,2825
+2411,7,0,26,7 Willaim Cannon SB,3847
+2412,3,1,91,3 Arboretum NB,6472
+2413,1,0,77,1 William Cannon SB,553
+2414,50,0,8,50 TECHRIDGE SB,6215
+2415,7,0,27,7 Willaim Cannon SB,5023
+2416,142,1,14,142 Downtown/University of Texas SB,5734
+2417,990,1,8,990 Downtown/University of Texas WB,501
+2418,466,0,7,466 Kramer Station KB,5724
+2419,339,1,19,339 Tannehill EB,4939
+2420,30,0,70,30 NORTHCROSS NB,1899
+2421,228,1,3,228 Pleasant Valley WB,5722
+2422,339,0,9,339 Norwood Transit Center WB,1614
+2423,50,1,2,50 ACC Round Rock NB,6190
+2424,3,1,92,3 Arboretum NB,4763
+2425,103,1,19,103 Downtown/University of Texas NB,4230
+2426,30,0,71,30 NORTHCROSS NB,4648
+2427,1,0,78,1 William Cannon SB,554
+2428,171,0,1,171 Downtown/University of Texas NB,2595
+2429,300,0,1,300 Westgate Transit Center SB,6363
+2430,466,0,8,466 Kramer Station KB,5369
+2431,50,0,9,50 TECHRIDGE SB,6214
+2432,142,1,15,142 Downtown/University of Texas SB,2572
+2433,201,1,3,201 William Cannon NB,4909
+2434,7,0,28,7 Willaim Cannon SB,1186
+2435,30,0,72,30 NORTHCROSS NB,1900
+2436,201,1,4,201 William Cannon NB,5999
+2437,982,0,2,982 Downtown/University of Texas SB,4659
+2438,50,0,10,50 TECHRIDGE SB,6211
+2439,228,1,4,228 Pleasant Valley WB,5170
+2440,103,1,20,103 Downtown/University of Texas NB,765
+2441,3,1,93,3 Arboretum NB,3834
+2442,142,1,16,142 Downtown/University of Texas SB,2573
+2443,339,1,20,339 Tannehill EB,4940
+2444,111,0,3,111 Downtown/University of Texas NB,5889
+2445,990,1,9,990 Downtown/University of Texas WB,2738
+2446,7,0,29,7 Willaim Cannon SB,1187
+2447,214,0,13,214 Lago Vista WB,2827
+2448,465,0,1,465 University of Texas WB,5588
+2449,50,1,3,50 ACC Round Rock NB,6193
+2450,201,1,5,201 William Cannon NB,5380
+2451,339,0,10,339 Norwood Transit Center WB,1615
+2452,7,0,30,7 Willaim Cannon SB,1188
+2453,50,0,11,50 TECHRIDGE SB,6209
+2454,214,0,14,214 Lago Vista WB,4927
+2455,30,0,73,30 NORTHCROSS NB,1902
+2456,228,1,5,228 Pleasant Valley WB,5739
+2457,201,1,6,201 William Cannon NB,5623
+2458,300,0,2,300 Westgate Transit Center SB,5604
+2459,214,0,15,214 Lago Vista WB,4928
+2460,30,0,74,30 NORTHCROSS NB,5855
+2461,3,1,94,3 Arboretum NB,6093
+2462,50,0,12,50 TECHRIDGE SB,6207
+2463,990,1,10,990 Downtown/University of Texas WB,5950
+2464,214,0,16,214 Lago Vista WB,4926
+2465,339,0,11,339 Norwood Transit Center WB,1616
+2466,142,1,17,142 Downtown/University of Texas SB,2575
+2467,111,0,4,111 Downtown/University of Texas NB,5891
+2468,171,0,2,171 Downtown/University of Texas NB,4454
+2469,7,0,31,7 Willaim Cannon SB,999
+2470,30,0,75,30 NORTHCROSS NB,5854
+2471,982,0,3,982 Downtown/University of Texas SB,6093
+2472,201,1,7,201 William Cannon NB,6362
+2473,466,0,9,466 Kramer Station KB,5845
+2474,3,1,95,3 Arboretum NB,2732
+2475,228,1,6,228 Pleasant Valley WB,5835
+2476,142,1,18,142 Downtown/University of Texas SB,4834
+2477,50,0,13,50 TECHRIDGE SB,6205
+2478,50,1,4,50 ACC Round Rock NB,6094
+2479,550,0,9,550 Downtown Station SB,5535
+2480,982,0,4,982 Downtown/University of Texas SB,2732
+2481,990,1,11,990 Downtown/University of Texas WB,2612
+2482,111,0,5,111 Downtown/University of Texas NB,5893
+2483,339,0,12,339 Norwood Transit Center WB,1618
+2484,7,0,32,7 Willaim Cannon SB,5554
+2485,30,0,76,30 NORTHCROSS NB,5849
+2486,142,1,19,142 Downtown/University of Texas SB,4782
+2487,228,1,7,228 Pleasant Valley WB,2231
+2488,339,0,13,339 Norwood Transit Center WB,5808
+2489,201,1,8,201 William Cannon NB,5310
+2490,214,0,17,214 Lago Vista WB,2829
+2491,142,1,20,142 Downtown/University of Texas SB,4783
+2492,228,1,8,228 Pleasant Valley WB,2232
+2493,3,1,96,3 Arboretum NB,3837
+2494,935,0,1,935 Downtown/UT SB,5274
+2495,171,0,3,171 Downtown/University of Texas NB,4458
+2496,7,0,33,7 Willaim Cannon SB,1002
+2497,50,0,14,50 TECHRIDGE SB,6204
+2498,111,0,6,111 Downtown/University of Texas NB,5896
+2499,50,1,5,50 ACC Round Rock NB,6196
+2500,50,0,15,50 TECHRIDGE SB,6201
+2501,30,0,77,30 NORTHCROSS NB,5851
+2502,985,0,3,985 Downtown/University of Texas SB,2107
+2503,142,1,21,142 Downtown/University of Texas SB,2578
+2504,228,1,9,228 Pleasant Valley WB,2233
+2505,985,0,4,985 Downtown/University of Texas SB,2111
+2506,7,0,34,7 Willaim Cannon SB,1190
+2507,171,0,4,171 Downtown/University of Texas NB,4461
+2508,339,1,21,339 Tannehill EB,5915
+2509,30,0,78,30 NORTHCROSS NB,5856
+2510,985,0,5,985 Downtown/University of Texas SB,2605
+2511,50,1,6,50 ACC Round Rock NB,6197
+2512,214,0,18,214 Lago Vista WB,4924
+2513,201,1,9,201 William Cannon NB,5314
+2514,214,0,19,214 Lago Vista WB,6071
+2515,7,0,35,7 Willaim Cannon SB,1191
+2516,466,0,10,466 Kramer Station KB,5580
+2517,550,0,10,550 Downtown Station SB,5534
+2518,228,1,10,228 Pleasant Valley WB,2235
+2519,142,1,22,142 Downtown/University of Texas SB,3129
+2520,201,1,10,201 William Cannon NB,5313
+2521,985,0,6,985 Downtown/University of Texas SB,4007
+2522,339,0,14,339 Norwood Transit Center WB,5945
+2523,111,0,7,111 Downtown/University of Texas NB,5898
+2524,7,0,36,7 Willaim Cannon SB,3535
+2525,228,1,11,228 Pleasant Valley WB,5789
+2526,50,1,7,50 ACC Round Rock NB,6200
+2527,171,0,5,171 Downtown/University of Texas NB,4485
+2528,201,1,11,201 William Cannon NB,550
+2529,111,0,8,111 Downtown/University of Texas NB,4446
+2530,142,1,23,142 Downtown/University of Texas SB,3130
+2531,201,1,12,201 William Cannon NB,551
+2532,111,0,9,111 Downtown/University of Texas NB,4445
+2533,465,0,2,465 University of Texas WB,2761
+2534,228,1,12,228 Pleasant Valley WB,5788
+2535,985,0,7,985 Downtown/University of Texas SB,590
+2536,339,1,22,339 Tannehill EB,5913
+2537,103,1,21,103 Downtown/University of Texas NB,2107
+2538,339,0,15,339 Norwood Transit Center WB,5810
+2539,640,0,1,640 Forty Acres-OB OB,4184
+2540,7,0,37,7 Willaim Cannon SB,1193
+2541,142,1,24,142 Downtown/University of Texas SB,2581
+2542,228,1,13,228 Pleasant Valley WB,1027
+2543,7,0,38,7 Willaim Cannon SB,1194
+2544,171,0,6,171 Downtown/University of Texas NB,4482
+2545,50,0,16,50 TECHRIDGE SB,6200
+2546,339,1,23,339 Tannehill EB,5007
+2547,142,1,25,142 Downtown/University of Texas SB,2582
+2548,214,0,20,214 Lago Vista WB,4930
+2549,7,0,39,7 Willaim Cannon SB,1195
+2550,228,1,14,228 Pleasant Valley WB,1028
+2551,465,0,3,465 University of Texas WB,1253
+2552,142,1,26,142 Downtown/University of Texas SB,2583
+2553,111,0,10,111 Downtown/University of Texas NB,5900
+2554,201,1,13,201 William Cannon NB,553
+2555,142,1,27,142 Downtown/University of Texas SB,4539
+2556,50,0,17,50 TECHRIDGE SB,6198
+2557,7,0,40,7 Willaim Cannon SB,4325
+2558,339,0,16,339 Norwood Transit Center WB,5813
+2559,985,0,8,985 Downtown/University of Texas SB,6518
+2560,142,1,28,142 Downtown/University of Texas SB,2585
+2561,103,1,22,103 Downtown/University of Texas NB,2605
+2562,111,0,11,111 Downtown/University of Texas NB,5902
+2563,201,1,14,201 William Cannon NB,5377
+2564,214,0,21,214 Lago Vista WB,2830
+2565,237,1,1,237 Tannehill EB,5007
+2566,465,1,1,465 MLK Station EB,3491
+2567,465,0,4,465 University of Texas WB,3491
+2568,228,1,15,228 Pleasant Valley WB,6442
+2569,300,0,10,300 Westgate Transit Center SB,2871
+2570,50,0,18,50 TECHRIDGE SB,6196
+2571,142,1,29,142 Downtown/University of Texas SB,1289
+2572,237,1,2,237 Tannehill EB,5643
+2573,7,0,41,7 Willaim Cannon SB,4323
+2574,103,1,23,103 Downtown/University of Texas NB,6314
+2575,465,1,2,465 MLK Station EB,1256
+2576,300,0,11,300 Westgate Transit Center SB,6431
+2577,228,1,16,228 Pleasant Valley WB,1030
+2578,985,0,9,985 Downtown/University of Texas SB,866
+2579,339,0,17,339 Norwood Transit Center WB,5815
+2580,171,0,7,171 Downtown/University of Texas NB,4474
+2581,50,1,8,50 ACC Round Rock NB,6201
+2582,50,0,19,50 TECHRIDGE SB,6094
+2583,7,0,42,7 Willaim Cannon SB,2169
+2584,465,1,3,465 MLK Station EB,2005
+2585,7,0,43,7 Willaim Cannon SB,1199
+2586,339,0,18,339 Norwood Transit Center WB,5816
+2587,982,0,5,982 Downtown/University of Texas SB,1996
+2588,237,1,3,237 Tannehill EB,5914
+2589,50,1,9,50 ACC Round Rock NB,6204
+2590,103,1,24,103 Downtown/University of Texas NB,6315
+2591,300,0,12,300 Westgate Transit Center SB,5782
+2592,228,1,17,228 Pleasant Valley WB,6082
+2593,7,0,44,7 Willaim Cannon SB,4318
+2594,7,0,45,7 Willaim Cannon SB,4317
+2595,228,1,18,228 Pleasant Valley WB,1363
+2596,663,1,1,663 UT Campus IB,4985
+2597,982,0,6,982 Downtown/University of Texas SB,1999
+2598,50,0,20,50 TECHRIDGE SB,6193
+2599,50,1,10,50 ACC Round Rock NB,6205
+2600,103,1,25,103 Downtown/University of Texas NB,864
+2601,300,0,13,300 Westgate Transit Center SB,2306
+2602,663,1,2,663 UT Campus IB,3520
+2603,7,0,46,7 Willaim Cannon SB,1202
+2604,50,0,21,50 TECHRIDGE SB,6192
+2605,339,0,19,339 Norwood Transit Center WB,5818
+2606,640,0,4,640 Forty Acres-OB OB,5992
+2607,7,0,47,7 Willaim Cannon SB,5917
+2608,985,0,10,985 Downtown/University of Texas SB,1253
+2609,50,1,11,50 ACC Round Rock NB,6207
+2610,300,0,14,300 Westgate Transit Center SB,2307
+2611,50,0,22,50 TECHRIDGE SB,6191
+2612,465,1,4,465 MLK Station EB,2019
+2613,663,1,3,663 UT Campus IB,4838
+2614,171,0,8,171 Downtown/University of Texas NB,5943
+2615,7,0,48,7 Willaim Cannon SB,1203
+2616,50,1,12,50 ACC Round Rock NB,6209
+2617,339,0,20,339 Norwood Transit Center WB,2451
+2618,985,0,11,985 Downtown/University of Texas SB,3491
+2619,103,1,26,103 Downtown/University of Texas NB,866
+2620,339,0,21,339 Norwood Transit Center WB,4703
+2621,300,0,15,300 Westgate Transit Center SB,2308
+2622,550,1,1,550 Leander Station NB,5534
+2623,672,1,1,672 UT Campus IB,6082
+2624,50,1,13,50 ACC Round Rock NB,6211
+2625,339,0,22,339 Norwood Transit Center WB,4706
+2626,663,1,4,663 UT Campus IB,4986
+2627,300,0,16,300 Westgate Transit Center SB,5783
+2628,7,0,49,7 Willaim Cannon SB,5712
+2629,237,1,4,237 Tannehill EB,4937
+2630,640,0,5,640 Forty Acres-OB OB,6159
+2631,152,1,1,152 TECHRIDGE SB,6161
+2632,171,0,9,171 Downtown/University of Texas NB,5585
+2633,339,0,23,339 Norwood Transit Center WB,2439
+2634,50,1,14,50 ACC Round Rock NB,6214
+2635,50,0,23,50 TECHRIDGE SB,6161
+2636,661,1,1,661 UT Campus IB,3513
+2637,985,0,12,985 Downtown/University of Texas SB,1256
+2638,672,1,2,672 UT Campus IB,4284
+2639,663,1,5,663 UT Campus IB,5626
+2640,50,1,15,50 ACC Round Rock NB,6215
+2641,640,0,6,640 Forty Acres-OB OB,2780
+2642,300,0,17,300 Westgate Transit Center SB,5613
+2643,7,0,50,7 Willaim Cannon SB,1204
+2644,672,1,3,672 UT Campus IB,1364
+2645,237,1,5,237 Tannehill EB,4938
+2646,339,0,24,339 Norwood Transit Center WB,5447
+2647,661,1,2,661 UT Campus IB,4983
+2648,103,1,27,103 Downtown/University of Texas NB,1253
+2649,300,0,18,300 Westgate Transit Center SB,5683
+2650,663,1,6,663 UT Campus IB,4162
+2651,152,1,2,152 TECHRIDGE SB,6160
+2652,103,1,28,103 Downtown/University of Texas NB,3491
+2653,7,0,51,7 Willaim Cannon SB,6312
+2654,661,1,3,661 UT Campus IB,1919
+2655,339,0,25,339 Norwood Transit Center WB,6423
+2656,550,1,2,550 Leander Station NB,5535
+2657,50,1,16,50 ACC Round Rock NB,6219
+2658,663,1,7,663 UT Campus IB,2102
+2659,982,0,7,982 Downtown/University of Texas SB,497
+2660,105,0,9,105 Downtown/University of Texas NB,1762
+2661,661,1,4,661 UT Campus IB,1920
+2662,7,0,52,7 Willaim Cannon SB,6311
+2663,103,1,29,103 Downtown/University of Texas NB,1256
+2664,237,1,6,237 Tannehill EB,4614
+2665,465,1,5,465 MLK Station EB,5588
+2666,982,0,8,982 Downtown/University of Texas SB,498
+2667,50,1,17,50 ACC Round Rock NB,6221
+2668,300,0,19,300 Westgate Transit Center SB,6303
+2669,7,0,53,7 Willaim Cannon SB,1212
+2670,105,0,10,105 Downtown/University of Texas NB,1763
+2671,237,1,7,237 Tannehill EB,2410
+2672,672,1,4,672 UT Campus IB,1368
+2673,640,1,2,640 Forty Acres-IB IB,1042
+2674,670,1,2,670 UT Campus IB,4302
+2675,982,0,9,982 Downtown/University of Texas SB,501
+2676,237,1,8,237 Tannehill EB,2416
+2677,105,0,11,105 Downtown/University of Texas NB,1764
+2678,7,0,54,7 Willaim Cannon SB,1213
+2679,111,0,12,111 Downtown/University of Texas NB,5498
+2680,300,0,20,300 Westgate Transit Center SB,6463
+2681,663,1,8,663 UT Campus IB,4086
+2682,7,0,55,7 Willaim Cannon SB,1214
+2683,982,0,10,982 Downtown/University of Texas SB,2738
+2684,233,0,2,233 Decker EB,1603
+2685,50,1,18,50 ACC Round Rock NB,6223
+2686,663,1,9,663 UT Campus IB,2104
+2687,300,0,21,300 Westgate Transit Center SB,6300
+2688,670,1,4,670 UT Campus IB,5079
+2689,233,0,3,233 Decker EB,3655
+2690,7,0,56,7 Willaim Cannon SB,1215
+2691,982,0,11,982 Downtown/University of Texas SB,5950
+2692,105,0,13,105 Downtown/University of Texas NB,1767
+2693,233,0,4,233 Decker EB,1606
+2694,237,1,9,237 Tannehill EB,5982
+2695,670,1,5,670 UT Campus IB,5078
+2696,50,1,19,50 ACC Round Rock NB,6225
+2697,111,0,13,111 Downtown/University of Texas NB,5944
+2698,982,0,12,982 Downtown/University of Texas SB,2612
+2699,663,1,10,663 UT Campus IB,2106
+2700,237,0,1,237 Springdale WB,5984
+2701,7,0,57,7 Willaim Cannon SB,5383
+2702,300,0,22,300 Westgate Transit Center SB,6299
+2703,105,0,14,105 Downtown/University of Texas NB,1768
+2704,237,1,10,237 Tannehill EB,6384
+2705,7,0,58,7 Willaim Cannon SB,4353
+2706,233,0,5,233 Decker EB,1608
+2707,670,1,6,670 UT Campus IB,5077
+2708,111,0,14,111 Downtown/University of Texas NB,2605
+2709,640,1,4,640 Forty Acres-IB IB,5438
+2710,300,0,23,300 Westgate Transit Center SB,6297
+2711,233,0,6,233 Decker EB,4801
+2712,670,1,7,670 UT Campus IB,6542
+2713,233,0,7,233 Decker EB,4613
+2714,550,1,3,550 Leander Station NB,5536
+2715,656,1,1,656 UT Campus IB,4518
+2716,982,0,13,982 Downtown/University of Texas SB,6275
+2717,111,0,15,111 Downtown/University of Texas NB,6314
+2718,7,0,59,7 Willaim Cannon SB,4352
+2719,50,1,20,50 ACC Round Rock NB,6477
+2720,105,0,16,105 Downtown/University of Texas NB,1770
+2721,300,0,24,300 Westgate Transit Center SB,1330
+2722,640,1,5,640 Forty Acres-IB IB,1178
+2723,663,1,11,663 UT Campus IB,2110
+2724,670,1,8,670 UT Campus IB,6534
+2725,237,0,2,237 Springdale WB,6183
+2726,50,1,21,50 ACC Round Rock NB,6227
+2727,233,0,8,233 Decker EB,6003
+2728,237,0,3,237 Springdale WB,5981
+2729,7,0,60,7 Willaim Cannon SB,4350
+2730,300,0,25,300 Westgate Transit Center SB,1331
+2731,50,1,22,50 ACC Round Rock NB,6229
+2732,640,1,6,640 Forty Acres-IB IB,5176
+2733,237,1,11,237 Tannehill EB,5983
+2734,300,0,26,300 Westgate Transit Center SB,1332
+2735,640,1,7,640 Forty Acres-IB IB,5177
+2736,111,0,16,111 Downtown/University of Texas NB,6315
+2737,233,0,9,233 Decker EB,6004
+2738,237,1,12,237 Tannehill EB,5984
+2739,7,0,61,7 Willaim Cannon SB,5757
+2740,300,0,27,300 Westgate Transit Center SB,1334
+2741,656,1,2,656 UT Campus IB,484
+2742,111,0,17,111 Downtown/University of Texas NB,864
+2743,142,1,30,142 Downtown/University of Texas SB,2761
+2744,7,0,62,7 Willaim Cannon SB,4345
+2745,237,0,4,237 Springdale WB,5581
+2746,171,0,10,171 Downtown/University of Texas NB,5498
+2747,300,0,28,300 Westgate Transit Center SB,1335
+2748,50,1,23,50 ACC Round Rock NB,6478
+2749,300,0,29,300 Westgate Transit Center SB,1336
+2750,142,1,31,142 Downtown/University of Texas SB,916
+2751,152,1,3,152 TECHRIDGE SB,5279
+2752,642,0,1,642 West Campus KB,5379
+2753,142,1,32,142 Downtown/University of Texas SB,919
+2754,237,0,5,237 Springdale WB,5997
+2755,663,1,12,663 UT Campus IB,593
+2756,333,1,1,333 PLEASANT VALLEY EB,550
+2757,663,1,13,663 UT Campus IB,5940
+2758,111,0,18,111 Downtown/University of Texas NB,866
+2759,300,0,30,300 Westgate Transit Center SB,1337
+2760,656,1,3,656 UT Campus IB,979
+2761,333,1,2,333 PLEASANT VALLEY EB,551
+2762,935,0,2,935 Downtown/UT SB,2107
+2763,171,0,11,171 Downtown/University of Texas NB,5944
+2764,142,1,33,142 Downtown/University of Texas SB,6499
+2765,7,0,63,7 Willaim Cannon SB,553
+2766,237,0,6,237 Springdale WB,5583
+2767,550,1,4,550 Leander Station NB,5537
+2768,333,1,3,333 PLEASANT VALLEY EB,552
+2769,980,0,2,980 Downtown/University of Texas SB,6406
+2770,935,0,3,935 Downtown/UT SB,2111
+2771,656,1,4,656 UT Campus IB,980
+2772,300,0,31,300 Westgate Transit Center SB,1338
+2773,672,1,5,672 UT Campus IB,5492
+2774,935,0,4,935 Downtown/UT SB,2605
+2775,171,0,12,171 Downtown/University of Texas NB,2605
+2776,142,1,34,142 Downtown/University of Texas SB,5937
+2777,7,0,64,7 Willaim Cannon SB,5377
+2778,50,1,24,50 ACC Round Rock NB,6476
+2779,935,0,5,935 Downtown/UT SB,6314
+2780,663,1,14,663 UT Campus IB,6159
+2781,237,0,7,237 Springdale WB,2287
+2782,656,1,5,656 UT Campus IB,981
+2783,333,1,4,333 PLEASANT VALLEY EB,5703
+2784,237,0,8,237 Springdale WB,2288
+2785,233,0,10,233 Decker EB,6005
+2786,300,0,32,300 Westgate Transit Center SB,1339
+2787,171,0,13,171 Downtown/University of Texas NB,6314
+2788,237,0,9,237 Springdale WB,4615
+2789,50,1,25,50 ACC Round Rock NB,6232
+2790,550,1,5,550 Leander Station NB,5538
+2791,663,1,15,663 UT Campus IB,5178
+2792,935,0,6,935 Downtown/UT SB,6315
+2793,333,1,5,333 PLEASANT VALLEY EB,6520
+2794,111,0,19,111 Downtown/University of Texas NB,1253
+2795,233,0,11,233 Decker EB,6006
+2796,656,1,6,656 UT Campus IB,982
+2797,142,1,35,142 Downtown/University of Texas SB,5938
+2798,333,1,6,333 PLEASANT VALLEY EB,2478
+2799,935,0,7,935 Downtown/UT SB,6500
+2800,111,0,20,111 Downtown/University of Texas NB,3491
+2801,171,0,14,171 Downtown/University of Texas NB,6315
+2802,237,0,10,237 Springdale WB,4939
+2803,300,0,33,300 Westgate Transit Center SB,1341
+2804,656,1,7,656 UT Campus IB,983
+2805,333,1,7,333 PLEASANT VALLEY EB,4355
+2806,300,0,34,300 Westgate Transit Center SB,1342
+2807,171,0,15,171 Downtown/University of Texas NB,864
+2808,111,0,21,111 Downtown/University of Texas NB,1256
+2809,656,1,8,656 UT Campus IB,4114
+2810,233,0,12,233 Decker EB,6070
+2811,935,0,8,935 Downtown/UT SB,866
+2812,237,0,11,237 Springdale WB,4940
+2813,550,1,1,550 Howard Station NB,5534
+2814,661,1,5,661 UT Campus IB,5528
+2815,142,1,36,142 Downtown/University of Texas SB,2612
+2816,333,1,8,333 PLEASANT VALLEY EB,5121
+2817,656,1,9,656 UT Campus IB,985
+2818,171,0,16,171 Downtown/University of Texas NB,866
+2819,300,0,35,300 Westgate Transit Center SB,1344
+2820,333,1,9,333 PLEASANT VALLEY EB,5159
+2821,672,1,6,672 UT Campus IB,2761
+2822,333,1,10,333 PLEASANT VALLEY EB,5136
+2823,672,1,7,672 UT Campus IB,4586
+2824,642,0,7,642 West Campus KB,4123
+2825,656,1,10,656 UT Campus IB,4116
+2826,333,1,11,333 PLEASANT VALLEY EB,2482
+2827,300,0,36,300 Westgate Transit Center SB,1346
+2828,935,0,9,935 Downtown/UT SB,1253
+2829,300,0,37,300 Westgate Transit Center SB,1347
+2830,333,1,12,333 PLEASANT VALLEY EB,2483
+2831,642,0,8,642 West Campus KB,4121
+2832,663,0,1,663 Lake Austin OB,5178
+2833,171,0,17,171 Downtown/University of Texas NB,1253
+2834,672,1,8,672 UT Campus IB,4135
+2835,670,1,9,670 UT Campus IB,2761
+2836,233,0,13,233 Decker EB,6183
+2837,935,0,10,935 Downtown/UT SB,3491
+2838,670,1,10,670 UT Campus IB,4586
+2839,656,1,11,656 UT Campus IB,5543
+2840,171,0,18,171 Downtown/University of Texas NB,3491
+2841,233,0,14,233 Decker EB,5981
+2842,333,1,13,333 PLEASANT VALLEY EB,5398
+2843,550,1,2,550 Howard Station NB,5535
+2844,300,0,38,300 Westgate Transit Center SB,1349
+2845,663,0,2,663 Lake Austin OB,501
+2846,670,1,11,670 UT Campus IB,4135
+2847,300,0,39,300 Westgate Transit Center SB,2803
+2848,656,1,12,656 UT Campus IB,5038
+2849,642,0,9,642 West Campus KB,4979
+2850,672,1,9,672 UT Campus IB,5775
+2851,142,1,37,142 Downtown/University of Texas SB,2763
+2852,237,0,12,237 Springdale WB,5915
+2853,550,1,6,550 Leander Station NB,6519
+2854,670,1,12,670 UT Campus IB,5175
+2855,672,1,10,672 UT Campus IB,5176
+2856,935,0,11,935 Downtown/UT SB,2079
+2857,171,0,19,171 Downtown/University of Texas NB,2005
+2858,105,0,31,105 Downtown/University of Texas NB,593
+2859,300,0,40,300 Westgate Transit Center SB,6516
+2860,105,0,32,105 Downtown/University of Texas NB,5940
+2861,663,0,3,663 Lake Austin OB,1967
+2862,142,1,38,142 Downtown/University of Texas SB,3846
+2863,333,1,14,333 PLEASANT VALLEY EB,6364
+2864,550,1,7,550 Leander Station NB,5539
+2865,171,0,20,171 Downtown/University of Texas NB,4144
+2866,300,0,41,300 Westgate Transit Center SB,5032
+2867,237,0,13,237 Springdale WB,5913
+2868,642,0,11,642 West Campus KB,498
+2869,663,0,4,663 Lake Austin OB,1971
+2870,171,0,21,171 Downtown/University of Texas NB,2493
+2871,233,1,1,233 Springdale WB,5981
+2872,237,0,14,237 Springdale WB,5007
+2873,656,0,1,656 Intramural Fields OB,5038
+2874,300,0,42,300 Westgate Transit Center SB,1353
+2875,663,0,5,663 Lake Austin OB,1973
+2876,300,0,43,300 Westgate Transit Center SB,4283
+2877,105,0,33,105 Downtown/University of Texas NB,1042
+2878,656,0,2,656 Intramural Fields OB,4117
+2879,233,1,2,233 Springdale WB,5581
+2880,663,0,6,663 Lake Austin OB,3519
+2881,550,1,3,550 Howard Station NB,5536
+2882,670,0,1,670 Crossing Place OB,5175
+2883,300,0,44,300 Westgate Transit Center SB,4288
+2884,656,0,3,656 Intramural Fields OB,4115
+2885,663,0,7,663 Lake Austin OB,5824
+2886,233,1,3,233 Springdale WB,5997
+2887,300,0,45,300 Westgate Transit Center SB,6428
+2888,656,0,4,656 Intramural Fields OB,1049
+2889,663,0,8,663 Lake Austin OB,5825
+2890,672,0,1,672 Lakeshore OB,5176
+2891,642,0,12,642 West Campus KB,4135
+2892,300,0,46,300 Westgate Transit Center SB,4298
+2893,233,1,4,233 Springdale WB,5583
+2894,656,0,5,656 Intramural Fields OB,1051
+2895,663,0,9,663 Lake Austin OB,1981
+2896,642,0,13,642 West Campus KB,1253
+2897,656,0,6,656 Intramural Fields OB,3515
+2898,300,0,47,300 Westgate Transit Center SB,1356
+2899,550,1,8,550 Leander Station NB,5540
+2900,233,1,5,233 Springdale WB,2287
+2901,300,0,48,300 Westgate Transit Center SB,2238
+2902,233,1,6,233 Springdale WB,2288
+2903,656,0,7,656 Intramural Fields OB,1053
+2904,233,1,7,233 Springdale WB,4615
+2905,642,0,14,642 West Campus KB,5379
+2906,300,0,49,300 Westgate Transit Center SB,1358
+2907,656,0,8,656 Intramural Fields OB,4113
+2908,663,0,10,663 Lake Austin OB,4985
+2909,233,1,8,233 Springdale WB,5558
+2910,300,0,50,300 Westgate Transit Center SB,6512
+2911,550,1,4,550 Howard Station NB,5537
+2912,233,1,9,233 Springdale WB,5846
+2913,656,0,9,656 Intramural Fields OB,1055
+2914,300,0,51,300 Westgate Transit Center SB,2241
+2915,300,0,52,300 Westgate Transit Center SB,2242
+2916,233,1,10,233 Springdale WB,1614
+2917,550,1,5,550 Howard Station NB,5538
+2918,656,0,10,656 Intramural Fields OB,4516
+2919,300,0,53,300 Westgate Transit Center SB,2243
+2920,656,0,11,656 Intramural Fields OB,4518
+2921,233,1,11,233 Springdale WB,1615
+2922,300,0,54,300 Westgate Transit Center SB,2244
+2923,233,1,12,233 Springdale WB,1616
+2924,300,0,55,300 Westgate Transit Center SB,1494
+2925,300,0,56,300 Westgate Transit Center SB,2246
+2926,233,1,13,233 Springdale WB,1618
+2927,670,0,2,670 Crossing Place OB,6082
+2928,300,0,57,300 Westgate Transit Center SB,5674
+2929,670,0,3,670 Crossing Place OB,1363
+2930,980,0,5,980 Downtown/University of Texas SB,2111
+2931,233,1,14,233 Springdale WB,1619
+2932,670,0,4,670 Crossing Place OB,4285
+2933,300,0,58,300 Westgate Transit Center SB,2249
+2934,672,0,2,672 Lakeshore OB,6082
+2935,670,0,5,670 Crossing Place OB,4286
+2936,980,0,9,980 Downtown/University of Texas SB,593
+2937,550,1,6,550 Howard Station NB,6519
+2938,980,0,10,980 Downtown/University of Texas SB,5940
+2939,670,0,6,670 Crossing Place OB,3526
+2940,300,0,59,300 Westgate Transit Center SB,2251
+2941,550,1,9,550 Leander Station NB,5541
+2942,550,1,7,550 Howard Station NB,5539
+2943,670,0,7,670 Crossing Place OB,4300
+2944,300,0,60,300 Westgate Transit Center SB,4206
+2945,670,0,8,670 Crossing Place OB,4301
+2946,980,0,11,980 Downtown/University of Texas SB,1042
+2947,670,0,9,670 Crossing Place OB,3852
+2948,300,0,61,300 Westgate Transit Center SB,2328
+2949,300,0,62,300 Westgate Transit Center SB,2255
+2950,300,0,63,300 Westgate Transit Center SB,5879
+2951,300,0,64,300 Westgate Transit Center SB,2329
+2952,550,1,8,550 Howard Station NB,5540
+2953,980,0,12,980 Downtown/University of Texas SB,3955
+2954,300,0,65,300 Westgate Transit Center SB,2331
+2955,300,0,66,300 Westgate Transit Center SB,6358
+2956,300,0,67,300 Westgate Transit Center SB,4215
+2957,300,0,68,300 Westgate Transit Center SB,3360
+2958,300,0,69,300 Westgate Transit Center SB,4213
+2959,300,0,70,300 Westgate Transit Center SB,6374
+2960,550,1,10,550 Leander Station NB,5542
+2961,550,1,1,550 Lakeline Station NB,5534
+2962,550,1,2,550 Lakeline Station NB,5535
+2963,550,1,3,550 Lakeline Station NB,5536
+2964,550,1,4,550 Lakeline Station NB,5537
+2965,550,1,5,550 Lakeline Station NB,5538
+2966,550,1,1,550 Kramer Station NB,5534
+2967,550,1,6,550 Lakeline Station NB,6519
+2968,550,1,2,550 Kramer Station NB,5535
+2969,550,1,7,550 Lakeline Station NB,5539
+2970,550,1,3,550 Kramer Station NB,5536
+2971,491,1,1,491 Northcross NB,1999
+2972,550,1,8,550 Lakeline Station NB,5540
+2973,491,1,2,491 Northcross NB,2913
+2974,493,0,1,493 Airport/ Oak Springs OB,5633
+2975,550,1,4,550 Kramer Station NB,5537
+2976,491,1,3,491 Northcross NB,1866
+2977,550,1,5,550 Kramer Station NB,5538
+2978,493,0,2,493 Airport/ Oak Springs OB,1957
+2979,493,0,3,493 Airport/ Oak Springs OB,6404
+2980,4,0,1,4 Mopac WB,1822
+2981,491,1,4,491 Northcross NB,4497
+2982,550,1,9,550 Lakeline Station NB,5541
+2983,491,1,5,491 Northcross NB,1871
+2984,491,0,1,491 38th Street SB,2908
+2985,491,0,2,491 38th Street SB,1902
+2986,550,1,6,550 Kramer Station NB,6519
+2987,493,0,4,493 Airport/ Oak Springs OB,934
+2988,550,1,7,550 Kramer Station NB,5539
+2989,4,0,3,4 Mopac WB,6450
+2990,493,0,5,493 Airport/ Oak Springs OB,6366
+2991,491,1,6,491 Northcross NB,5002
+2992,493,0,6,493 Airport/ Oak Springs OB,1373
+2993,493,0,7,493 Airport/ Oak Springs OB,667
+2994,493,0,8,493 Airport/ Oak Springs OB,668
+2995,491,1,7,491 Northcross NB,819
+2996,4,0,7,4 Mopac WB,1368
+2997,493,0,9,493 Airport/ Oak Springs OB,3299
+2998,491,1,8,491 Northcross NB,820
+2999,4,0,8,4 Mopac WB,3337
+3000,4,0,9,4 Mopac WB,847
+3001,4,0,10,4 Mopac WB,848
+3002,4,0,11,4 Mopac WB,4181
+3003,491,0,3,491 38th Street SB,5160
+3004,4,0,12,4 Mopac WB,5119
+3005,491,1,9,491 Northcross NB,822
+3006,491,1,10,491 Northcross NB,5160
+3007,4,0,13,4 Mopac WB,5120
+3008,493,1,1,493 Lakeside Apartments IB,3299
+3009,491,0,4,491 38th Street SB,5964
+3010,4,0,14,4 Mopac WB,6460
+3011,491,0,5,491 38th Street SB,5006
+3012,4,0,15,4 Mopac WB,5949
+3013,493,1,2,493 Lakeside Apartments IB,1373
+3014,4,0,16,4 Mopac WB,5937
+3015,4,0,17,4 Mopac WB,5938
+3016,493,1,3,493 Lakeside Apartments IB,6366
+3017,4,0,18,4 Mopac WB,1967
+3018,4,0,19,4 Mopac WB,5499
+3019,493,1,4,493 Lakeside Apartments IB,5119
+3020,4,0,20,4 Mopac WB,1970
+3021,491,0,6,491 38th Street SB,1935
+3022,4,0,21,4 Mopac WB,1971
+3023,4,0,22,4 Mopac WB,1972
+3024,491,0,7,491 38th Street SB,1936
+3025,4,0,23,4 Mopac WB,1973
+3026,491,1,11,491 Northcross NB,830
+3027,4,0,24,4 Mopac WB,1974
+3028,4,0,25,4 Mopac WB,6243
+3029,492,1,1,492 Hancock Center SB,3931
+3030,491,0,8,491 38th Street SB,1938
+3031,491,1,12,491 Northcross NB,1904
+3032,493,1,5,493 Lakeside Apartments IB,1957
+3033,491,1,13,491 Northcross NB,2908
+3034,493,1,6,493 Lakeside Apartments IB,6404
+3035,491,0,9,491 38th Street SB,1997
+3036,492,1,2,492 Hancock Center SB,5287
+3037,493,1,7,493 Lakeside Apartments IB,1850
+3038,491,0,10,491 38th Street SB,1999
+3039,493,1,8,493 Lakeside Apartments IB,1038
+3040,492,1,3,492 Hancock Center SB,5286
+3041,493,1,9,493 Lakeside Apartments IB,5633
+3042,492,1,4,492 Hancock Center SB,5970
+3043,492,1,5,492 Hancock Center SB,5284
+3044,383,0,1,383 PAVILION NB,5225
+3045,383,0,2,383 PAVILION NB,5071
+3046,383,0,3,383 PAVILION NB,3795
+3047,383,0,4,383 PAVILION NB,3796
+3048,383,0,5,383 PAVILION NB,3797
+3049,383,0,6,383 PAVILION NB,3798
+3050,492,1,6,492 Hancock Center SB,5283
+3051,383,0,7,383 PAVILION NB,3799
+3052,490,0,1,490 Riverside/Pleasant Valley OB,2810
+3053,383,0,8,383 PAVILION NB,4753
+3054,490,0,2,490 Riverside/Pleasant Valley OB,1038
+3055,383,0,9,383 PAVILION NB,4757
+3056,383,0,10,383 PAVILION NB,6427
+3057,490,0,3,490 Riverside/Pleasant Valley OB,5633
+3058,383,0,11,383 PAVILION NB,6456
+3059,490,0,4,490 Riverside/Pleasant Valley OB,2812
+3060,383,0,12,383 PAVILION NB,4682
+3061,383,0,13,383 PAVILION NB,3014
+3062,383,0,14,383 PAVILION NB,5916
+3063,490,0,5,490 Riverside/Pleasant Valley OB,4288
+3064,383,0,15,383 PAVILION NB,3016
+3065,492,0,1,492 Norwood Transit Center NB,5283
+3066,383,0,16,383 PAVILION NB,2726
+3067,383,0,17,383 PAVILION NB,3804
+3068,490,1,1,490 Muni Center IB,4288
+3069,383,0,18,383 PAVILION NB,3806
+3070,383,0,19,383 PAVILION NB,4688
+3071,492,0,2,492 Norwood Transit Center NB,5316
+3072,383,0,20,383 PAVILION NB,5290
+3073,383,0,21,383 PAVILION NB,3809
+3074,383,0,22,383 PAVILION NB,3810
+3075,383,0,23,383 PAVILION NB,3811
+3076,383,0,24,383 PAVILION NB,5432
+3077,383,0,25,383 PAVILION NB,3812
+3078,383,0,26,383 PAVILION NB,2727
+3079,490,1,2,490 Muni Center IB,2810
+3080,492,0,3,492 Norwood Transit Center NB,5284
+3081,492,0,4,492 Norwood Transit Center NB,5970
+3082,492,0,5,492 Norwood Transit Center NB,5286
+3083,492,0,6,492 Norwood Transit Center NB,5287
+3084,492,0,7,492 Norwood Transit Center NB,4708
+3085,492,0,8,492 Norwood Transit Center NB,5317
+3086,492,0,9,492 Norwood Transit Center NB,3931
+3087,214,1,3,214 Lakeline Station EB,4600
+3088,214,1,4,214 Lakeline Station EB,4925
+3089,214,1,5,214 Lakeline Station EB,2825
+3090,214,1,6,214 Lakeline Station EB,2827
+3091,490,0,1,490 Lakeside Apartments OB,2810
+3092,214,1,7,214 Lakeline Station EB,4927
+3093,214,1,8,214 Lakeline Station EB,4928
+3094,214,1,9,214 Lakeline Station EB,4926
+3095,214,1,10,214 Lakeline Station EB,2829
+3096,490,0,2,490 Lakeside Apartments OB,1038
+3097,214,1,11,214 Lakeline Station EB,4924
+3098,490,0,3,490 Lakeside Apartments OB,5633
+3099,214,1,12,214 Lakeline Station EB,2831
+3100,214,1,13,214 Lakeline Station EB,2832
+3101,214,1,14,214 Lakeline Station EB,5220
+3102,490,1,1,490 RBJ Center IB,4288
+3103,490,1,2,490 RBJ Center IB,1957
+3104,490,1,3,490 RBJ Center IB,6404
+3105,214,1,15,214 Lakeline Station EB,5698
+3106,550,0,1,550 MCKALLA STATION SB,5542
+3107,214,1,16,214 Lakeline Station EB,5654
+3108,214,1,17,214 Lakeline Station EB,5654
+3109,214,1,18,214 Lakeline Station EB,5805
+3110,214,1,19,214 Lakeline Station EB,5228
+3111,550,0,2,550 MCKALLA STATION SB,5541
+3112,550,0,3,550 MCKALLA STATION SB,5540
+3113,550,0,1,550 Kramer Station SB,5541
+3114,550,0,4,550 MCKALLA STATION SB,5539
+3115,985,1,1,985 Leander/Lakeline Stations NB,1179
+3116,550,0,5,550 MCKALLA STATION SB,6519
+3117,985,1,2,985 Leander/Lakeline Stations NB,1180
+3118,550,1,1,550 McKalla Station NB,5534
+3119,985,1,3,985 Leander/Lakeline Stations NB,916
+3120,550,1,2,550 McKalla Station NB,5535
+3121,985,1,4,985 Leander/Lakeline Stations NB,5092
+3122,550,0,2,550 Kramer Station SB,5540
+3123,550,1,3,550 McKalla Station NB,5536
+3124,985,1,5,985 Leander/Lakeline Stations NB,2738
+3125,985,1,6,985 Leander/Lakeline Stations NB,5950
+3126,985,1,7,985 Leander/Lakeline Stations NB,2612
+3127,985,1,8,985 Leander/Lakeline Stations NB,716
+3128,550,0,3,550 Kramer Station SB,5539
+3129,550,1,4,550 McKalla Station NB,5537
+3130,550,0,4,550 Kramer Station SB,6519
+3131,550,1,5,550 McKalla Station NB,5538
+3132,550,1,6,550 McKalla Station NB,6519
+3133,333,0,1,333 BLUFF SPRINGS WB,6365
+3134,985,1,9,985 Leander/Lakeline Stations NB,5231
+3135,333,0,2,333 BLUFF SPRINGS WB,5383
+3136,333,0,3,333 BLUFF SPRINGS WB,2504
+3137,333,0,4,333 BLUFF SPRINGS WB,2505
+3138,333,0,5,333 BLUFF SPRINGS WB,5137
+3139,333,0,6,333 BLUFF SPRINGS WB,2507
+3140,333,0,7,333 BLUFF SPRINGS WB,2508
+3141,982,1,1,982 Pavillion Park & Ride NB,6275
+3142,333,0,8,333 BLUFF SPRINGS WB,4354
+3143,333,0,9,333 BLUFF SPRINGS WB,2511
+3144,982,1,2,982 Pavillion Park & Ride NB,2605
+3145,333,0,10,333 BLUFF SPRINGS WB,5704
+3146,982,1,3,982 Pavillion Park & Ride NB,4007
+3147,333,0,11,333 BLUFF SPRINGS WB,555
+3148,333,0,12,333 BLUFF SPRINGS WB,556
+3149,982,1,4,982 Pavillion Park & Ride NB,590
+3150,982,1,5,982 Pavillion Park & Ride NB,593
+3151,492,0,1,492 St George Apartments NB,5283
+3152,982,1,6,982 Pavillion Park & Ride NB,5940
+3153,985,1,10,985 Leander/Lakeline Stations NB,5387
+3154,982,1,7,982 Pavillion Park & Ride NB,1042
+3155,492,0,2,492 St George Apartments NB,5316
+3156,982,1,8,982 Pavillion Park & Ride NB,5864
+3157,492,1,1,492 Primrose Apartments SB,3931
+3158,492,1,2,492 Primrose Apartments SB,5287
+3159,492,0,3,492 St George Apartments NB,5284
+3160,492,1,3,492 Primrose Apartments SB,5286
+3161,982,1,9,982 Pavillion Park & Ride NB,809
+3162,982,1,10,982 Pavillion Park & Ride NB,2088
+3163,492,0,4,492 St George Apartments NB,5970
+3164,990,0,1,990 Manor/Elgin EB,5944
+3165,990,0,2,990 Manor/Elgin EB,2605
+3166,990,0,3,990 Manor/Elgin EB,4007
+3167,492,1,4,492 Primrose Apartments SB,5970
+3168,990,0,4,990 Manor/Elgin EB,590
+3169,492,0,5,492 St George Apartments NB,5286
+3170,990,0,5,990 Manor/Elgin EB,593
+3171,990,0,6,990 Manor/Elgin EB,5940
+3172,105,1,1,105 Westgate SB,497
+3173,105,1,2,105 Westgate SB,498
+3174,982,1,11,982 Pavillion Park & Ride NB,2726
+3175,492,0,6,492 St George Apartments NB,5287
+3176,982,1,12,982 Pavillion Park & Ride NB,5237
+3177,105,1,3,105 Westgate SB,501
+3178,982,1,13,982 Pavillion Park & Ride NB,4658
+3179,990,0,7,990 Manor/Elgin EB,1042
+3180,105,1,4,105 Westgate SB,2738
+3181,990,0,8,990 Manor/Elgin EB,5864
+3182,105,1,5,105 Westgate SB,5950
+3183,142,0,7,142 Parmer NB,864
+3184,105,1,6,105 Westgate SB,2612
+3185,142,0,8,142 Parmer NB,866
+3186,982,1,14,982 Pavillion Park & Ride NB,2727
+3187,142,0,9,142 Parmer NB,2768
+3188,990,0,9,990 Manor/Elgin EB,605
+3189,105,1,7,105 Westgate SB,1655
+3190,105,1,8,105 Westgate SB,1718
+3191,111,1,1,111 Escarpment SB,1179
+3192,105,1,9,105 Westgate SB,4779
+3193,111,1,2,111 Escarpment SB,1180
+3194,105,1,10,105 Westgate SB,1720
+3195,105,1,11,105 Westgate SB,1721
+3196,990,0,10,990 Manor/Elgin EB,610
+3197,105,1,12,105 Westgate SB,1722
+3198,111,1,3,111 Escarpment SB,916
+3199,105,1,13,105 Westgate SB,1723
+3200,111,1,4,111 Escarpment SB,919
+3201,105,1,14,105 Westgate SB,1724
+3202,105,1,15,105 Westgate SB,1725
+3203,111,1,5,111 Escarpment SB,6499
+3204,105,1,16,105 Westgate SB,1726
+3205,105,1,17,105 Westgate SB,4209
+3206,990,0,11,990 Manor/Elgin EB,2427
+3207,111,1,6,111 Escarpment SB,5937
+3208,111,1,7,111 Escarpment SB,5938
+3209,105,1,18,105 Westgate SB,4208
+3210,111,1,8,111 Escarpment SB,2612
+3211,105,1,19,105 Westgate SB,1730
+3212,105,1,20,105 Westgate SB,1731
+3213,105,1,21,105 Westgate SB,1732
+3214,111,1,9,111 Escarpment SB,716
+3215,105,1,22,105 Westgate SB,1733
+3216,105,1,23,105 Westgate SB,1734
+3217,105,1,24,105 Westgate SB,1735
+3218,105,1,25,105 Westgate SB,1736
+3219,105,1,26,105 Westgate SB,1737
+3220,105,1,27,105 Westgate SB,5608
+3221,105,1,28,105 Westgate SB,6002
+3222,105,1,29,105 Westgate SB,1741
+3223,935,1,2,935 Tech Ridge NB,1178
+3224,105,1,30,105 Westgate SB,1742
+3225,105,1,31,105 Westgate SB,1743
+3226,935,1,3,935 Tech Ridge NB,1180
+3227,105,1,32,105 Westgate SB,1744
+3228,105,1,33,105 Westgate SB,1745
+3229,105,1,34,105 Westgate SB,1746
+3230,105,1,35,105 Westgate SB,1747
+3231,142,0,11,142 Parmer NB,3147
+3232,105,1,36,105 Westgate SB,1748
+3233,105,1,37,105 Westgate SB,4219
+3234,935,1,4,935 Tech Ridge NB,916
+3235,935,1,5,935 Tech Ridge NB,6499
+3236,935,1,6,935 Tech Ridge NB,5937
+3237,935,1,7,935 Tech Ridge NB,5938
+3238,935,1,8,935 Tech Ridge NB,2612
+3239,935,1,9,935 Tech Ridge NB,716
+3240,103,0,1,103 Slaughter SB,1178
+3241,990,0,12,990 Manor/Elgin EB,5776
+3242,103,0,2,103 Slaughter SB,1180
+3243,111,1,10,111 Escarpment SB,5903
+3244,111,1,11,111 Escarpment SB,5901
+3245,111,1,12,111 Escarpment SB,3193
+3246,111,1,13,111 Escarpment SB,5491
+3247,111,1,14,111 Escarpment SB,4444
+3248,111,1,15,111 Escarpment SB,4447
+3249,142,0,27,142 Parmer NB,5752
+3250,111,1,16,111 Escarpment SB,5899
+3251,103,0,3,103 Slaughter SB,916
+3252,142,0,28,142 Parmer NB,3036
+3253,142,0,29,142 Parmer NB,5705
+3254,111,1,17,111 Escarpment SB,5897
+3255,142,0,30,142 Parmer NB,5615
+3256,980,1,1,980 New Life Park & Ride/Roundrock NB,2079
+3257,103,0,4,103 Slaughter SB,919
+3258,111,1,18,111 Escarpment SB,5905
+3259,111,1,19,111 Escarpment SB,5906
+3260,142,0,31,142 Parmer NB,2544
+3261,142,0,32,142 Parmer NB,2545
+3262,111,1,20,111 Escarpment SB,5890
+3263,142,0,33,142 Parmer NB,5732
+3264,171,1,1,171 Oak Hill SB,1706
+3265,103,0,5,103 Slaughter SB,6499
+3266,980,1,2,980 New Life Park & Ride/Roundrock NB,497
+3267,111,1,21,111 Escarpment SB,5907
+3268,171,1,2,171 Oak Hill SB,2077
+3269,980,1,3,980 New Life Park & Ride/Roundrock NB,498
+3270,171,1,3,171 Oak Hill SB,2757
+3271,103,0,6,103 Slaughter SB,5937
+3272,111,1,22,111 Escarpment SB,5910
+3273,980,1,4,980 New Life Park & Ride/Roundrock NB,501
+3274,103,0,7,103 Slaughter SB,5938
+3275,171,1,4,171 Oak Hill SB,1179
+3276,142,0,34,142 Parmer NB,4875
+3277,171,1,5,171 Oak Hill SB,1180
+3278,142,0,35,142 Parmer NB,4877
+3279,980,1,5,980 New Life Park & Ride/Roundrock NB,2738
+3280,980,1,6,980 New Life Park & Ride/Roundrock NB,5950
+3281,980,1,7,980 New Life Park & Ride/Roundrock NB,2612
+3282,103,0,8,103 Slaughter SB,5499
+3283,142,0,36,142 Parmer NB,5577
+3284,980,1,8,980 New Life Park & Ride/Roundrock NB,716
+3285,990,0,13,990 Manor/Elgin EB,5696
+3286,171,1,6,171 Oak Hill SB,916
+3287,103,0,9,103 Slaughter SB,2321
+3288,171,1,7,171 Oak Hill SB,919
+3289,171,1,8,171 Oak Hill SB,6499
+3290,990,0,14,990 Manor/Elgin EB,5777
+3291,935,1,10,935 Tech Ridge NB,5274
+3292,171,1,9,171 Oak Hill SB,5937
+3293,171,1,10,171 Oak Hill SB,5938
+3294,171,1,11,171 Oak Hill SB,2612
+3295,171,1,12,171 Oak Hill SB,716
+3296,103,0,10,103 Slaughter SB,2650
+3297,103,0,11,103 Slaughter SB,734
+3298,980,1,9,980 New Life Park & Ride/Roundrock NB,6095
+3299,980,1,10,980 New Life Park & Ride/Roundrock NB,6406
+3300,103,0,12,103 Slaughter SB,742
+3301,103,0,13,103 Slaughter SB,743
+3302,103,0,14,103 Slaughter SB,744
+3303,103,0,15,103 Slaughter SB,745
+3304,103,0,16,103 Slaughter SB,3177
+3305,135,1,1,135 Airport Blvd SB,5274
+3306,135,1,2,135 Airport Blvd SB,4671
+3307,103,0,17,103 Slaughter SB,4430
+3308,980,1,11,980 New Life Park & Ride/Roundrock NB,6094
+3309,103,0,18,103 Slaughter SB,5478
+3310,103,0,19,103 Slaughter SB,2652
+3311,103,0,20,103 Slaughter SB,2653
+3312,103,0,21,103 Slaughter SB,2654
+3313,103,0,22,103 Slaughter SB,2656
+3314,103,0,23,103 Slaughter SB,2657
+3315,103,0,24,103 Slaughter SB,2660
+3316,171,1,13,171 Oak Hill SB,2617
+3317,103,0,25,103 Slaughter SB,2661
+3318,103,0,26,103 Slaughter SB,5750
+3319,103,0,27,103 Slaughter SB,2663
+3320,103,0,28,103 Slaughter SB,4412
+3321,171,1,14,171 Oak Hill SB,5943
+3322,171,1,15,171 Oak Hill SB,4473
+3323,171,1,16,171 Oak Hill SB,4481
+3324,135,1,3,135 Airport Blvd SB,3291
+3325,171,1,17,171 Oak Hill SB,2618
+3326,171,1,18,171 Oak Hill SB,4462
+3327,171,1,19,171 Oak Hill SB,4457
+3328,135,1,4,135 Airport Blvd SB,3295
+3329,135,1,5,135 Airport Blvd SB,3296
+3330,171,1,20,171 Oak Hill SB,4453
+3331,135,1,6,135 Airport Blvd SB,3298
+3332,135,1,7,135 Airport Blvd SB,3299
+3333,171,1,21,171 Oak Hill SB,4448
+3334,135,1,8,135 Airport Blvd SB,3300
+3335,661,0,4,661 Far West OB,4983
+3336,135,1,9,135 Airport Blvd SB,1349
+3337,661,0,5,661 Far West OB,1919
+3338,483,1,1,483 Downtown NB,4326
+3339,483,1,2,483 Downtown NB,5099
+3340,483,1,3,483 Downtown NB,6241
+3341,481,0,1,481 Rundberg NB,5158
+3342,483,0,1,483 Riverside SB,5158
+3343,484,0,1,484 South Lamar SB,5158
+3344,485,0,1,485 Cameron NB,5158
+3345,486,0,1,486 Nuckols Crossing SB,5158
+3346,484,0,2,484 South Lamar SB,1966
+3347,486,0,2,486 Nuckols Crossing SB,2613
+3348,481,0,2,481 Rundberg NB,5965
+3349,483,0,2,483 Riverside SB,2613
+3350,484,0,3,484 South Lamar SB,5499
+3351,483,1,4,483 Downtown NB,4692
+3352,481,0,3,481 Rundberg NB,591
+3353,483,1,5,483 Downtown NB,3247
+3354,485,0,2,485 Cameron NB,924
+3355,486,0,3,486 Nuckols Crossing SB,2763
+3356,481,0,4,481 Rundberg NB,593
+3357,484,0,4,484 South Lamar SB,2321
+3358,483,1,6,483 Downtown NB,3248
+3359,481,0,5,481 Rundberg NB,5940
+3360,486,0,4,486 Nuckols Crossing SB,517
+3361,483,1,7,483 Downtown NB,3249
+3362,483,0,3,483 Riverside SB,2763
+3363,484,0,5,484 South Lamar SB,4082
+3364,486,0,5,486 Nuckols Crossing SB,5743
+3365,485,0,3,485 Cameron NB,928
+3366,483,1,8,483 Downtown NB,950
+3367,483,0,4,483 Riverside SB,3846
+3368,486,0,6,486 Nuckols Crossing SB,4029
+3369,483,0,5,483 Riverside SB,3847
+3370,484,0,6,484 South Lamar SB,2322
+3371,483,0,6,483 Riverside SB,5023
+3372,481,0,6,481 Rundberg NB,1042
+3373,485,0,4,485 Cameron NB,929
+3374,483,1,9,483 Downtown NB,5728
+3375,484,0,7,484 South Lamar SB,4070
+3376,486,0,7,486 Nuckols Crossing SB,522
+3377,486,0,8,486 Nuckols Crossing SB,524
+3378,483,0,7,483 Riverside SB,1186
+3379,485,0,5,485 Cameron NB,6461
+3380,484,0,8,484 South Lamar SB,5635
+3381,483,1,10,483 Downtown NB,1018
+3382,481,0,7,481 Rundberg NB,5864
+3383,486,0,9,486 Nuckols Crossing SB,4046
+3384,483,0,8,483 Riverside SB,1187
+3385,484,0,9,484 South Lamar SB,2324
+3386,483,0,9,483 Riverside SB,1188
+3387,486,0,10,486 Nuckols Crossing SB,526
+3388,481,0,8,481 Rundberg NB,5353
+3389,485,0,6,485 Cameron NB,5610
+3390,484,0,10,484 South Lamar SB,722
+3391,483,1,11,483 Downtown NB,1021
+3392,486,0,11,486 Nuckols Crossing SB,527
+3393,481,0,9,481 Rundberg NB,5634
+3394,483,1,12,483 Downtown NB,6367
+3395,483,0,10,483 Riverside SB,999
+3396,486,0,12,486 Nuckols Crossing SB,5870
+3397,485,0,7,485 Cameron NB,934
+3398,481,0,10,481 Rundberg NB,603
+3399,486,0,13,486 Nuckols Crossing SB,529
+3400,483,1,13,483 Downtown NB,6428
+3401,484,0,11,484 South Lamar SB,2328
+3402,483,0,11,483 Riverside SB,5554
+3403,486,0,14,486 Nuckols Crossing SB,4267
+3404,481,0,11,481 Rundberg NB,604
+3405,485,0,8,485 Cameron NB,935
+3406,481,0,12,481 Rundberg NB,605
+3407,484,0,12,484 South Lamar SB,2255
+3408,483,0,12,483 Riverside SB,1002
+3409,486,0,15,486 Nuckols Crossing SB,531
+3410,484,0,13,484 South Lamar SB,5879
+3411,481,0,13,481 Rundberg NB,606
+3412,483,1,15,483 Downtown NB,1356
+3413,484,0,14,484 South Lamar SB,2329
+3414,486,0,16,486 Nuckols Crossing SB,6356
+3415,481,0,14,481 Rundberg NB,607
+3416,485,0,9,485 Cameron NB,936
+3417,483,0,13,483 Riverside SB,1190
+3418,486,0,17,486 Nuckols Crossing SB,543
+3419,484,0,15,484 South Lamar SB,728
+3420,483,1,16,483 Downtown NB,1358
+3421,485,0,10,485 Cameron NB,937
+3422,481,0,15,481 Rundberg NB,608
+3423,486,0,18,486 Nuckols Crossing SB,5489
+3424,483,1,17,483 Downtown NB,1359
+3425,483,0,14,483 Riverside SB,1191
+3426,484,0,16,484 South Lamar SB,729
+3427,485,0,11,485 Cameron NB,938
+3428,481,0,16,481 Rundberg NB,609
+3429,486,0,19,486 Nuckols Crossing SB,545
+3430,484,0,17,484 South Lamar SB,730
+3431,486,0,20,486 Nuckols Crossing SB,5363
+3432,483,0,15,483 Riverside SB,3535
+3433,485,0,12,485 Cameron NB,939
+3434,484,0,18,484 South Lamar SB,2650
+3435,483,0,16,483 Riverside SB,4296
+3436,481,0,17,481 Rundberg NB,610
+3437,485,0,13,485 Cameron NB,940
+3438,484,0,19,484 South Lamar SB,732
+3439,483,1,20,483 Downtown NB,1244
+3440,486,0,21,486 Nuckols Crossing SB,5871
+3441,485,0,14,485 Cameron NB,942
+3442,486,0,22,486 Nuckols Crossing SB,548
+3443,484,0,20,484 South Lamar SB,733
+3444,484,0,21,484 South Lamar SB,4235
+3445,483,1,21,483 Downtown NB,1361
+3446,481,0,18,481 Rundberg NB,611
+3447,483,0,17,483 Riverside SB,1027
+3448,483,1,22,483 Downtown NB,1032
+3449,481,0,19,481 Rundberg NB,612
+3450,486,0,23,486 Nuckols Crossing SB,4381
+3451,483,0,18,483 Riverside SB,1028
+3452,484,1,1,484 Downtown NB,4212
+3453,484,0,22,484 South Lamar SB,4212
+3454,481,0,20,481 Rundberg NB,613
+3455,486,0,24,486 Nuckols Crossing SB,550
+3456,481,0,21,481 Rundberg NB,614
+3457,485,0,15,485 Cameron NB,3259
+3458,486,0,25,486 Nuckols Crossing SB,551
+3459,483,0,19,483 Riverside SB,6536
+3460,481,0,22,481 Rundberg NB,5862
+3461,486,0,26,486 Nuckols Crossing SB,552
+3462,485,0,16,485 Cameron NB,4581
+3463,483,0,20,483 Riverside SB,5774
+3464,481,0,23,481 Rundberg NB,617
+3465,483,1,24,483 Downtown NB,1034
+3466,486,0,27,486 Nuckols Crossing SB,5703
+3467,485,0,17,485 Cameron NB,3260
+3468,483,0,21,483 Riverside SB,1013
+3469,484,1,4,484 Downtown NB,6357
+3470,486,0,28,486 Nuckols Crossing SB,5758
+3471,481,0,24,481 Rundberg NB,618
+3472,485,0,18,485 Cameron NB,3261
+3473,486,0,29,486 Nuckols Crossing SB,4348
+3474,481,0,25,481 Rundberg NB,5860
+3475,483,0,22,483 Riverside SB,1015
+3476,483,1,25,483 Downtown NB,1246
+3477,485,0,19,485 Cameron NB,3262
+3478,481,0,26,481 Rundberg NB,2878
+3479,486,0,30,486 Nuckols Crossing SB,4349
+3480,481,0,27,481 Rundberg NB,1417
+3481,485,0,20,485 Cameron NB,5567
+3482,483,0,23,483 Riverside SB,6368
+3483,481,0,28,481 Rundberg NB,622
+3484,486,0,31,486 Nuckols Crossing SB,4351
+3485,483,1,26,483 Downtown NB,4024
+3486,483,0,24,483 Riverside SB,3314
+3487,485,0,21,485 Cameron NB,3266
+3488,486,0,32,486 Nuckols Crossing SB,4948
+3489,484,1,9,484 Downtown NB,2260
+3490,483,0,25,483 Riverside SB,3315
+3491,483,1,27,483 Downtown NB,1249
+3492,485,0,22,485 Cameron NB,4191
+3493,481,0,29,481 Rundberg NB,5071
+3494,486,0,33,486 Nuckols Crossing SB,5398
+3495,483,0,26,483 Riverside SB,3316
+3496,484,1,10,484 Downtown NB,4072
+3497,485,0,23,485 Cameron NB,5617
+3498,483,0,27,483 Riverside SB,3317
+3499,481,0,30,481 Rundberg NB,3795
+3500,485,0,24,485 Cameron NB,6289
+3501,483,0,28,483 Riverside SB,3318
+3502,483,1,28,483 Downtown NB,2767
+3503,484,1,11,484 Downtown NB,776
+3504,481,0,31,481 Rundberg NB,3796
+3505,485,0,25,485 Cameron NB,6091
+3506,484,1,12,484 Downtown NB,777
+3507,481,0,32,481 Rundberg NB,3797
+3508,481,0,33,481 Rundberg NB,3798
+3509,484,1,13,484 Downtown NB,5396
+3510,485,0,26,485 Cameron NB,6292
+3511,484,1,14,484 Downtown NB,4071
+3512,483,1,29,483 Downtown NB,2643
+3513,481,0,34,481 Rundberg NB,5070
+3514,484,1,15,484 Downtown NB,781
+3515,485,0,27,485 Cameron NB,6335
+3516,486,1,6,486 Downtown NB,1224
+3517,485,0,28,485 Cameron NB,6387
+3518,481,0,35,481 Rundberg NB,3127
+3519,483,1,30,483 Downtown NB,6314
+3520,485,0,29,485 Cameron NB,5932
+3521,481,0,36,481 Rundberg NB,3129
+3522,483,1,31,483 Downtown NB,5158
+3523,485,0,30,485 Cameron NB,5455
+3524,481,0,37,481 Rundberg NB,3130
+3525,485,0,31,485 Cameron NB,2388
+3526,484,1,18,484 Downtown NB,2108
+3527,481,0,38,481 Rundberg NB,2581
+3528,483,0,29,483 Riverside SB,5098
+3529,485,0,32,485 Cameron NB,2389
+3530,484,1,19,484 Downtown NB,2110
+3531,485,0,33,485 Cameron NB,2390
+3532,481,0,39,481 Rundberg NB,2582
+3533,484,1,20,484 Downtown NB,2112
+3534,485,0,34,485 Cameron NB,4609
+3535,481,0,40,481 Rundberg NB,2583
+3536,485,0,35,485 Cameron NB,2392
+3537,481,0,41,481 Rundberg NB,5445
+3538,485,0,36,485 Cameron NB,4592
+3539,484,1,21,484 Downtown NB,5158
+3540,485,0,37,485 Cameron NB,2870
+3541,481,1,2,481 Downtown SB,467
+3542,485,0,38,485 Cameron NB,4709
+3543,483,0,30,483 Riverside SB,4326
+3544,481,1,3,481 Downtown SB,468
+3545,485,0,39,485 Cameron NB,4708
+3546,481,1,4,481 Downtown SB,6452
+3547,485,0,40,485 Cameron NB,2436
+3548,481,1,5,481 Downtown SB,5859
+3549,485,0,41,485 Cameron NB,4707
+3550,481,1,6,481 Downtown SB,472
+3551,485,0,42,485 Cameron NB,2439
+3552,481,1,7,481 Downtown SB,1296
+3553,481,1,8,481 Downtown SB,620
+3554,481,1,9,481 Downtown SB,5606
+3555,485,0,43,485 Cameron NB,5447
+3556,481,1,10,481 Downtown SB,474
+3557,481,1,11,481 Downtown SB,475
+3558,485,0,44,485 Cameron NB,6419
+3559,481,1,12,481 Downtown SB,476
+3560,481,1,13,481 Downtown SB,5861
+3561,486,1,25,486 Downtown NB,4026
+3562,485,1,1,485 Downtown SB,6419
+3563,486,1,26,486 Downtown NB,576
+3564,485,1,2,485 Downtown SB,5446
+3565,486,1,27,486 Downtown NB,577
+3566,481,1,17,481 Downtown SB,484
+3567,485,1,3,485 Downtown SB,4720
+3568,486,1,28,486 Downtown NB,2767
+3569,481,1,18,481 Downtown SB,485
+3570,485,1,4,485 Downtown SB,2455
+3571,481,1,19,481 Downtown SB,486
+3572,481,1,20,481 Downtown SB,487
+3573,486,1,29,486 Downtown NB,2643
+3574,481,1,21,481 Downtown SB,5405
+3575,481,1,22,481 Downtown SB,489
+3576,485,1,7,485 Downtown SB,2871
+3577,481,1,23,481 Downtown SB,490
+3578,486,1,30,486 Downtown NB,5158
+3579,485,1,8,485 Downtown SB,6431
+3580,481,1,24,481 Downtown SB,5357
+3581,485,1,9,485 Downtown SB,5782
+3582,481,1,25,481 Downtown SB,2003
+3583,485,1,10,485 Downtown SB,2306
+3584,481,1,26,481 Downtown SB,494
+3585,485,1,11,485 Downtown SB,2307
+3586,481,1,27,481 Downtown SB,5863
+3587,485,1,12,485 Downtown SB,2308
+3588,485,1,13,485 Downtown SB,5783
+3589,481,1,28,481 Downtown SB,497
+3590,481,1,29,481 Downtown SB,498
+3591,485,1,14,485 Downtown SB,5613
+3592,485,1,15,485 Downtown SB,5683
+3593,481,1,30,481 Downtown SB,501
+3594,485,1,16,485 Downtown SB,6409
+3595,481,1,31,481 Downtown SB,2738
+3596,485,1,17,485 Downtown SB,6293
+3597,481,1,32,481 Downtown SB,5158
+3598,485,1,21,485 Downtown SB,3296
+3599,485,1,22,485 Downtown SB,3297
+3600,485,1,23,485 Downtown SB,3298
+3601,485,1,24,485 Downtown SB,3299
+3602,485,1,25,485 Downtown SB,3300
+3603,485,1,26,485 Downtown SB,5100
+3604,485,1,27,485 Downtown SB,3302
+3605,485,1,28,485 Downtown SB,3303
+3606,485,1,29,485 Downtown SB,3337
+3607,485,1,30,485 Downtown SB,847
+3608,485,1,31,485 Downtown SB,848
+3609,485,1,32,485 Downtown SB,4181
+3610,485,1,33,485 Downtown SB,5119
+3611,485,1,34,485 Downtown SB,5120
+3612,485,1,35,485 Downtown SB,6460
+3613,485,1,36,485 Downtown SB,5949
+3614,485,1,37,485 Downtown SB,5158

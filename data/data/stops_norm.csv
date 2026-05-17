@@ -1,0 +1,2286 @@
+stop_name,stop_lat,stop_lon,wheelchair_accessible,bikes_allowed,is_express,stop_id
+7000 Manor/Susquehanna,30.313865,-97.664697,1,1,False,1619
+6650 Manor/Loyola,30.310003,-97.667482,1,1,False,1621
+University Hills SB (Manor/Northeast),30.3085,-97.671213,1,1,False,1622
+6102 Manor/Wheless,30.307941,-97.678194,1,1,False,1625
+5900 Manor/Sweeney,30.30659,-97.680101,1,1,False,1626
+Manor at Rogge SB (Manor/Rogge),30.304383,-97.681613,1,1,False,1627
+Manor/Wellington,30.30115,-97.685058,1,1,False,1629
+51st/Manor SB (Manor/51st),30.298358,-97.687017,1,1,False,1631
+4800 Manor/Creekwood,30.295369,-97.689006,1,1,False,6084
+4500 Manor/Lovell,30.29216,-97.689382,1,1,False,1633
+3722 Manor/Tilley,30.290265,-97.695112,1,1,False,1634
+3600 Manor/Pershing,30.28934,-97.698275,1,1,False,1635
+Manor/Anchor,30.287728,-97.701113,1,1,False,1636
+Manor/Tillery,30.286885,-97.703204,1,1,False,4193
+Alexander SB (Manor/Alexander),30.285663,-97.710921,1,1,False,1639
+Manor/Walnut,30.285124,-97.714409,1,1,False,1640
+Cherrywood SB (Manor/Cherrywood),30.284554,-97.717984,1,1,False,1642
+Dean Keeton/Dancy NE Corner,30.284787,-97.721969,1,1,False,1644
+920 Dean Keeton/Red River,30.287579,-97.727345,1,1,False,2077
+East Dean Keeton SB (Dean Keeton/Medical Arts),30.288847,-97.729473,1,1,False,6498
+Dean Keeton/Speedway NE Corner,30.289536,-97.737134,1,1,False,2079
+UT West Mall Station (SB),30.286231,-97.741771,1,1,False,497
+Guadalupe/W. 21st Street,30.283384,-97.742081,1,1,False,498
+Norwood Transit Center - A,30.340202,-97.691345,1,1,False,6419
+Capitol Station (SB),30.275022,-97.744169,1,1,False,2738
+1113 Rutherford/Furness,30.340454,-97.690058,1,1,False,5446
+8100 Cameron Road,30.33771,-97.68437,1,1,False,4720
+8004 Cameron/Rutherford,30.33555,-97.68456,1,1,False,2455
+Crestview Station Bus Stop,30.338721,-97.719548,1,1,False,5604
+6904 Airport/Lamar,30.336206,-97.718248,1,1,False,2877
+7606 Cameron/Anderson,30.33123,-97.68753,1,1,False,2456
+1901 William Cannon/Bluff Springs,30.188349,-97.765515,1,1,False,5758
+Airport/Guadalupe,30.333535,-97.716863,1,1,False,5510
+7400 Cameron/McKie,30.32921,-97.69045,1,1,False,2457
+Riverside/Congress FS,30.256196,-97.746021,1,1,False,3846
+6402 Airport Blvd (Highland Mall),30.328339,-97.716081,1,1,False,5603
+1423 St Johns/Cameron,30.325707,-97.691802,1,1,False,6346
+Airport at Clayton SB,30.323416,-97.71554,1,1,False,6526
+5789 Airport/Koenig,30.321647,-97.71395,1,1,False,5625
+Berkman/US 290 NW Corner,30.3223,-97.68924,1,1,False,1313
+Berkman/US 290 SW Corner,30.319884,-97.68919,1,1,False,4748
+5600 Avenue F/56th,30.321167,-97.718996,1,1,False,1164
+6500 Berkman/Wheless,30.318167,-97.690141,1,1,False,5186
+6208 Berkman/Glen Valley,30.316451,-97.691223,1,1,False,1316
+5302 Duval/53rd,30.316511,-97.718524,1,1,False,6248
+2237 Riverside/Willow Creek,30.238275,-97.726015,1,1,False,1003
+5810 Berkman/Sweetbriar,30.312311,-97.693666,1,1,False,1318
+Duval/51st,30.314362,-97.719922,1,1,False,1168
+Berkman/Cloverleaf,30.309342,-97.695539,1,1,False,1319
+5305 Berkman/Broadmoor,30.306736,-97.697201,1,1,False,6295
+Duval/48th,30.310968,-97.722129,1,1,False,1169
+4509 Teri/Pleasant Valley,30.197276,-97.744457,1,1,False,6309
+2303 Teri/Spruce,30.200146,-97.749038,1,1,False,6313
+1716 Barbara Jordan/Berkman,30.302661,-97.700391,1,1,False,6335
+4510 Duval/45th,30.307337,-97.724462,1,1,False,4150
+5925 Riverside/Grove,30.226741,-97.70763,1,1,False,6368
+Decker (Loyola/Decker),30.291672,-97.628589,1,1,False,6183
+Tannehill/Webberville,30.283619,-97.671579,1,1,False,4606
+2008 Teri/Pepper,30.202328,-97.752516,1,1,False,1228
+4924 Mueller/Barbara Jordan,30.303915,-97.704151,1,1,False,5794
+Duval/43rd,30.30438,-97.726357,1,1,False,1171
+4338 Tannehill/Webberville,30.281843,-97.67245,1,1,False,6385
+Loyola/Wentworth,30.292958,-97.631241,1,1,False,5981
+4801 Freidrich/Teri,30.204466,-97.753036,1,1,False,1229
+4002 Duval/41st,30.301674,-97.728038,1,1,False,1172
+4826 Mueller/Philomena,30.301482,-97.70572,1,1,False,5483
+4100 Tannehill/Samuel Huston,30.279199,-97.674156,1,1,False,5912
+4601 Freidrich/City Yard,30.208174,-97.750684,1,1,False,1230
+3508 Duval/38th,30.298182,-97.730215,1,1,False,4152
+1714 Aldrich/Mueller,30.298134,-97.707679,1,1,False,5670
+Duval/33rd,30.295649,-97.731832,1,1,False,1174
+4300 Airport/Aldrich,30.29844,-97.709294,1,1,False,5918
+4217 Freidrich/St Elmo,30.211339,-97.748689,1,1,False,1231
+3200 Duval/32nd,30.294603,-97.732495,1,1,False,1175
+Colony Park SB (Loyola/Colony Loop),30.297971,-97.64216,1,1,False,2282
+Jackie Robinson/Delano,30.276588,-97.67835,1,1,False,1085
+4335 Airport/Parkwood,30.30041,-97.71246,1,1,False,3271
+4115 Freidrich/Woodward,30.213484,-97.746116,1,1,False,1232
+6714 Loyola/Sandshof,30.299247,-97.645835,1,1,False,2288
+2751 Foster/Rockwood,30.357549,-97.738037,1,1,False,6388
+Loyola/Johnny Morris NE Corner,30.29995,-97.647303,1,1,False,4615
+Duval/30th,30.291876,-97.734222,1,1,False,1176
+1411 Fort Branch/Meander,30.278736,-97.680321,1,1,False,6369
+San Jacinto/Dean Keeton NW Corner,30.289599,-97.734686,1,1,False,1177
+Loyola/Johnny Morris NW Corner,30.30163,-97.650907,1,1,False,5558
+1420 Webberville/Fort Branch,30.27989,-97.681063,1,1,False,1089
+2000 Woodward/Ben White,30.217996,-97.743796,1,1,False,5663
+2711 Anderson/Northcross,30.358707,-97.736521,1,1,False,5855
+45th / Bennett,30.303935,-97.717598,1,1,False,3532
+UT Stadium SB (San Jacinto/23rd),30.285506,-97.733782,1,1,False,1179
+5900 Loyola/Crystalbrook,30.303281,-97.654591,1,1,False,2290
+12TH/WEBBERVILLE,30.278254,-97.684918,1,1,False,1091
+5600 Loyola/Millrace,30.303051,-97.657759,1,1,False,2291
+3301 Parker/Timber Ridge,30.222918,-97.7421,1,1,False,4324
+4400 Red River/44th,30.303378,-97.72062,1,1,False,1701
+2098 SAN JACINTO/21ST,30.283014,-97.7341,1,1,False,1180
+4600 12th/Springdale,30.278941,-97.686682,1,1,False,1092
+3101 Parker/Wickshire,30.224517,-97.742158,1,1,False,1237
+4202 Red River/Park,30.301618,-97.721598,1,1,False,6337
+8003 Burnet/Ashdale,30.358604,-97.730093,1,1,False,5746
+12th/Cometa,30.278639,-97.689538,1,1,False,1093
+Burnet/Teakwood,30.360508,-97.729588,1,1,False,3063
+2801 Parker/Royal Hill,30.227381,-97.740387,1,1,False,1238
+5200 Loyola/Bridgewater,30.304837,-97.664061,1,1,False,2292
+4000 Red River/40th,30.298607,-97.722783,1,1,False,1703
+2501 Parker/Braxton,30.230144,-97.7382,1,1,False,1239
+2301 Ohlen/Bowling Green,30.362571,-97.728237,1,1,False,3120
+Red River/38th,30.29576,-97.723443,1,1,False,1704
+3522 12th/E M Franklin,30.277864,-97.694461,1,1,False,1094
+2301 Parker/Oltorf,30.232116,-97.736934,1,1,False,1240
+Medical School SB (San Jacinto/17th),30.277723,-97.736643,1,1,False,916
+3500 Loyola/Manor,30.310494,-97.667452,1,1,False,5847
+3400 Red River/Harris,30.293324,-97.725492,1,1,False,5569
+1821 Ohlen/Renton,30.360919,-97.723494,1,1,False,5662
+3500 12th/Greenwood,30.277482,-97.696869,1,1,False,4670
+ABIA Lower Level,30.202744,-97.665653,1,1,False,4326
+Hogan/Community,30.236954,-97.702062,1,1,False,832
+3300 Loyola/Kings Point,30.311577,-97.669075,1,1,False,2295
+2201 Burton/Oltorf,30.231208,-97.73355,1,1,False,1359
+6107 Hogan/Montopolis,30.235551,-97.699597,1,1,False,5736
+San Jacinto/14th,30.275451,-97.737526,1,1,False,919
+3100 Red River/32nd,30.290572,-97.727389,1,1,False,1706
+3250 12th/Airport,30.276978,-97.700178,1,1,False,1096
+Ohlen/Contour,30.36282,-97.71887,1,1,False,3123
+2900 Loyola/Tulsa,30.314191,-97.673126,1,1,False,2296
+911 Montopolis/Cirulo de Amistad,30.234794,-97.697069,1,1,False,3255
+Burton/Valley Hill Cir.,30.234059,-97.731309,1,1,False,1243
+1649 Ohlen/Research,30.36357,-97.71592,1,1,False,3125
+703 Montopolis/Ponca,30.237459,-97.695289,1,1,False,5466
+12th/Harvey,30.276346,-97.70424,1,1,False,1098
+1801 Burton/Woodland,30.235764,-97.72851,1,1,False,1244
+Montopolis/Monsanto,30.238996,-97.694369,1,1,False,3256
+Montopolis/El Mirando,30.240245,-97.693567,1,1,False,4306
+200 Turk/Cullen,30.163367,-97.791351,1,1,False,5263
+2714 Foster/Northcross,30.357211,-97.737209,1,1,False,5856
+Capitol/Waterloo SB (San Jacinto/11th),30.272244,-97.738709,1,1,False,6499
+8919 Galewood/Payton Gin,30.36617,-97.715754,1,1,False,4733
+2400 Loyola/Roanoke,30.318413,-97.678508,1,1,False,2298
+2900 12th/Alexander,30.275723,-97.708093,1,1,False,1099
+Burton/Riverside,30.239196,-97.727578,1,1,False,1361
+9029 Galewood/Colony Creek,30.367505,-97.714901,1,1,False,4731
+810 Dean Keeton/Hampton,30.289184,-97.730013,1,1,False,2757
+6800 Northeast/Loyola,30.317815,-97.680764,1,1,False,2299
+Riverside/Town Creek,30.24114,-97.727591,1,1,False,1032
+1830 Colony Creek/Northgate,30.369704,-97.716323,1,1,False,4728
+305 Slaughter/Alice Mae,30.167797,-97.79335,1,1,False,6479
+12th/Cedar,30.274879,-97.713399,1,1,False,1101
+6502 Northeast/North Hampton,30.315093,-97.681362,1,1,False,2300
+Northgate/Rundberg,30.371518,-97.715819,1,1,False,3127
+6400 North Hampton/Bristol,30.3138,-97.681756,1,1,False,4610
+1770 Riverside/Shore District,30.243702,-97.729475,1,1,False,6443
+324 Slaughter/Francia,30.169519,-97.795847,1,1,False,5968
+104 8th/Congress,30.269914,-97.741869,1,1,False,5937
+2204 12th/Chestnut,30.27439,-97.716486,1,1,False,1102
+6200 North Hampton/Wheless,30.312469,-97.684539,1,1,False,5008
+183/Patton (Esperanza Community),30.232832,-97.684391,1,1,False,6432
+1914 12th/Chicon,30.273963,-97.719142,1,1,False,1103
+Steck/Sandalwood,30.364974,-97.735546,1,1,False,1906
+Masterson Station (SB),30.370933,-97.692733,1,1,True,5858
+1600 Riverside/Summit,30.246505,-97.731969,1,1,False,1034
+8905 S 1st/Slaughter,30.173403,-97.798751,1,1,False,4404
+9512 Mountain Quail/Rutland,30.371315,-97.709301,1,1,False,6255
+Steck/Daleview,30.365892,-97.737465,1,1,False,4649
+1700 12th/Leona,30.273521,-97.72187,1,1,False,1105
+2006 Gaston Place/Wellington,30.312629,-97.688711,1,1,False,2302
+216 8th/Lavaca,30.270613,-97.744215,1,1,False,5938
+8515 S 1st/Hyde Park,30.176671,-97.797694,1,1,False,3768
+3400 Steck/Shoal Creek,30.366965,-97.739674,1,1,False,1907
+Howard Station Bus Stop,30.439972,-97.70124,1,1,False,5607
+ACC Riverside  @ Grove,30.23618,-97.703723,1,1,False,6439
+1718 Briarcliff/Berkman,30.31399,-97.692156,1,1,False,5781
+5107 Heflin/Webberville,30.28262,-97.676905,1,1,False,5642
+1400 12th/Angelina,30.273059,-97.7249,1,1,False,1106
+1000 East Riverside/Travis Heights,30.249906,-97.738594,1,1,False,1246
+10014 Mountain Quail/Mearns Meadow,30.375848,-97.705196,1,1,False,6252
+8313 S 1st/Great Britain,30.179635,-97.795803,1,1,False,3769
+1500 Briarcliff/Belfast,30.315083,-97.694414,1,1,False,2305
+8201 S 1st/Mairo,30.180906,-97.794841,1,1,False,2636
+Oak Hill Plaza,30.234966,-97.87694,1,1,False,2597
+1220 12th/San Bernard,30.272727,-97.726844,1,1,False,1107
+Steck/Mopac,30.368976,-97.743943,1,1,False,1909
+1225 Mearns Meadow/Parkfield,30.371708,-97.702935,1,1,False,6251
+7901 S 1st/Dittmar,30.183697,-97.79269,1,1,False,3757
+3301 Wells Branch/Howard,30.440104,-97.695268,1,1,False,5305
+504 Riverside/Newning,30.253005,-97.742945,1,1,False,4024
+Oak Springs/Springdale,30.273534,-97.691296,1,1,False,669
+Domain Station,30.39985,-97.72045,1,1,True,5919
+Ruiz Library,30.229539,-97.706558,1,1,False,1017
+Guadalupe/4th,30.267331,-97.747037,1,1,False,2613
+Steck/Summerside,30.37058,-97.7466,1,1,False,1910
+3001 Wells Branch/Summit,30.44121,-97.692441,1,1,False,5278
+New Airport/Employee,30.212636,-97.66384,1,1,False,5099
+5508 Martin Luther King Jr/Hilldale,30.286729,-97.671079,1,1,False,5640
+1106 Mearns Meadow/Quail,30.369808,-97.701042,1,1,False,6257
+Cameron/Glencrest,30.319114,-97.69749,1,1,False,4592
+7401 S 1st/Elderberry,30.187782,-97.790505,1,1,False,5735
+Tech Ridge Bay H,30.418266,-97.668678,1,1,False,5273
+150 Riverside/Congress,30.255868,-97.74546,1,1,False,1249
+Southpark Meadows Station,30.162883,-97.790317,1,1,True,5873
+Decker (Loyola/Decker),30.291672,-97.628589,1,1,True,6183
+2801 Wells Branch/Double File,30.441506,-97.689979,1,1,False,4813
+12th/IH-35,30.272088,-97.730842,1,1,False,1109
+Grove at Riverside,30.226671,-97.708313,1,1,False,6524
+1050 Springdale/Prock,30.270901,-97.692225,1,1,False,1338
+3822 Steck/Greenslope,30.37292,-97.74917,1,1,False,1911
+7301 S 1st/Meadow Lea,30.189842,-97.790405,1,1,False,2638
+Fairfield Rapid  Station (SB),30.355296,-97.703128,1,1,True,467
+603 Slaughter/1st,30.172829,-97.799722,1,1,False,6407
+5304  MLK Jr/Oldfort Hill,30.286744,-97.674512,1,1,False,5641
+1020 Mearns Meadow/Rutland,30.366754,-97.70087,1,1,False,6258
+2301 Wells Branch/Merrilltown,30.438537,-97.685392,1,1,False,4815
+6717 Cameron/Athletic,30.32283,-97.69413,1,1,False,2870
+6964 Convict Hill/290,30.230056,-97.878875,1,1,False,6393
+3924 Steck/Spicewood,30.373226,-97.752979,1,1,False,1912
+1803 Montopolis/Kasper,30.226187,-97.70256,1,1,False,5748
+Martin Luther King/Scottsdale,30.286309,-97.678798,1,1,False,4602
+1018 Springdale/Goodwin,30.267579,-97.694349,1,1,False,1339
+1766 71/Thornberry,30.219402,-97.670379,1,1,False,6241
+Slaughter/Simonetti,30.174173,-97.804467,1,1,False,5416
+2107 Wells Branch/Renaissance,30.436412,-97.683828,1,1,False,4817
+5203 Eastside Bus Plaza Bay H,30.2517,-97.69763,1,1,False,6448
+10051 Great Hills/Research (Target),30.393337,-97.743545,1,1,False,3837
+Westgate Transit Center - F,30.231403,-97.790588,1,1,False,6379
+Norwood Transit Center - F,30.340372,-97.691159,1,1,False,6424
+831 Rundberg/Lamar (Near Side),30.3637,-97.69848,1,1,False,2583
+Norwood Transit Center - C,30.340396,-97.691019,1,1,False,6421
+Tech Ridge Bay F,30.418325,-97.66907,1,1,False,5302
+8213 Panadero/Thaxton,30.157067,-97.743627,1,1,False,5702
+Barbara Jordan SB (Berkman/Barbara Jordan),30.302693,-97.699868,1,1,False,5926
+924 41st/IH 35,30.298908,-97.720539,1,1,False,3843
+North Lamar Bay 2,30.350167,-97.712099,1,1,False,5226
+North Lamar Bay 1,30.350016,-97.71196,1,1,False,5225
+504 Campbell/5th,30.275026,-97.764825,1,1,False,6243
+2535 Anderson/Northcross,30.357183,-97.733456,1,1,False,5854
+Vertex (Slaughter/Vertex),30.150224,-97.753916,1,1,True,6504
+Barbara Jordan SB (Berkman/Barbara Jordan),30.302693,-97.699868,1,1,True,5926
+Vic Mathias/Auditorium Shores (NB),30.259459,-97.748994,1,1,False,2767
+2410 Grove/Montopolis,30.220474,-97.707258,1,1,False,2229
+7201 S 1st/Prince Valiant,30.191724,-97.790325,1,1,False,3770
+Slaughter Station (NB),30.169961,-97.787073,1,1,True,6362
+1206 Camino La Costa/Grand Canyon,30.32428,-97.69614,1,1,False,2459
+Braker/Burnet Stadium Rapid NW Corner (SB),30.391483,-97.722548,1,1,True,4682
+Rundberg/Lamar,30.362762,-97.696525,1,1,False,4539
+Montopolis/Santos,30.22867,-97.700989,1,1,False,3253
+Hancock Center,30.300218,-97.720574,1,1,False,5283
+1000 Howard/Center Line,30.422654,-97.667176,1,1,False,5374
+1135 Airport/Goodwin,30.26848,-97.69626,1,1,False,3261
+8140 Mesa/Steck,30.37377,-97.756008,1,1,False,1913
+27 Waller/Flores,30.253346,-97.735557,1,1,False,6404
+Westgate Transit Center - A,30.230908,-97.790295,1,1,True,6373
+4600 Martin Luther King/Springdale,30.285994,-97.682246,1,1,False,898
+Research/Lamar,30.350323,-97.713047,1,1,False,5071
+6907 S 1st/Thelma,30.194695,-97.78927,1,1,False,2639
+Slaughter/United Kingdom,30.174099,-97.809607,1,1,False,2933
+Rundberg/Slayton,30.361569,-97.694541,1,1,False,2585
+1044 Camino La Costa/Calidad,30.32468,-97.699305,1,1,False,2460
+Colony Park SB (Loyola/Colony Loop),30.297971,-97.64216,1,1,True,2282
+1831 Wells Branch/Thermal,30.434587,-97.678139,1,1,False,5342
+4121 Red River/Park,30.301232,-97.72155,1,1,False,6336
+7944 Salt Springs/Roseborough,30.161236,-97.744138,1,1,False,5699
+Vic Mathias/Auditorium Shores (SB),30.258767,-97.7487,1,1,False,2763
+7720 Lamar/Stobaugh,30.346044,-97.713966,1,1,False,471
+2800 Montopolis/Oltorf,30.216404,-97.709274,1,1,False,2230
+Stonelake/Great Hills,30.394136,-97.73962,1,1,False,5019
+45 Waller/Clermont,30.254853,-97.734855,1,1,False,2045
+2007 Anderson/Burnet,30.354472,-97.727616,1,1,False,954
+9306 Georgian/Rundberg,30.360445,-97.693759,1,1,False,4725
+Norwood Park/Brettonwoods,30.338844,-97.694029,1,1,False,5193
+Pack Saddle Pass/Ben White,30.231055,-97.792199,1,1,False,4231
+2901 Montopolis/Oltorf,30.215288,-97.71025,1,1,False,5974
+Salt Springs at Tara,30.163794,-97.742645,1,1,False,6521
+6594 1st/William Cannon,30.197445,-97.7875,1,1,False,1540
+1207 Montopolis/Larch,30.232656,-97.698459,1,1,False,3254
+1779 Wells Branch/Wells Port,30.435736,-97.67502,1,1,False,5761
+Simond SB (Berkman/Simond),30.296149,-97.700385,1,1,True,6293
+4309 Red River/44th,30.303319,-97.720483,1,1,False,1787
+59 Waller/Holly,30.25619,-97.73426,1,1,False,1959
+1016 Camino La Costa/La Posada,30.327108,-97.702019,1,1,False,4712
+Research/Jamestown,30.355308,-97.714862,1,1,False,3795
+Slaughter/Texas Oaks,30.173995,-97.814789,1,1,False,2934
+Simond SB (Berkman/Simond),30.296149,-97.700385,1,1,False,6293
+9100 Georgian/Fawnridge,30.358478,-97.69499,1,1,False,5406
+Johnny Morris SB (Loyola/Johnny Morris),30.300569,-97.648626,1,1,True,5644
+2222 Western Trails/Pack Saddle,30.230411,-97.793637,1,1,False,1746
+6188 Convict Hill/Escarpment,30.225555,-97.86838,1,1,False,6390
+Woodrow/Anderson,30.35245,-97.7234,1,1,False,956
+Salt Springs/Orange Blossom,30.167114,-97.740546,1,1,False,4361
+6403 S 1st/Eberhart,30.200331,-97.785673,1,1,False,1541
+Research/Clearfield,30.357316,-97.715514,1,1,False,3796
+1312 Slaughter/Bilbrook,30.173971,-97.816864,1,1,False,2935
+810 45th/Red River,30.305167,-97.720184,1,1,False,5394
+Oak Springs SB (Oak Springs/Airport),30.27361,-97.69835,1,1,False,634
+Brodie Oaks Station (NB),30.23595,-97.792633,1,1,True,2370
+2422 Western Trails/Roundup,30.229929,-97.796179,1,1,False,1747
+1401 Holly/Navasota,30.255457,-97.73204,1,1,False,2046
+Georgian/Home Pl.,30.355832,-97.696474,1,1,False,1148
+3900 Martin Luther King/Perez,30.284342,-97.692951,1,1,False,902
+1678 Wells Branch/Owen Tech,30.439132,-97.671492,1,1,False,6453
+5902 Riverside/Grove,30.2273,-97.708137,1,1,False,5728
+3121 Montopolis/Ben White,30.210671,-97.713467,1,1,False,5836
+8523 Research/Fairfield,30.359988,-97.716313,1,1,False,3797
+Woodrow/Princeton,30.349882,-97.723185,1,1,False,958
+205 Riverside/Congress,30.254846,-97.744793,1,1,False,3847
+6001 S 1st/Flournoy,30.203634,-97.783793,1,1,False,1542
+Lavaca/4th,30.266689,-97.745863,1,1,False,2643
+Mueller Tower Station SB (Berkman/Tom Miller),30.290214,-97.699019,1,1,True,6291
+900 St Johns/Bennett,30.331594,-97.701247,1,1,False,1410
+1511 Holly/Comal,30.254888,-97.730453,1,1,False,2047
+Woodrow/Dartmouth,30.348038,-97.723558,1,1,False,4523
+325 Riverside/Newning,30.25359,-97.743972,1,1,False,5023
+8601 Research/Ohlen,30.362273,-97.716941,1,1,False,3798
+5801 Convict Hill/Cannon Mountain,30.223318,-97.863788,1,1,False,3206
+3520 Martin Luther King/EM Franklin,30.283767,-97.696791,1,1,False,5571
+500 45th/Duval,30.307024,-97.724177,1,1,False,4920
+4001 Braker/Stonelake,30.397316,-97.736242,1,1,False,3017
+2559 WESTERN TRAILS/Sagebrush,30.229619,-97.798883,1,1,False,1748
+Cameron/Park Center,30.338928,-97.682055,1,1,False,5082
+2810 Oak Springs/Webberville,30.272939,-97.70225,1,1,False,5464
+Mueller Tower Station SB (Berkman/Tom Miller),30.290214,-97.699019,1,1,False,6291
+Woodrow/Richcreek,30.346068,-97.724799,1,1,False,960
+7308 Riverside/Coriander,30.220466,-97.693726,1,1,False,4692
+5701 Convict Hill/Wagon Train,30.222491,-97.862056,1,1,False,3207
+2700 Western Trails/Sagebrush,30.229104,-97.8005,1,1,False,4219
+1425 Wells Branch/FM 1825,30.441022,-97.664663,1,1,False,5765
+Riverside/Faro,30.229833,-97.712898,1,1,False,1018
+5603 S 1st/Stassney,30.20827,-97.781507,1,1,False,2641
+Del Valle High (Tennis Courts),30.177571,-97.614481,1,1,False,5927
+3577 Montopolis/Burleson,30.206201,-97.716307,1,1,False,5834
+Broken Spoke Station (NB),30.240739,-97.78607,1,1,True,6357
+Purple Sage SB (Crystalbrook/Purple Sage),30.308573,-97.652374,1,1,True,1614
+Braker/Mopac SW Corner,30.396412,-97.734329,1,1,False,5452
+5764 William Cannon/Onion Creek Soccer Complex WB,30.175817,-97.74341,1,1,False,6482
+7100 Roland Johnson/St Johns,30.333174,-97.706079,1,1,False,1412
+715 Riverside/Alameda,30.250734,-97.74061,1,1,False,1186
+1631 Holly/Chalmers,30.254179,-97.728458,1,1,False,2048
+Oak Springs/Ridgeway,30.272556,-97.704568,1,1,False,635
+3300 Martin Luther King/Tillery,30.283022,-97.701544,1,1,False,905
+7100 Woodrow/Piedmont,30.342981,-97.725124,1,1,False,962
+45th/Avenue F,30.3082,-97.727325,1,1,False,4921
+Cameron/Clear Creek,30.341356,-97.68045,1,1,False,5081
+6810 Riverside/Frontier Valley,30.222831,-97.698094,1,1,False,3248
+115 7Th/Colorado,30.269226,-97.743548,1,1,False,6314
+Research/Northgate,30.368858,-97.718513,1,1,False,3799
+Lamar/Howard,30.41672,-97.676257,1,1,False,5319
+4900 West Gate/Choctaw Trail,30.227305,-97.802541,1,1,False,2337
+7000 Woodrow/Cullen,30.341522,-97.725904,1,1,False,963
+Georgian/Elliott,30.353289,-97.699042,1,1,False,1149
+8707 Vertex/Cattle Baron,30.155931,-97.753078,1,1,False,6339
+5th/West,30.26926,-97.75113,1,1,False,2108
+13620 Metric/Howard,30.426334,-97.677159,1,1,False,5522
+1005 East Riverside/Travis Heights,30.249589,-97.738348,1,1,False,1187
+3014 Martin Luther King/Airport,30.282553,-97.704518,1,1,False,4196
+Pleasant Hill Station (NB),30.194535,-97.778085,1,1,True,4382
+6600 Riverside/Vargas,30.224038,-97.700825,1,1,False,3249
+6218 Stassney/TX Dot Way SB,30.201947,-97.720838,1,1,False,6467
+5201 S 1st/Ramble,30.211573,-97.779025,1,1,False,1545
+Del Valle ISD,30.174866,-97.610837,1,1,False,5622
+108 45th Street/Avenue D,30.309112,-97.729235,1,1,False,1054
+3807 Greystone/Chimney Corners,30.36082,-97.75738,1,1,False,1917
+5012 West Gate/Jones,30.225819,-97.803849,1,1,False,2338
+1113 Wells Branch/Drusillas,30.437941,-97.658872,1,1,False,5767
+Riverside/Kenwood,30.248592,-97.736886,1,1,False,1188
+5401 Convict Hill/Beckett,30.220475,-97.85798,1,1,False,3208
+Del Valle ISD (Alt School),30.175917,-97.612199,1,1,False,5803
+5100 William Cannon/Pleasant Valley,30.180326,-97.748355,1,1,False,5383
+Airport Blvd SB (Airport/Manor),30.285952,-97.706369,1,1,True,6496
+4823 Riverside/Crossing Place,30.231928,-97.717861,1,1,False,1021
+5001 S 1st/Emerald Wood,30.213276,-97.778011,1,1,False,1546
+5th/Nueces,30.268672,-97.748979,1,1,False,2110
+13510 Metric/Howard,30.424487,-97.679624,1,1,False,4820
+6800 Woodrow/Choquette,30.339208,-97.727376,1,1,False,964
+6608 Meadow Lake/William Cannon,30.180618,-97.750504,1,1,False,2504
+6502 Bluff Springs/William Cannon,30.189947,-97.767587,1,1,False,5377
+2918 Martin Luther King Jr/Clifford,30.282033,-97.70768,1,1,False,5786
+408 45th Street/Avenue A,30.310425,-97.731878,1,1,False,1055
+LBJ High School SB (Pecan Brook/Uray),30.314638,-97.655825,1,1,True,1616
+Georgian/Jennifer,30.349752,-97.702016,1,1,False,1150
+Bluebonnet Station (NB),30.246384,-97.778167,1,1,True,5875
+5306 West Gate/Indio,30.223145,-97.805582,1,1,False,2339
+Research/Georgian,30.344432,-97.705583,1,1,False,5646
+3615 Greystone/Hart,30.35865,-97.75363,1,1,False,1918
+Cameron/Ferguson,30.347063,-97.677003,1,1,False,3144
+619 45th/Guadalupe,30.311122,-97.733277,1,1,False,1056
+2100 Wickersham/Riverside,30.231526,-97.720884,1,1,False,1022
+6600 Woodrow/Brentwood,30.337479,-97.728461,1,1,False,965
+2832 Martin Luther King Jr/Alexander,30.281684,-97.709892,1,1,False,5801
+6806 Meadow Lake/Bucks Run,30.179147,-97.753231,1,1,False,2505
+9101 Burnet/Research,30.374709,-97.725908,1,1,False,4753
+Georgian/Powell,30.347697,-97.703234,1,1,False,1151
+4617 S 1st/Orland,30.216799,-97.775454,1,1,False,1548
+5207 Eastside Bus Plaza Bay G,30.251577,-97.697387,1,1,False,6447
+6000 Riverside/Clubview,30.226586,-97.706711,1,1,False,951
+5125 Convict Hill/Woodcreek,30.218895,-97.854694,1,1,False,4446
+6500 Jonathan Dr (Highland Mall),30.328767,-97.713056,1,1,False,1415
+8th Street NB (Trinity/8th),30.269216,-97.738446,1,1,False,6315
+Riverside/Summit,30.245976,-97.731836,1,1,False,999
+3535 Greystone/Wood Hollow,30.358258,-97.751138,1,1,False,4652
+Braker/Road A (UT-PRC),30.392361,-97.725994,1,1,False,5718
+Delco Center SB (Pecan Brook/Springdale),30.317947,-97.659681,1,1,True,1618
+Wickersham/Sheringham,30.229914,-97.721493,1,1,False,1023
+4923 Convict Hill/Flaming Oak,30.217966,-97.852755,1,1,False,4445
+7400 Wood Hollow/Greystone,30.35775,-97.75079,1,1,False,1919
+Gilwell/Bahan,30.175517,-97.616139,1,1,False,5990
+1600 Heatherwilde/Wells Branch,30.432288,-97.654196,1,1,False,5768
+107 Chicon/Cesar Chavez,30.257488,-97.724394,1,1,False,6331
+4205 Victory/Ben White,30.232805,-97.7907,1,1,False,4212
+1827 38th Half/Airport,30.28924,-97.707815,1,1,False,6288
+Woodrow/Payne,30.335923,-97.729446,1,1,False,966
+Meadow Lake/Glade Line,30.178193,-97.754961,1,1,False,5137
+Oltorf West Station (NB),30.248024,-97.771014,1,1,True,2260
+Stassney/Meadow Crest,30.191183,-97.73152,1,1,False,5147
+8000 Georgian/Anderson,30.344902,-97.704659,1,1,False,1152
+2700 Martin Luther King/Walnut,30.28113,-97.713317,1,1,False,909
+13200 Metric/Chasewood,30.421944,-97.683043,1,1,False,4821
+2015 William Cannon/Elm Creek,30.187471,-97.762532,1,1,False,4348
+Stassney NB Rapid,30.205395,-97.774493,1,1,True,6525
+2370 Rosewood/Hargrave,30.271236,-97.710649,1,1,False,638
+Rutland Rapid Station (NB),30.379497,-97.724857,1,1,False,4757
+Easton Park NB (McKinney Falls/William Cannon),30.161429,-97.726837,1,1,True,6530
+400 S 1st/Riverside,30.259308,-97.749759,1,1,False,1655
+2300 Wickersham/Cromwell,30.227534,-97.721731,1,1,False,1024
+Gilwell/Thome Valley,30.174468,-97.613185,1,1,False,5988
+West Gate/Cherry Creek NW Corner,30.219202,-97.807111,1,1,False,2340
+918 45th/Lamar,30.313397,-97.737245,1,1,False,1057
+7200 Wood Hollow/Greystone,30.35517,-97.75214,1,1,False,1920
+Woodrow/Romeria,30.333637,-97.730682,1,1,False,967
+1805 Riverside/Parker,30.242658,-97.729061,1,1,False,5554
+Stassney/Birch Creek,30.191363,-97.734842,1,1,False,5289
+500 S 1ST/BARTON SPRINGS,30.258081,-97.750396,1,1,False,1656
+7700 Northcrest/Anderson,30.34336,-97.705878,1,1,False,1153
+Trinity/12th,30.272709,-97.73715,1,1,False,864
+Ann Richards School,30.23581,-97.789879,1,1,False,4234
+311 Chicon/4th,30.259493,-97.723477,1,1,False,2055
+4412 Blue Meadow/Deep Circle,30.179722,-97.758433,1,1,False,2507
+1801 38th Half/Brookview,30.29042,-97.710641,1,1,False,6286
+4401 S 1st/St Elmo,30.220937,-97.772909,1,1,False,1549
+Wood Hollow/Far West NW Corner,30.3536,-97.75311,1,1,False,1921
+Convict Hill/Latta/Brush Country,30.216888,-97.846068,1,1,False,3887
+2300 Martin Luther King/Chestnut,30.280549,-97.717136,1,1,False,910
+12416 Lamar/Parmer,30.406533,-97.678591,1,1,False,5271
+7th Street NB (Pleasant Valley/7th),30.25986,-97.709481,1,1,False,1369
+Braker/Burnet SW Corner,30.391127,-97.722228,1,1,False,3020
+2440 Wickersham/Oltorf,30.226083,-97.723784,1,1,False,1025
+Westgate Transit Center - C,30.231153,-97.791129,1,1,False,6375
+South Congress Bay I,30.223212,-97.766137,1,1,False,5551
+Rundberg/Aberdeen,30.35278,-97.679102,1,1,False,3145
+1115 45th/Bellvue,30.314472,-97.739517,1,1,False,6310
+5104 5th/Shady,30.252159,-97.698091,1,1,False,6413
+5900 Woodrow/Koenig,30.331024,-97.7316,1,1,False,968
+5th/Guadalupe (Republic Square),30.268054,-97.74679,1,1,True,2112
+Springdale Center SB (Manor/Susquehanna),30.31337,-97.665007,1,1,True,6494
+5200 Stassney/Nuckols,30.193201,-97.738673,1,1,False,5831
+614 South 1st/Barton Springs,30.256619,-97.751224,1,1,False,1657
+Airport/55Th,30.316768,-97.713923,1,1,False,5372
+Riverside/Burton,30.240341,-97.727308,1,1,False,1002
+2418 Blue Meadow/Bitteroot,30.1804,-97.761152,1,1,False,2508
+2200 Martin Luther King/Coleto,30.280356,-97.718217,1,1,False,5492
+6010 West Gate/Cherry Creek,30.216907,-97.811046,1,1,False,2341
+Rosewood/Chestnut,30.270419,-97.715,1,1,False,3728
+10099 Burnet/Mc Hale,30.385221,-97.723575,1,1,False,6427
+1599 Slaughter/Orchard Ridge,30.153115,-97.769361,1,1,False,6329
+2300 Panther/Lamar,30.238522,-97.789058,1,1,False,4216
+Oak Springs SB (Oak Springs/Airport),30.27361,-97.69835,1,1,True,634
+4217 S 1st/Radam,30.223688,-97.771174,1,1,False,1550
+4404 Oltorf/Huntwick,30.226807,-97.726139,1,1,False,5788
+12904 Thome Valley/Alomar,30.172998,-97.617421,1,1,False,5987
+1602 38th Half/Maplewood,30.29213,-97.71425,1,1,False,2071
+6714 Wood Hollow/Far West,30.35077,-97.75486,1,1,False,1922
+Airport/53rd,30.314086,-97.715128,1,1,False,5415
+5626 Woodrow/Theckla,30.328866,-97.732957,1,1,False,969
+10401 Burnet/Bright Verde,30.387908,-97.723039,1,1,False,6457
+1194 Rundberg/Teasdale,30.353997,-97.68111,1,1,False,1141
+302 Montopolis/Del Monte,30.242008,-97.692486,1,1,False,3304
+1900 Martin Luther King/Chicon,30.279877,-97.721101,1,1,False,911
+4604 Stassney/Pleasant Valley,30.194088,-97.744476,1,1,False,5828
+613 Chicon/7th,30.262274,-97.722189,1,1,False,2056
+North Lamar Bay 3,30.350066,-97.712111,1,1,False,5227
+Burnet/45th,30.31602,-97.741032,1,1,False,814
+Lamar Square Station (NB),30.254034,-97.762592,1,1,True,777
+2114 Blue Meadow/Blue Dawn,30.18173,-97.764323,1,1,False,4354
+6063 US 290/Old Fredericksburg,30.234925,-97.85363,1,1,False,5585
+6110 West Gate/Luton,30.215531,-97.813866,1,1,False,4427
+303 7th/San Jacinto,30.268158,-97.739822,1,1,False,6370
+2600 Heatherwilde/Wild Senna,30.422266,-97.659205,1,1,False,5771
+Oltorf East SB (Oltorf/Pleasant Valley),30.227843,-97.728279,1,1,False,1356
+Lamar/Walnut Creek Park,30.398789,-97.679545,1,1,False,5346
+38th Half/Lafayette,30.29299,-97.71598,1,1,False,4738
+2522 Stassney/Chaparral,30.193919,-97.747016,1,1,False,1223
+807 Chicon (Huston-Tillotson),30.263956,-97.721408,1,1,False,2057
+Burnet/47th,30.317748,-97.740022,1,1,False,4202
+University Hills SB (Manor/Northeast),30.3085,-97.671213,1,1,True,1622
+10403 Burnet/Bright Verde,30.388634,-97.72256,1,1,False,6456
+7704 Copano/Copperas,30.213341,-97.850551,1,1,False,3212
+5012 Airport/51st,30.311595,-97.715502,1,1,False,5684
+Crestland/Meadowview,30.339681,-97.711761,1,1,False,1156
+Broken Spoke Station (NB),30.240739,-97.78607,1,1,False,6357
+North Hills/Valleyside SE Corner,30.34881,-97.75377,1,1,False,1923
+1724 Burton/Woodland,30.236152,-97.728459,1,1,False,1190
+12622 Metric/Scofield,30.415168,-97.688677,1,1,False,4824
+5500 Woodrow/Houston,30.326461,-97.734505,1,1,False,970
+4522 Riverside/Wickersham,30.232684,-97.720706,1,1,False,6367
+Montopolis/Walker,30.238732,-97.694736,1,1,False,3306
+2400 Oltorf/Pleasant Valley,30.228981,-97.729647,1,1,False,2238
+3837 S 1st/Ben White,30.22722,-97.768914,1,1,False,1553
+Rosewood/Chicon,30.269698,-97.719604,1,1,False,4172
+6402 West Gate/Dillion Hill,30.21316,-97.81507,1,1,False,2342
+Chicon/College Row,30.265511,-97.720676,1,1,False,2058
+Medical School NB (Trinity/17th),30.27751,-97.735397,1,1,False,866
+7414 Guadalupe/Crestland,30.339901,-97.713146,1,1,False,1157
+1204 38th Half/Hollywood,30.294262,-97.718216,1,1,False,4737
+2408 Stassney/Palo Blanco,30.193714,-97.750685,1,1,False,1224
+1498 Martin Luther King/Comal,30.279075,-97.725602,1,1,False,913
+7814 Copano/Sarasota,30.210949,-97.84958,1,1,False,3213
+1900 Blue Meadow/Bluff Springs,30.183658,-97.768765,1,1,False,2511
+Brush Square NB (Trinity/4th),30.26565,-97.739798,1,1,True,6503
+511 7th/Red River,30.267462,-97.737166,1,1,False,928
+2030 Oltorf/Willow Creek,30.23021,-97.731749,1,1,False,1358
+Braker/Burnet Stadium Rapid NW Corner (SB),30.391483,-97.722548,1,1,False,4682
+702 Montopolis/Ponca,30.237009,-97.695757,1,1,False,5749
+Rosewood/Leona,30.269427,-97.72125,1,1,False,4170
+12100 Lamar/Oakbrook,30.393252,-97.681428,1,1,False,5347
+1971 Riverside /Pleasant Valley (WB),30.234531,-97.723244,1,1,False,6442
+928 Rundberg/North Plaza,30.35617,-97.684436,1,1,False,6418
+5300 Woodrow/North Loop,30.324296,-97.735849,1,1,False,971
+West Gate/Deaton Hill NW Corner,30.210896,-97.814594,1,1,False,2343
+3715 1st/South Center,30.229637,-97.76737,1,1,False,1554
+St Elmo Station (NB),30.217776,-97.766955,1,1,True,6355
+1143 49th/Grover,30.318547,-97.736463,1,1,False,974
+1408 S 1st/Elizabeth,30.250218,-97.754974,1,1,False,1659
+1920 Burton/Mariposa,30.233861,-97.731812,1,1,False,1191
+Chicon/Hamilton,30.267474,-97.719768,1,1,False,2059
+821 Airport/Glissman,30.256542,-97.69284,1,1,False,3259
+900 Montopolis/Felix,30.235454,-97.696831,1,1,False,3308
+4403 Eskew/Copano,30.209294,-97.848453,1,1,False,3214
+729 Slaughter/E Slaughter To Brandt,30.160628,-97.776726,1,1,False,6326
+12430 Metric/Parmer,30.412277,-97.691362,1,1,False,5442
+4815 William Cannon/Meadow Lake,30.180908,-97.750494,1,1,False,4948
+Barton Springs Station (NB),30.261634,-97.758053,1,1,True,781
+7106 Guadalupe/St Johns,30.337324,-97.714833,1,1,False,1158
+Anderson/Watson,30.349206,-97.716025,1,1,False,3278
+2801 Lamar/Menchaca,30.244014,-97.781577,1,1,False,2374
+Stassney/Spoke,30.193534,-97.75552,1,1,False,2489
+4600 Airport/46th,30.305103,-97.716029,1,1,False,3290
+5200 Woodrow/North,30.322571,-97.736955,1,1,False,972
+12321 Pearce/Las Alas,30.171771,-97.627919,1,1,False,5985
+1422 Rosewood/Angelina,30.268978,-97.724138,1,1,False,3730
+Braker/IBM,30.392667,-97.725958,1,1,False,3014
+6808 West Gate/William Cannon,30.208321,-97.814818,1,1,False,2344
+838 Rundberg/Middle Fiskville,30.357437,-97.686345,1,1,False,1143
+4800 Sunshine (Criss Cole Rehab),30.317273,-97.735369,1,1,False,4521
+3361 S 1st/Lightsey,30.232198,-97.765807,1,1,False,1556
+8th Street NB (Trinity/8th),30.269216,-97.738446,1,1,True,6315
+Guadalupe/Swanee,30.335705,-97.715903,1,1,False,1159
+Eskew/Mauai,30.207733,-97.846601,1,1,False,3215
+ACC Eastview SB (Webberville/Govalle),30.267713,-97.707739,1,1,True,6488
+South 1st/Ben White,30.22712,-97.769607,1,1,False,2175
+Anderson/Gault,30.350302,-97.718359,1,1,False,4580
+Manor at Rogge SB (Manor/Rogge),30.304383,-97.681613,1,1,True,1627
+2006 Stassney/Ponciana,30.194942,-97.757865,1,1,False,2490
+1720 S 1st/Annie,30.247569,-97.755862,1,1,False,1661
+Riverside/Willow Creek,30.238065,-97.725635,1,1,False,1030
+1143a Chicon/Cornell,30.269044,-97.719058,1,1,False,2060
+2200 Burton/Oltorf,30.231271,-97.733733,1,1,False,3535
+Airport/Shady,30.259748,-97.693656,1,1,False,4581
+2639 Lamar/Dickson,30.245377,-97.779693,1,1,False,771
+515 Slaughter/Narrow Glen,30.164163,-97.778484,1,1,False,6324
+6058 Hogan/Community,30.235994,-97.7003,1,1,False,6454
+6900 West Gate/William Cannon,30.206749,-97.815837,1,1,False,4430
+813 38th Half/Red River,30.296535,-97.723448,1,1,False,6281
+Onion Creek NB (William Cannon/Pleasant Valley),30.179559,-97.746488,1,1,True,6510
+2310 Parker/Oltorf,30.231874,-97.737285,1,1,False,1193
+1155 Chicon/Rosewood,30.270126,-97.719064,1,1,False,2061
+Metric/Lamplight,30.410866,-97.695393,1,1,False,3041
+5638 290 Hwy/Westcreek,30.235954,-97.84556,1,1,False,6396
+Balcones/Hart,30.342397,-97.754052,1,1,False,5421
+6625 Bluff Springs/William Cannon,30.187849,-97.767957,1,1,False,5704
+Sunshine Station (SB),30.315713,-97.736377,1,1,False,5877
+7th/San Marcos,30.265971,-97.732268,1,1,False,929
+500 Martin Luther King/Red River,30.279307,-97.73295,1,1,False,2761
+Anderson/Lazy,30.351463,-97.720782,1,1,False,3279
+Chicon/Pennsylvania,30.27166,-97.719385,1,1,False,2062
+3911 Eskew/Tree House,30.205755,-97.843159,1,1,False,3216
+714 6th/West,30.270316,-97.75049,1,1,False,5499
+3001 S 1st/Powell,30.235094,-97.763975,1,1,False,1557
+400 Martin Luther King/Trinity,30.279666,-97.734311,1,1,False,4586
+1200 11th/Lydia,30.268704,-97.727634,1,1,False,3731
+2504 Parker/Braxton,30.229929,-97.738557,1,1,False,1194
+Koenig/Guadalupe,30.323545,-97.723626,1,1,False,4513
+Capitol/Waterloo NB (Trinity/12th),30.272682,-97.737179,1,1,True,6500
+1706 Stassney/IH 35,30.197437,-97.761644,1,1,False,2491
+Rundberg at IH 35,30.358909,-97.689299,1,1,False,5612
+12166 Metric/Cedar Bend,30.407779,-97.697279,1,1,False,2567
+1215 51st/Grover,30.320538,-97.735873,1,1,False,973
+1197 Chicon/12th,30.273559,-97.719788,1,1,False,2063
+11300 Lamar/Braker,30.382734,-97.686052,1,1,False,4696
+Tech Ridge Bay E,30.418565,-97.669112,1,1,False,5301
+South Congress Bay B,30.222917,-97.766932,1,1,False,5544
+4328 Airport/Crestwood,30.299909,-97.712142,1,1,False,3291
+Lakeline Station Bay H,30.480562,-97.786668,1,1,False,5229
+South Congress Station Bay J,30.222941,-97.76628,1,1,True,5552
+Northcross Station (SB),30.354217,-97.732117,1,1,True,5849
+3709 Eskew/Croftwood,30.204892,-97.840165,1,1,False,3217
+1700 Anderson/Wooten Park,30.35279,-97.72362,1,1,False,1078
+5758 Balcones/Hart,30.339599,-97.755793,1,1,False,1925
+2001 S 1st/Live Oak,30.244384,-97.757865,1,1,False,1662
+Braker Station (SB),30.382313,-97.686338,1,1,False,6528
+7408 West Gate/Grennock,30.201795,-97.81873,1,1,False,5478
+909 45th/Lamar,30.31298,-97.736887,1,1,False,977
+51st/Manor SB (Manor/51st),30.298358,-97.687017,1,1,True,1631
+149 Slaughter/35,30.167111,-97.783798,1,1,False,6321
+2031 San Jacinto/21st,30.283104,-97.73391,1,1,False,1253
+2701 S 1st/Cumberland,30.238061,-97.762106,1,1,False,1558
+2718 Parker/Royal Hill,30.227504,-97.740505,1,1,False,1195
+1123 Airport/Springdale,30.26537,-97.69532,1,1,False,3260
+2201 Lamar/Kinney,30.247279,-97.774278,1,1,False,773
+112 Martin Luther King Jr/Congress,30.280545,-97.737318,1,1,False,5992
+3508 Eskew/Leafield,30.203863,-97.838309,1,1,False,5594
+1225 7th/Attayac,30.264972,-97.729337,1,1,False,6461
+5411 290 Hwy/Monterey Oaks,30.236059,-97.838517,1,1,False,6317
+842 6th/Wood,30.270962,-97.752215,1,1,False,1970
+Anderson/Mullen,30.35401,-97.72622,1,1,False,1080
+4300 Airport/Wilshire,30.297973,-97.709321,1,1,False,5796
+904 11th/Branch,30.269995,-97.731193,1,1,False,5496
+812 Stassney/IH 35,30.20039,-97.766394,1,1,False,4362
+31st Street Station (SB),30.298051,-97.741261,1,1,True,5357
+2529 S 1st/Herndon,30.239949,-97.760859,1,1,False,1559
+Balcones/Northland,30.33696,-97.75756,1,1,False,4650
+820 Koenig/Lamar,30.326578,-97.726875,1,1,False,4509
+7th Street SB (Pleasant Valley/7th),30.259748,-97.709736,1,1,True,1349
+Chinatown Station (SB),30.380367,-97.687401,1,1,False,5857
+7700 West Gate/Goldbridge,30.199404,-97.822116,1,1,False,2349
+413 38th/Duval,30.298718,-97.729583,1,1,False,6279
+2324 S 1st/Oltorf,30.242264,-97.759614,1,1,False,1663
+1228 Ben White/Banister,30.228181,-97.778886,1,1,False,2176
+Chicon/17th,30.2777,-97.72068,1,1,False,2065
+412 William Cannon/North Bluff,30.191773,-97.774139,1,1,False,555
+Village Square NB (Pleasant Valley/Village Square),30.188891,-97.74529,1,1,True,1220
+2114 Anderson/Hardy,30.354997,-97.728269,1,1,False,3281
+132 Slaughter/Congress,30.167294,-97.789084,1,1,False,6327
+12026 Metric/Bittern,30.403297,-97.700246,1,1,False,5614
+Oltorf West Station (NB),30.248024,-97.771014,1,1,False,2260
+3004 Parker/Timber Ridge,30.224895,-97.742138,1,1,False,4325
+507 45th/Guadalupe,30.310607,-97.732618,1,1,False,978
+Medical School NB (Trinity/17th),30.27751,-97.735397,1,1,True,866
+UT Stadium NB (San Jacinto/23rd),30.28555,-97.733531,1,1,False,3491
+5328 290 Hwy/290,30.236071,-97.835177,1,1,False,6446
+Oak Springs NB (Airport/Oak Springs),30.27388,-97.697907,1,1,False,3262
+1817 Chicon/Martin Luther King,30.279657,-97.721116,1,1,False,2066
+601 Lamar/6th,30.27219,-97.753539,1,1,False,5424
+7613 Brodie/Harpers Ferry,30.206736,-97.834965,1,1,False,3220
+2401 S 1st/Oltorf,30.24193,-97.759656,1,1,False,1560
+8004 West Gate/Ranch,30.198861,-97.82689,1,1,False,5994
+Stassney/Mira,30.202351,-97.770825,1,1,False,4364
+2522 S 1st/Herndon,30.239928,-97.761138,1,1,False,1664
+105 Highland Mall/Jonathan,30.328491,-97.713603,1,1,False,1160
+110 William Cannon/Circle S,30.192971,-97.777955,1,1,False,556
+301 45th/Avenue C,30.309535,-97.730392,1,1,False,979
+1601 7th/Comal,30.263763,-97.725888,1,1,False,5610
+400 Rundberg/Slayton,30.361759,-97.694423,1,1,False,3147
+Dove Springs NB (Pleasant Valley/Stassney),30.193732,-97.744558,1,1,True,1222
+3313 Hancock/Balcones,30.332659,-97.7597,1,1,False,1927
+ACC Northridge,30.400818,-97.703014,1,1,False,2751
+Seaholm Station (NB),30.265454,-97.752098,1,1,True,5498
+608 11th/Red River,30.271094,-97.734976,1,1,False,6382
+2103 Chicon/21st,30.28212,-97.721643,1,1,False,2067
+4001 Airport/Antone,30.291604,-97.707379,1,1,False,6531
+Northcross Station (SB),30.354217,-97.732117,1,1,False,5849
+104 38th/Speedway,30.300733,-97.733816,1,1,False,6277
+Capitol Station (NB),30.275587,-97.742558,1,1,False,591
+3300 Parker/Timber Ridge,30.22216,-97.742228,1,1,False,4323
+8204 West Gate/Linnet,30.196581,-97.829043,1,1,False,5473
+Ben White/Clawson,30.228725,-97.783791,1,1,False,2177
+10001 Stonelake/Capital of Texas,30.391198,-97.739283,1,1,False,5916
+Guadalupe/16th Street,30.278962,-97.742708,1,1,False,501
+200 William Cannon/Starstreak,30.193894,-97.780466,1,1,False,3169
+Hancock/Valley Oak,30.331464,-97.75715,1,1,False,1928
+1215 Airport/12th,30.277589,-97.700657,1,1,False,5567
+201 45th/Avenue F,30.308071,-97.727271,1,1,False,5979
+Cesar Chavez SB (Pleasant Valley/Cesar Chavez),30.25282,-97.713,1,1,True,6516
+Stassney/Westgate,30.218687,-97.805931,1,1,False,4223
+2201 S 1st/Live Oak,30.244369,-97.757657,1,1,False,1561
+Metric/Gracy Farms,30.397885,-97.704866,1,1,False,5356
+118 Stassney/Congress,30.205173,-97.7751,1,1,False,4275
+1005 Lamar/10th,30.275304,-97.752067,1,1,False,5995
+2525 San Jacinto/Dean Keeton,30.288776,-97.734397,1,1,False,1256
+Chicon/East 7th,30.262511,-97.722327,1,1,False,934
+5107 290 Hwy/Staggerbrush,30.235685,-97.828488,1,1,False,6318
+7201 Brodie/Convict Hill,30.211188,-97.831853,1,1,False,3221
+Dean Keeton/Lafayette,30.284125,-97.721478,1,1,False,4186
+3001 S 1st/Powell,30.235098,-97.764161,1,1,False,1666
+1117 Lamar/12th,30.276741,-97.751339,1,1,False,4089
+West Gate/Piney Creek,30.193687,-97.831489,1,1,False,5924
+UT Dean Keeton Station (SB),30.291085,-97.741379,1,1,True,5863
+Lavaca/15th,30.277383,-97.741894,1,1,False,593
+1181 Airport/Oak Springs,30.27541,-97.698904,1,1,False,5568
+10503 Lamar/Meadows,30.374311,-97.690809,1,1,False,5555
+525 Ben White/Terry O,30.219246,-97.757736,1,1,False,5711
+Woodward/Parker SW Corner,30.219261,-97.743912,1,1,False,2169
+2313 Stassney/Fernview,30.21814,-97.80326,1,1,False,3109
+3822 Airport/38th Half,30.288136,-97.707262,1,1,False,3293
+Hancock/West Frances Place,30.329566,-97.753292,1,1,False,1929
+William Cannon/Sunstrip,30.19479,-97.78349,1,1,False,3170
+507 45th/Duval,30.306867,-97.724157,1,1,False,4919
+2701 Walsh Tarlton/Capital of Texas,30.258478,-97.811286,1,1,False,4494
+Lakeline/North Lake Creek,30.480141,-97.797375,1,1,False,5413
+11510 Metric/Stonehollow,30.39488,-97.706822,1,1,False,2568
+1609 Lavaca/17th (Midblock),30.278834,-97.741358,1,1,False,5940
+Rio Grande/15th,30.278966,-97.746339,1,1,False,243
+8800 West Gate/Davis,30.191273,-97.833432,1,1,False,5837
+832 Rundberg/Lamar,30.363939,-97.698486,1,1,False,3148
+3421 William Cannon/Brodie,30.213229,-97.829481,1,1,False,3223
+5309 Menchaca/Fair Oaks,30.219059,-97.794998,1,1,False,758
+10050 Great Hills/Research,30.393703,-97.743884,1,1,False,3016
+1835 Airport/Martin Luther King,30.282339,-97.703722,1,1,False,3266
+3310 S 1st/Cardinal,30.232131,-97.766035,1,1,False,1667
+Stassney/Hummingbird,30.207126,-97.77859,1,1,False,3100
+Woodward/Ben White NW Corner,30.217147,-97.744042,1,1,False,1199
+Cherrywood/Manor,30.285131,-97.717815,1,1,False,4189
+7th/Robert T Martinez Jr,30.261532,-97.718195,1,1,False,935
+1801 S 1st/Annie,30.247241,-97.755836,1,1,False,1562
+7719 Northcross/Foster,30.354986,-97.73617,1,1,False,5851
+Duval/Bellevue,30.292127,-97.733917,1,1,False,1257
+2204 Airport/Manor,30.285561,-97.706075,1,1,False,3295
+2825 Hancock/Fresco,30.32806,-97.75024,1,1,False,1930
+4316 Lamar/43rd,30.311348,-97.73919,1,1,False,4528
+38th/Guadalupe,30.303402,-97.739012,1,1,False,5350
+Franklin Park NB (Pleasant Valley/St Elmo),30.204087,-97.741937,1,1,True,6490
+UT Stadium NB (San Jacinto/23rd),30.28555,-97.733531,1,1,True,3491
+William Cannon/Bill Hughes,30.196488,-97.786118,1,1,False,4398
+Rundberg/Mearns Meadow,30.364972,-97.700675,1,1,False,3149
+Duval/32nd,30.293384,-97.733108,1,1,False,1258
+Bull Creek/Hancock,30.327267,-97.749435,1,1,False,1931
+1801 Lamar/Martin Luther King,30.283337,-97.751717,1,1,False,4156
+11212 Metric/Braker,30.391795,-97.708785,1,1,False,2569
+1900 Airport/Martin Luther King,30.282694,-97.704222,1,1,False,3296
+West Gate/Cohoba,30.187372,-97.836128,1,1,False,5839
+2201 Airport/Manor,30.28546,-97.705723,1,1,False,4191
+2035 Stassney /Mencheca (Ns),30.216159,-97.799017,1,1,False,3110
+US 290/Mopac (Walmart),30.233365,-97.82142,1,1,False,1750
+Westgate Transit Center - E,30.231527,-97.791606,1,1,False,6377
+9828 Great Hills/Research,30.394273,-97.748666,1,1,False,2726
+Tech Ridge Bay G,30.418296,-97.668868,1,1,False,5281
+UT West Mall Station (SB),30.286231,-97.741771,1,1,True,497
+Republic Square Station (NB),30.266218,-97.746056,1,1,True,5868
+Cherrywood/Edgewood,30.28781,-97.716078,1,1,False,2863
+3207 William Cannon/Stagecoach,30.210944,-97.82455,1,1,False,3224
+Masterson Station (SB),30.370933,-97.692733,1,1,False,5858
+William Cannon/1st,30.197385,-97.788022,1,1,False,3172
+915 45th/Red River,30.304397,-97.718869,1,1,False,4529
+Ben White & SB I-35,30.215852,-97.752945,1,1,False,6444
+1500 S 1st/Elizabeth,30.250218,-97.754785,1,1,False,4065
+2425 7th/Pedernales,30.260851,-97.713904,1,1,False,936
+720 Stassney/1st,30.208997,-97.782366,1,1,False,4277
+Rosedale Station (SB),30.308074,-97.74137,1,1,False,4831
+West 38th Station (NB),30.304699,-97.741778,1,1,False,5351
+4748 Bull Creek/49th,30.324792,-97.750945,1,1,False,1932
+3818 S 1st/Ben White,30.22738,-97.769059,1,1,False,1669
+2020 Ben White/Menchaca,30.230638,-97.788524,1,1,False,4235
+Duval/Harris,30.29591,-97.73149,1,1,False,1259
+3101 William Cannon/Ranch,30.209995,-97.822172,1,1,False,4436
+10201 Jollyville/Great Hills,30.395978,-97.749877,1,1,False,3804
+818 Slaughter/Palace,30.174142,-97.806358,1,1,False,3766
+1821 Stassney/Menchaca (FS),30.214594,-97.79633,1,1,False,4225
+4700 Bull Creek/Perry,30.323211,-97.75192,1,1,False,1933
+2621 7th/Calles,30.260533,-97.711831,1,1,False,937
+Roy G Guerrero SB (Pleasant Valley/Lakeshore),30.2422,-97.717511,1,1,True,1353
+2327 Lamar/24th,30.288405,-97.752709,1,1,False,4154
+9999 Lakeline/N 183 Hwy SB,30.478246,-97.805568,1,1,False,6517
+1130 Rundberg/Quail Wood,30.36657,-97.70404,1,1,False,3150
+William Cannon/Cooper,30.198565,-97.790913,1,1,False,1685
+4104 S 1st/Ben White,30.225333,-97.770328,1,1,False,1671
+1400 Airport/14th Half,30.279033,-97.701939,1,1,False,3297
+38th/Medical Pkwy,30.305686,-97.743879,1,1,False,809
+3518 Bill Price/FM 973,30.1988,-97.642815,1,1,False,3324
+Enfield/Pease,30.283102,-97.758934,1,1,False,1511
+Ben White/Governors Row,30.215568,-97.748582,1,1,False,5259
+1701 Stassney/Rose Hill,30.213644,-97.794264,1,1,False,3112
+3706 Lamar/38th,30.304705,-97.743531,1,1,False,5978
+1701 Walsh Tarlton/Thousand Oaks,30.266527,-97.806082,1,1,False,2183
+2789 7th/Pleasant Valley,30.260049,-97.709665,1,1,False,938
+Woodward/Ben White SW Corner,30.214641,-97.744698,1,1,False,4318
+38th/Bailey,30.306256,-97.745209,1,1,False,2086
+9800 Lamar/Longspur,30.367568,-97.694603,1,1,False,4542
+1001 S 1st/Copeland,30.253611,-97.75294,1,1,False,1564
+William Cannon/Deaton Hill,30.207901,-97.817777,1,1,False,4428
+Elmont SB (Pleasant Valley/Elmont),30.240131,-97.718817,1,1,True,4283
+10700 Metric/Donley,30.386819,-97.711534,1,1,False,5734
+4120 IH 35/Clarkson,30.30045,-97.716779,1,1,False,2312
+Rundberg/Parkfield,30.36768,-97.70662,1,1,False,2530
+1026 Stassney/Emerald Forest,30.210778,-97.786836,1,1,False,3102
+3717 Duval/38th,30.298515,-97.729831,1,1,False,1260
+3719 Cherrywood/38th Half,30.29149,-97.71368,1,1,False,2864
+William Cannon/Emerald Forest,30.199334,-97.793354,1,1,False,1686
+3400 Lamar/34th,30.30282,-97.744768,1,1,False,2913
+121 Oltorf/Euclid (HEB),30.239387,-97.754655,1,1,False,4044
+4120 Freidrich/Woodward,30.213561,-97.745855,1,1,False,4317
+1728 Enfield/Hartford,30.28462,-97.761717,1,1,False,1513
+4815 Braker/Jollyville,30.400576,-97.748014,1,1,False,3806
+1198 Airport/12th,30.276489,-97.700213,1,1,False,3298
+Austin History Center Station (NB),30.27042,-97.74444,1,1,True,2606
+2231 Guadalupe/West Mall UT,30.285754,-97.74162,1,1,False,1042
+3010 Slaughter/West Gate,30.179113,-97.840995,1,1,False,6334
+2701 William Cannon/West Gate,30.207197,-97.815778,1,1,False,3226
+North Loop Station (SB),30.324999,-97.739681,1,1,True,684
+East Dean Keaton NB (Dean Keeton/Robert Dedman),30.287924,-97.728763,1,1,True,2006
+4326 S 1st/St Elmo,30.221255,-97.772893,1,1,False,1673
+1501 Walsh Tarlton/Terrapin,30.268379,-97.804908,1,1,False,2184
+1401 Stassney/Radam,30.212061,-97.790959,1,1,False,3113
+700 Ben White (Walmart),30.218991,-97.755293,1,1,False,5240
+Oltorf/Congress,30.238551,-97.753352,1,1,False,4040
+2784 Slaughter/Lindshire,30.177832,-97.838375,1,1,False,6469
+Mission Hill NB (Burleson/Mission Hill),30.216708,-97.734133,1,1,True,6505
+120 William Cannon/Mount Carrell,30.199561,-97.795776,1,1,False,3173
+13200 McCallen/Center Ridge,30.411844,-97.663981,1,1,False,5530
+615 South 1st/Copeland,30.256192,-97.751284,1,1,False,1565
+4413 Menchaca/Redd,30.228562,-97.789081,1,1,False,4230
+Rundberg/Mountain Quail,30.369254,-97.710359,1,1,False,3152
+Airport/38th,30.289097,-97.707009,1,1,False,5436
+Research/Hamilton,30.401655,-97.745247,1,1,False,4688
+Freidrich/Directors,30.212493,-97.748209,1,1,False,1202
+4318 Bull Creek/44th,30.318987,-97.754525,1,1,False,1935
+10300 Metric/Energy,30.382764,-97.714259,1,1,False,4769
+Riverside SB (Pleasant Valley HEB),30.23524,-97.721977,1,1,True,4288
+1400 Stassney/Radam,30.212318,-97.790956,1,1,False,3103
+1512 35th/Kerbey,30.30722,-97.75014,1,1,False,2087
+11125 Pecan Park/Lakeline Mall,30.472972,-97.802673,1,1,False,5411
+3223 7th/Allen,30.257758,-97.704514,1,1,False,939
+2206 Enfield/Meriden,30.287548,-97.766813,1,1,False,4157
+4530 S 1st/Philco,30.218151,-97.774823,1,1,False,1674
+1101 Stassney/Emerald Forest,30.210625,-97.787259,1,1,False,3114
+Museum Station (SB),30.279366,-97.742545,1,1,True,5866
+Travis Correctional Facility,30.19784,-97.645546,1,1,False,3238
+1144 Airport/Oak Springs,30.27252,-97.69775,1,1,False,3299
+3100 Lamar/31st,30.300389,-97.746294,1,1,False,4125
+4017 Duval/41st,30.30214,-97.727604,1,1,False,1261
+4216 Freidrich/St Elmo,30.211274,-97.748981,1,1,False,5917
+Manor Westbound (Manor/Airport),30.286266,-97.707029,1,1,True,6497
+3952 Airport/Antone,30.291283,-97.707692,1,1,False,6532
+505 S 1st/Barton Springs,30.258137,-97.750069,1,1,False,1566
+2618 Slaughter/Curlew/EB,30.176461,-97.833718,1,1,False,6484
+William Cannon/Whispering Oaks,30.203663,-97.809228,1,1,False,4424
+Research/Seton Center,30.404485,-97.744959,1,1,False,5290
+11101 Lakeline Mall/Pecan Park,30.472089,-97.801043,1,1,False,3820
+643 Oltorf/East Side,30.23666,-97.74904,1,1,False,2266
+4301 Menchaca/Fort View,30.23086,-97.787599,1,1,False,764
+William Cannon/Woodhue,30.200741,-97.79945,1,1,False,3174
+35th/Lawton,30.308198,-97.752801,1,1,False,2088
+10000 Metric/Rutland,30.38015,-97.716413,1,1,False,5822
+2869 Lamar/29th,30.298016,-97.748412,1,1,False,4829
+727 Stassney/Nancy,30.209059,-97.784284,1,1,False,5487
+1901 Woodward/Parker,30.219456,-97.743789,1,1,False,1235
+Northland/Bullard,30.33456,-97.75026,1,1,False,2475
+3535 7th/Springdale,30.256025,-97.701819,1,1,False,940
+Duval/Park,30.304132,-97.726358,1,1,False,1262
+4631 West Gate/Western Trails,30.229916,-97.800895,1,1,False,4220
+UT Dean Keeton Station (NB),30.29024,-97.74125,1,1,False,5864
+301 S 1st/Riverside,30.259426,-97.749357,1,1,False,1567
+4220 Bull Creek/Jackson,30.315889,-97.754469,1,1,False,1936
+Slaughter/Gail,30.176005,-97.831107,1,1,False,2663
+Alexander SB (Manor/Alexander),30.285663,-97.710921,1,1,True,1639
+1706 Stassney/Rose Hill,30.214017,-97.794515,1,1,False,4278
+Oltorf/Alta Vista,30.23632,-97.74719,1,1,False,1465
+9302 Lamar/Rundberg,30.361758,-97.697927,1,1,False,5445
+2600 Enfield/Norwalk,30.290818,-97.772388,1,1,False,1517
+1945 William Cannon/Menchaca,30.202716,-97.806233,1,1,False,3228
+6310 Burnet/White Horse,30.338309,-97.739372,1,1,False,5733
+Mabel Davis Park,30.220006,-97.742966,1,1,False,5456
+Cherrywood NB (Manor/Chestnut),30.284437,-97.717846,1,1,True,1578
+1134 Airport/Goodwin,30.26833,-97.69643,1,1,False,3300
+Rundberg/Northgate,30.371967,-97.715366,1,1,False,4727
+4600 Freidrich/St Elmo,30.208183,-97.750908,1,1,False,1203
+10935 Lakeline Mall/US 183,30.473343,-97.797676,1,1,False,4465
+Sheringham SB (Pleasant Valley/Sheringham),30.230883,-97.725761,1,1,True,4298
+35th/Jackson,30.308823,-97.755704,1,1,False,2089
+11215 Research/Balcones Woods,30.408812,-97.744632,1,1,False,3809
+3105 Lamar/31st,30.30053,-97.745954,1,1,False,806
+1101 Oltorf/Alta Vista,30.235651,-97.745688,1,1,False,1466
+609 Stassney/1st,30.208097,-97.781018,1,1,False,4393
+5000 S 1st/Emerald Wood,30.213437,-97.778077,1,1,False,1676
+1820 Stassney/Menchaca,30.214938,-97.796432,1,1,False,4226
+Enfield/Hopi,30.292411,-97.775684,1,1,False,1519
+Capitol Station (NB),30.275587,-97.742558,1,1,True,591
+Slaughter/Riddle,30.173801,-97.827013,1,1,False,4412
+9540 Metric/Rundberg,30.376164,-97.717766,1,1,False,5679
+Iroquois NB (Burleson/Iroquois),30.228005,-97.735382,1,1,True,6507
+3317 Lamar/34th,30.302553,-97.744683,1,1,False,807
+Capitol Station (SB),30.275022,-97.744169,1,1,True,2738
+405 W Stassney/Hummingbird,30.207058,-97.778967,1,1,False,3116
+Guadalupe/27th,30.293075,-97.741584,1,1,False,5353
+2000 Stassney/Menchaca,30.215731,-97.797961,1,1,False,4224
+2018 Rundberg/West,30.37334,-97.718224,1,1,False,5680
+1900 William Cannon/Cannonleague,30.202551,-97.80479,1,1,False,3175
+5843 Balcones/Northland,30.340402,-97.755087,1,1,False,6408
+2415 Kramer/Brockton,30.392965,-97.715786,1,1,False,5580
+4433 Duval/45th,30.306896,-97.724576,1,1,False,1263
+1120 Airport/Springdale,30.264908,-97.695452,1,1,False,5100
+Lakeline Mall/Lake Creek,30.474983,-97.794127,1,1,False,4466
+Bull Creek/38th,30.311138,-97.752058,1,1,False,1938
+3505 Lamar/37th,30.303981,-97.743764,1,1,False,4646
+4999 7th/Shady,30.253397,-97.697886,1,1,False,942
+3923 Red River/40th,30.298741,-97.722544,1,1,False,1785
+11411 Research/Windriver Apts,30.412532,-97.745139,1,1,False,3810
+1313 Oltorf/Schriber,30.234202,-97.743018,1,1,False,1467
+8912 Lamar/Payton Gin,30.35783,-97.70014,1,1,False,465
+4608 West Gate/Lamar,30.230471,-97.800924,1,1,False,2335
+Lamar/West Gate,30.232283,-97.804555,1,1,False,5449
+2107 Slaughter/Riddle,30.173996,-97.826877,1,1,False,2938
+Alexander Station NB (Manor/Alexander),30.285647,-97.709889,1,1,True,1582
+1401 William Cannon/Woodhue,30.200295,-97.799002,1,1,False,3229
+Oltorf East SB (Oltorf/Pleasant Valley),30.227843,-97.728279,1,1,True,1356
+Cherrywood SB (Manor/Cherrywood),30.284554,-97.717984,1,1,True,1642
+3418 Enfield/Robinhood,30.294345,-97.779805,1,1,False,5754
+Slaughter/Menchaca,30.17359,-97.822771,1,1,False,4411
+Stassney/Cork Path,30.217002,-97.799908,1,1,False,3105
+2300 W 35th/Mopac,30.309568,-97.759972,1,1,False,2090
+2819 Guadalupe/29th,30.294774,-97.742432,1,1,False,5634
+4910 Freidrich/Teri,30.204578,-97.753199,1,1,False,5712
+3604 Bull Creek/Jefferson,30.309399,-97.750954,1,1,False,1939
+4533 Duval/45th,30.308301,-97.723678,1,1,False,1264
+William Cannon/Shier,30.203522,-97.808472,1,1,False,3177
+3103 SH 71/Cheviot,30.205035,-97.642589,1,1,False,3240
+5500 S 1st/Stassney,30.208753,-97.78142,1,1,False,2623
+119 Stassney/Congress,30.205002,-97.775246,1,1,False,4276
+1933 Rundberg/West,30.373054,-97.718101,1,1,False,5681
+Oltorf at Burton NB (Oltorf/Burton),30.230755,-97.733322,1,1,True,6511
+Northland/Balcones,30.337707,-97.75675,1,1,False,2476
+5119 Eastside Bus Plaza Bay J,30.251893,-97.698021,1,1,False,6450
+12600 Tech Ridge/Parmer,30.400782,-97.658737,1,1,False,5328
+Airport Blvd NB (Manor/Airport),30.286327,-97.705715,1,1,True,5616
+2243 Braker/Kramer,30.39123,-97.713218,1,1,False,4970
+Rosedale Station (NB),30.308217,-97.741034,1,1,False,4830
+4702 Lamar/Dudmar,30.233588,-97.809163,1,1,False,4470
+1605 Oltorf/IH 35,30.23322,-97.739459,1,1,False,1474
+2555 Western Trails/Sagebrush,30.229457,-97.798807,1,1,False,4218
+3505 Menchaca/Larchmont,30.238295,-97.782915,1,1,False,767
+1107 William Cannon/Mount Carrell,30.199251,-97.795196,1,1,False,3230
+2400 Stassney/Fernview,30.218327,-97.803096,1,1,False,3106
+Fairfield Rapid  Station (SB),30.355296,-97.703128,1,1,False,467
+11689 Research/Duval,30.417953,-97.746152,1,1,False,3811
+9639 Metric/Rundberg,30.376782,-97.717048,1,1,False,5678
+Museum Station (NB),30.2793,-97.74119,1,1,True,4657
+2507 Slaughter/Piping Rock,30.176467,-97.831686,1,1,False,6480
+Airport/Shady Lane,30.25936,-97.69377,1,1,False,3302
+Cesar Chavez/Brazos,30.262969,-97.743365,1,1,False,993
+1401 Slaughter/Bilbrook,30.173696,-97.816422,1,1,False,2974
+1011 William Cannon/Emerald Forest,30.199075,-97.793338,1,1,False,3231
+3825 Lake Austin/Enfield,30.295668,-97.783853,1,1,False,5740
+Austin History Center Station (SB),30.271057,-97.745655,1,1,True,2611
+Exposition/Warren,30.309551,-97.762879,1,1,False,1423
+Huntland/Airport,30.33044,-97.715281,1,1,False,3276
+31st Street Rapid  Station (NB),30.297767,-97.741167,1,1,False,603
+35th/Crawford,30.30713,-97.74927,1,1,False,1997
+1806 Rundberg/Northgate,30.371653,-97.715172,1,1,False,5682
+5802 South 1st/Stassney,30.205367,-97.78315,1,1,False,4394
+Western Trails/Roundup,30.229704,-97.796366,1,1,False,1754
+1747 Oltorf/Parker,30.232279,-97.737098,1,1,False,1475
+2617 Slaughter/Curlew,30.17668,-97.83369,1,1,False,2666
+407 Stassney/Congress,30.202767,-97.771769,1,1,False,4365
+Oltorf at Burton SB (Oltorf/Burton),30.23107,-97.734031,1,1,True,6512
+4803 Duval/48th Street,30.311174,-97.721789,1,1,False,1265
+2400 Lamar/24th,30.288718,-97.752825,1,1,False,4153
+2035 Teri/Merritt,30.201932,-97.75218,1,1,False,1204
+1213 Slaughter/David Moore,30.173729,-97.81402,1,1,False,2975
+12500 Tech Ridge/Canyon Ridge,30.398943,-97.663278,1,1,False,5329
+Lake Creek/FM 620,30.468862,-97.789255,1,1,False,4656
+2616 Stassney/West Gate,30.219024,-97.806938,1,1,False,5741
+Lamar/Thurmond,30.353139,-97.706082,1,1,False,468
+10001 Metric/Rutland,30.380334,-97.716008,1,1,False,5823
+801 William Cannon/Cooper,30.197943,-97.790054,1,1,False,2917
+Exposition/Mountain Laurel,30.307628,-97.763402,1,1,False,1424
+1301 W 38th/Tonkawa,30.30646,-97.74609,1,1,False,1998
+2001 Braker/Metric,30.392385,-97.708773,1,1,False,3021
+Oltorf East NB (Pleasant Valley/Oltorf),30.228002,-97.727295,1,1,True,1027
+2616 William Cannon/West Gate,30.207075,-97.81479,1,1,False,4429
+421 Cesar Chavez/Trinity,30.262213,-97.740639,1,1,False,5633
+Mueller Tower NB (Berkman/Tom Miller),30.290322,-97.698669,1,1,True,6091
+4613 Airport/46th,30.305369,-97.71577,1,1,False,3272
+701 William Cannon/1st,30.197073,-97.788053,1,1,False,2918
+Vic Mathias/Auditorium Shores (NB),30.259459,-97.748994,1,1,True,2767
+760 Airport/Glissman,30.25446,-97.6928,1,1,False,3303
+38th/Medical Parkway,30.305323,-97.74376,1,1,False,1999
+4970 US 290/Brodie,30.233713,-97.819058,1,1,False,4471
+1001 Slaughter/United Kingdom,30.173798,-97.808881,1,1,False,2976
+Sunshine Station (NB),30.316419,-97.735728,1,1,False,1058
+Duval/Bruning,30.314435,-97.719695,1,1,False,1267
+Republic Square Station (SB),30.267751,-97.746857,1,1,True,5867
+East Dean Keeton SB (Dean Keeton/Medical Arts),30.288847,-97.729473,1,1,True,6498
+Central/Avenue C,30.34649,-97.371679,1,1,False,5777
+Oltorf at Burton NB (Oltorf/Burton),30.230755,-97.733322,1,1,False,6511
+10301 Metric/Energy,30.382694,-97.714054,1,1,False,4770
+Northland/Marilyn,30.334546,-97.751832,1,1,False,2419
+6400 S 1st/Eberhart,30.200712,-97.785683,1,1,False,1682
+Guadalupe/34th,30.300774,-97.739282,1,1,False,604
+3450 Lake Austin/Lufkin,30.288533,-97.780899,1,1,False,5723
+4401 Pack Saddle Pass/Ben White,30.231017,-97.792022,1,1,False,2216
+2908 Slaughter/Lindshire,30.178173,-97.838419,1,1,False,5842
+515 Cesar Chavez/Red River,30.261712,-97.738932,1,1,False,995
+Braker/Metric (Midblock),30.391164,-97.705878,1,1,False,4971
+West Gate/Indio,30.222838,-97.805563,1,1,False,3107
+3513 Cesar Chavez/Springdale,30.252034,-97.7047,1,1,False,6261
+Iroquois SB (Burleson/Iroquois),30.227672,-97.735483,1,1,True,6508
+2777 SH 71/Golf Course,30.210895,-97.654067,1,1,False,3241
+4801 Sunshine (Criss Cole Rehab),30.317373,-97.735125,1,1,False,1059
+8130 Lamar/Powell/SB,30.350746,-97.70957,1,1,False,6452
+811 Stassney/Mira,30.200052,-97.766668,1,1,False,4363
+2195 Oltorf/Willow Creek,30.230048,-97.731856,1,1,False,4296
+401 William Cannon/Bill Hughes,30.195674,-97.785337,1,1,False,3234
+2810 William Cannon/Deaton Hill,30.20817,-97.817734,1,1,False,3178
+1900 Lamar/Martin Luther King,30.283674,-97.752333,1,1,False,4155
+Sheringham NB (Pleasant Valley/Sheringham),30.231158,-97.725309,1,1,True,1028
+Rundberg/Hunters Trace,30.368873,-97.710057,1,1,False,3129
+Research/Riata Trace,30.425929,-97.75164,1,1,False,5432
+4821 Airport/48th Half,30.308809,-97.715517,1,1,False,3273
+Canyon Ridge/Tech Ridge,30.398148,-97.66904,1,1,False,5335
+813 Lavaca/8th (Farside),30.270952,-97.744272,1,1,False,5965
+Exposition/Northwood,30.305496,-97.764927,1,1,False,1425
+5214 Duval/53rd,30.316257,-97.71852,1,1,False,5494
+Guadalupe/Kennistson,30.334694,-97.716377,1,1,False,1274
+10112 Lake Creek/Pecan Park,30.464031,-97.789223,1,1,False,5514
+815 Slaughter/Palace,30.173895,-97.805545,1,1,False,3767
+Guadalupe/38th,30.302541,-97.738161,1,1,False,605
+2332 Teri/Palo Blanco,30.198303,-97.746902,1,1,False,6312
+Simond NB (Berkman/Simond),30.296343,-97.700088,1,1,True,6292
+West 38th Station (SB),30.304405,-97.741594,1,1,False,5349
+4923 Airport/50th,30.31092,-97.715345,1,1,False,6340
+Research/Riata Apts,30.42702,-97.75387,1,1,False,3812
+5101 West Gate/Jones,30.225438,-97.803848,1,1,False,2367
+1100 49th/Grover,30.318789,-97.736638,1,1,False,1060
+10623 Metric/Denton,30.385965,-97.711828,1,1,False,2539
+6611 1st/William Cannon,30.197336,-97.787836,1,1,False,2640
+West Gate/Aftonshire,30.18003,-97.840445,1,1,False,5843
+2728 Exposition (Casis Elementary),30.30379,-97.764542,1,1,False,1426
+West 38th Station (SB),30.304405,-97.741594,1,1,True,5349
+Lake Austin/Jasper,30.284539,-97.777864,1,1,False,4986
+509 11Th/Red River,30.27114,-97.735733,1,1,False,5209
+2607 Allandale/Cary,30.33533,-97.747,1,1,False,4588
+3069 Cesar Chavez/Tillery,30.251738,-97.708599,1,1,False,6263
+Airport/52nd,30.312952,-97.715184,1,1,False,1794
+1613 Braker/Bittern Hollow,30.389101,-97.701391,1,1,False,3022
+10204 Lake Creek/Pecan Park,30.462437,-97.792001,1,1,False,3823
+William Cannon/Skynook,30.193479,-97.780305,1,1,False,4384
+4512 Teri/Pleasant Valley,30.197005,-97.744449,1,1,False,6311
+Hyde Park Station (NB),30.304422,-97.736957,1,1,False,606
+Parkfield/Rundberg,30.36738,-97.70647,1,1,False,3130
+717 Exposition/8th,30.284117,-97.776052,1,1,False,4161
+2500 Wallingwood/Bee Caves,30.264934,-97.782988,1,1,False,2207
+3100 William Cannon/Ranch,30.210329,-97.822279,1,1,False,4437
+1200 51st/Grover,30.320707,-97.735989,1,1,False,1061
+1715 Stassney/IH 35,30.197199,-97.761558,1,1,False,4331
+5315 Airport/53rd Half,30.314806,-97.714617,1,1,False,1795
+38th/Ronson,30.303401,-97.739461,1,1,False,5352
+Riverside NB (Pleasant Valley HEB),30.235813,-97.721325,1,1,True,5779
+7125 Guadalupe/St Johns,30.337671,-97.714427,1,1,False,1275
+11001 Metric/Kramer,30.389322,-97.709956,1,1,False,2540
+S. 1st/Mulberry,30.193782,-97.790034,1,1,False,2626
+Exposition/10th,30.285795,-97.774994,1,1,False,1983
+Oltorf East NB (Pleasant Valley/Oltorf),30.228002,-97.727295,1,1,False,1027
+509 Slaughter/1st,30.171795,-97.798989,1,1,False,5999
+115 William Cannon/Circle S,30.192664,-97.777841,1,1,False,550
+408 Shady/5th,30.251947,-97.69846,1,1,False,6242
+UT West Mall Station (NB),30.286216,-97.741573,1,1,True,5865
+Barbara Jordan NB (Berkman/Barbara Jordan),30.302547,-97.699539,1,1,True,5925
+1117 Cesar Chavez/Waller,30.259919,-97.732856,1,1,False,2812
+5401 Airport/53rd Half,30.316556,-97.713781,1,1,False,5493
+Allandale/Shoalwood,30.33515,-97.7431,1,1,False,2421
+Guadalupe/41st,30.306259,-97.735785,1,1,False,607
+5169 290 Hwy/Boston,30.237094,-97.830782,1,1,False,6395
+1129 Rundberg/Quail Wood,30.366365,-97.70407,1,1,False,2581
+1200 Lamar/12th,30.276963,-97.751452,1,1,False,4090
+William Cannon/Stage Coach,30.211536,-97.825217,1,1,False,3179
+2719 Cesar Chavez/Pleasant Valley,30.253005,-97.712584,1,1,False,6265
+Dove Springs SB (Pleasant Valley/Stassney),30.193748,-97.744772,1,1,False,1212
+Braker/Milbanks,30.387124,-97.697959,1,1,False,3023
+7200 S 1st/Prince Valiant,30.191739,-97.790498,1,1,False,3763
+10323 Lake Creek/US 183,30.46091,-97.79649,1,1,False,3824
+409 William Cannon/Circle S,30.192082,-97.776037,1,1,False,551
+2005 Stassney/Ponciana,30.195032,-97.758297,1,1,False,2497
+5617 Airport/Koenig,30.31844,-97.712869,1,1,False,1796
+2503 Oltorf/Pleasant Valley,30.2275,-97.728071,1,1,False,2271
+Vic Mathias/Auditorium Shores (SB),30.258767,-97.7487,1,1,True,2763
+5113 Woodrow/North,30.322371,-97.736892,1,1,False,1062
+Mission Hill SB (Burleson/Mission Hill),30.216742,-97.734364,1,1,True,6506
+Guadalupe/Maiden,30.301663,-97.738974,1,1,False,489
+1000 Lamar/10th,30.275103,-97.752332,1,1,False,4088
+UT Stadium SB (San Jacinto/23rd),30.285506,-97.733782,1,1,True,1179
+7417 Guadalupe/Crestland,30.339996,-97.712898,1,1,False,1276
+Elmont NB (Pleasant Valley/Elmont),30.239806,-97.718797,1,1,True,4284
+5613 Avenue F/Koenig,30.321598,-97.71873,1,1,False,1271
+11301 Metric/Braker,30.392761,-97.707868,1,1,False,2541
+7230 S 1st/Meadow Lea,30.190183,-97.79057,1,1,False,2627
+3316 William Cannon/Lost Valley,30.212637,-97.827439,1,1,False,3180
+2100 Allandale/Burnet,30.33454,-97.739488,1,1,False,2422
+Pavilion Park and Ride,30.426817,-97.757476,1,1,False,2727
+404 Slaughter/Francia,30.168969,-97.795672,1,1,False,5380
+West Gate/Cohoba,30.187388,-97.835845,1,1,False,5840
+Sheringham NB (Pleasant Valley/Sheringham),30.231158,-97.725309,1,1,False,1028
+4411 Oltorf/Huntwick,30.226619,-97.72626,1,1,False,1008
+Rundberg/Collinfield,30.365154,-97.701513,1,1,False,2582
+601 William Cannon/Circle S,30.191387,-97.77353,1,1,False,552
+Guadalupe/43rd,30.308471,-97.734366,1,1,False,608
+907 11th/Branch,30.26986,-97.731241,1,1,False,657
+1317 Braker/Parkfield,30.385618,-97.695091,1,1,False,4972
+UT Dean Keeton Station (NB),30.29024,-97.74125,1,1,True,5864
+1901 Lamar/Mary,30.24956,-97.767001,1,1,False,4072
+10504 Lake Creek/Mellow Meadows,30.458885,-97.799333,1,1,False,4958
+1605 Cesar Chavez/Comal,30.258279,-97.728156,1,1,False,1802
+Guadalupe/34th Street,30.300465,-97.739714,1,1,False,490
+5815 AIRPORT/KOENIG,30.32197,-97.714031,1,1,False,1797
+Roy G Guerrero NB (Pleasant Valley/Lakeshore),30.242205,-97.717284,1,1,True,1364
+600 Lamar/6th,30.272037,-97.753855,1,1,False,4084
+5223 Woodrow/North Loop,30.324061,-97.735824,1,1,False,1063
+2230 Stassney/Dove,30.193336,-97.753967,1,1,False,5713
+11609 Metric/Gold Wing,30.395748,-97.705714,1,1,False,5752
+236 Slaughter/Alice Mae,30.167354,-97.792824,1,1,False,5623
+11th/Waller,30.269271,-97.729681,1,1,False,658
+Village Square SB (Pleasant Valley/Village Square),30.188889,-97.745545,1,1,False,1213
+Airport at Clayton NB,30.324196,-97.715657,1,1,False,6527
+West Gate/Davis,30.190773,-97.833402,1,1,False,5838
+4413 Guadalupe/45th,30.310684,-97.732962,1,1,False,609
+2401 Wickersham/Oltorf,30.226039,-97.723488,1,1,False,1009
+7000 Brodie/Bannockburn,30.213001,-97.83105,1,1,False,3182
+Thompkins/Trotwood,30.387388,-97.661196,1,1,False,5320
+501 Pleasant Valley/5th,30.257443,-97.710596,1,1,False,1368
+1458 Lamar/Collier,30.252289,-97.763972,1,1,False,776
+1601 Koenig/Arroyo Seco,30.332402,-97.734922,1,1,False,2423
+Braker/Plains,30.383667,-97.690661,1,1,False,4973
+Wickersham/Cromwell,30.227021,-97.721847,1,1,False,1010
+5413 Woodrow/Houston,30.326186,-97.734482,1,1,False,1064
+5504 290 Hwy/Industrial Oaks,30.237159,-97.840989,1,1,False,6320
+10620 Lake Creek/School House,30.456924,-97.804141,1,1,False,4959
+1626 William Cannon/Bluff Springs,30.189223,-97.768461,1,1,False,5703
+5th/Bowie,30.269522,-97.752626,1,1,False,2107
+31st Street Station (SB),30.298051,-97.741261,1,1,False,5357
+2433 Stassney/Palo Blanco,30.193568,-97.749836,1,1,False,2499
+130 Slaughter/Congress,30.166994,-97.789102,1,1,False,6322
+Metric/Sunhillow,30.399286,-97.703643,1,1,False,3036
+1201 11th/Lydia,30.268613,-97.72782,1,1,False,659
+1906 Cesar Chavez/Chicon,30.256843,-97.724082,1,1,False,6272
+7601 Northcrest/Prairie Dell,30.340632,-97.708421,1,1,False,1278
+Riverside NB (Pleasant Valley HEB),30.235813,-97.721325,1,1,False,5779
+6100 Pleasant Valley/Dove Springs,30.185358,-97.745648,1,1,False,1214
+7816 S 1st/Dittmar,30.184112,-97.792603,1,1,False,2628
+5515 Woodrow/Houston,30.327565,-97.733603,1,1,False,1065
+6413 Airport Blvd (Highland Mall),30.329125,-97.715694,1,1,False,5602
+12220 Millwright/Salt Mill,30.455334,-97.803932,1,1,False,4960
+8425 West Gate/Cameron,30.194439,-97.830919,1,1,False,5962
+1901 Ben White/Merle,30.229072,-97.787515,1,1,False,2218
+1101 38th Half/Robinson,30.294337,-97.718708,1,1,False,2012
+Thompkins/Larkins,30.383411,-97.66271,1,1,False,5321
+2207 Wickersham/Sheringham,30.229315,-97.721353,1,1,False,1011
+Bluff Springs/BitterCreek,30.187382,-97.76818,1,1,False,6520
+Triangle Station (NB),30.314796,-97.732266,1,1,False,610
+11928 Metric/Sunhillow,30.40113,-97.702464,1,1,False,5705
+7600 Brodie/Harpers Ferry,30.207183,-97.834986,1,1,False,3183
+2523 Stassney/Chaparral,30.193724,-97.747107,1,1,False,4335
+5701 Woodrow/Theckla,30.329034,-97.732673,1,1,False,1066
+1309 Anderson/Lazy,30.350746,-97.71972,1,1,False,5508
+Millwright/Timbercrest,30.453237,-97.803326,1,1,False,5792
+8300 West Gate/Siskin,30.196017,-97.82923,1,1,False,4431
+51st/Manor NB (Manor/51st),30.298344,-97.68687,1,1,True,6495
+8116 S 1st/Mairo,30.181296,-97.794775,1,1,False,2629
+Soco Station (SB),30.248134,-97.750367,1,1,True,4029
+1205 Koenig/Grover,30.329871,-97.729641,1,1,False,2425
+2204 Cesar Chavez/Robert Martinez,30.25572,-97.720807,1,1,False,6270
+128 Slaughter/35,30.166826,-97.784071,1,1,False,6319
+2900 Guadalupe/29th,30.295584,-97.742804,1,1,False,2003
+31st Street Rapid  Station (NB),30.297767,-97.741167,1,1,True,603
+6406 Pleasant Valley/Creek Bend,30.182114,-97.746097,1,1,False,1215
+Franklin Park SB (Pleasant Valley/St Elmo),30.204118,-97.742184,1,1,True,6491
+4701 Stassney/Pleasant Valley,30.19389,-97.743863,1,1,False,5826
+Braker/Motheral,30.380984,-97.684984,1,1,False,4550
+5th/Guadalupe (Republic Square),30.268054,-97.74679,1,1,False,2112
+5819 Woodrow/Koenig,30.330737,-97.73158,1,1,False,1067
+1405 38th Half/Clarkson,30.2927,-97.71574,1,1,False,2013
+6902 Airport Blvd/Guadalupe,30.334359,-97.717039,1,1,False,1273
+Medical School SB (San Jacinto/17th),30.277723,-97.736643,1,1,True,916
+12029 Metric/Bittern,30.403381,-97.699617,1,1,False,5615
+Elmont NB (Pleasant Valley/Elmont),30.239806,-97.718797,1,1,False,4284
+5976 290 Hwy/Harper Park,30.235923,-97.850974,1,1,False,6316
+1319 Rosewood/Angelina,30.26878,-97.72446,1,1,False,661
+Georgian/Research,30.343527,-97.705431,1,1,False,5923
+8318 S 1st/Great Britain,30.179602,-97.79606,1,1,False,3764
+Cesar Chavez NB (Pleasant Valley/Cesar Chavez),30.253159,-97.712655,1,1,True,6515
+4549 Riverside/Wickersham,30.232094,-97.719875,1,1,False,5774
+Eskew/Brodie,30.20339,-97.837717,1,1,False,4435
+1901 Blue Meadow/Bluff Springs,30.183426,-97.768629,1,1,False,2478
+8007 West Gate/Ranch,30.198683,-97.826885,1,1,False,5476
+7905 Anderson Square/Anderson,30.350355,-97.716448,1,1,False,3284
+315 Braker/Hornsby,30.379968,-97.6833,1,1,False,3081
+6903 Airport/Kenniston,30.336072,-97.717896,1,1,False,5509
+5007 Lamar/51st,30.318461,-97.730908,1,1,False,611
+Woodrow/Alguno,30.332811,-97.730682,1,1,False,1068
+38th 1/2 /Cherrywood,30.291308,-97.713951,1,1,False,2014
+11816 Shropshire/Rotherham,30.378361,-97.659936,1,1,False,5323
+307 Rundberg/North Creek,30.360039,-97.692027,1,1,False,1289
+5301 Stassney/Nuckols,30.192738,-97.738231,1,1,False,5829
+3706 Eskew/Croftwood,30.205019,-97.840085,1,1,False,3185
+101 Braker/Georgian,30.379016,-97.681568,1,1,False,5951
+Ben White/Gillis,30.227405,-97.781573,1,1,False,2220
+6132 US 290/Parkwood,30.235662,-97.855267,1,1,False,2617
+815 Koenig/Lamar,30.326319,-97.726971,1,1,False,5393
+SH 95/Main,30.357315,-97.382054,1,1,False,5696
+4825 Riverside/Kirksey,30.231316,-97.717041,1,1,False,1013
+Woodrow/Alegria,30.334573,-97.730128,1,1,False,1069
+Roy G Guerrero NB (Pleasant Valley/Lakeshore),30.242205,-97.717284,1,1,False,1364
+11808 Millwright/Anderson Mill,30.447986,-97.803995,1,1,False,4962
+8600 S 1st/Hyde Park,30.176287,-97.79814,1,1,False,4403
+7809 West Gate/Epping,30.199081,-97.823457,1,1,False,5963
+8005 Georgian/Wonsley,30.345388,-97.704224,1,1,False,5922
+2504 Cesar Chavez/Pedernales,30.254208,-97.716515,1,1,False,6268
+1621 Rosewood/Lawson,30.269218,-97.721609,1,1,False,5627
+3910 Eskew/Wakefield,30.205872,-97.843088,1,1,False,3186
+7209 Lamar/St Johns,30.339477,-97.717637,1,1,False,2878
+Guadalupe/27th Street,30.292195,-97.741316,1,1,False,494
+North Loop East Rapid Station (NB),30.321317,-97.729114,1,1,False,612
+Exposition/12th,30.28766,-97.773815,1,1,False,1984
+2203 Blue Meadow/Blue Dawn,30.181535,-97.76431,1,1,False,4355
+8027 Anderson Square/Research,30.352341,-97.715154,1,1,False,3285
+4812 William Cannon/Meadow Lake,30.181192,-97.75051,1,1,False,4353
+751 Braker/Middle Fiskville,30.37763,-97.678405,1,1,False,3082
+Manor at Rogge NB (Manor/Rogge),30.30476,-97.68108,1,1,True,1594
+7401 Lamar/St Johns,30.341113,-97.716607,1,1,False,1417
+626 Slaughter/Narrow Glen,30.162931,-97.778341,1,1,False,6323
+9000 S 1st/Slaughter,30.173877,-97.799008,1,1,False,4915
+6523 Woodrow/Brentwood,30.337279,-97.72842,1,1,False,1070
+12195 Metric/Cedar Bend,30.408111,-97.696895,1,1,False,2544
+5901 Stassney/Teri,30.191093,-97.731222,1,1,False,5832
+Koenig/Guadalupe SW Corner,30.323488,-97.724021,1,1,False,2427
+5419 Lamar/Nelray,30.32278,-97.72821,1,1,False,613
+UT Dean Keeton Station (SB),30.291085,-97.741379,1,1,False,5863
+7th Street NB (Pleasant Valley/7th),30.25986,-97.709481,1,1,True,1369
+1301 Ben White/Banister,30.227363,-97.779907,1,1,False,2221
+4200 Eskew/Mauai,30.207821,-97.846452,1,1,False,3187
+Rosewood/Salina,30.269475,-97.720098,1,1,False,4171
+1214 Montopolis/Larch,30.232434,-97.698769,1,1,False,834
+Riverside/Palma Verde,30.217039,-97.685245,1,1,False,5470
+5555 Lamar/Nelray,30.324163,-97.727339,1,1,False,614
+5401 Riverside/Faro,30.229169,-97.712324,1,1,False,1015
+Cherrywood/32nd,30.286857,-97.716876,1,1,False,2015
+Dove Springs SB (Pleasant Valley/Stassney),30.193748,-97.744772,1,1,True,1212
+2723 Cesar Chavez/Pleasant Valley,30.252964,-97.713005,1,1,False,6266
+517 Pleasant Valley (Krieg Field),30.246284,-97.71469,1,1,False,1365
+7405 West Gate/Grennock,30.201921,-97.818402,1,1,False,2357
+Capitol/Waterloo SB (San Jacinto/11th),30.272244,-97.738709,1,1,True,6499
+Exposition/Enfield SE Corner,30.290414,-97.772089,1,1,False,1985
+732 Slaughter/E Slaughter To Brandt,30.160354,-97.776979,1,1,False,6325
+4408 Eskew/Copano,30.209422,-97.848776,1,1,False,3188
+Metric/Lamplight Village,30.4105,-97.69554,1,1,False,4833
+201 Dean Keeton/University,30.289534,-97.739302,1,1,False,3512
+6200 Lamar/Denson,30.330984,-97.723288,1,1,False,476
+Oltorf Station (SB),30.238013,-97.754383,1,1,True,4046
+Georgian/Red Oak,30.349494,-97.702006,1,1,False,1282
+833 Braker/Joseph Clayton,30.376193,-97.674267,1,1,False,3083
+2525 Enfield/Norwalk,30.289983,-97.7712,1,1,False,1440
+Woodrow/Dwyce,30.340171,-97.726594,1,1,False,1072
+1412 Montopolis/Marigold,30.229409,-97.700695,1,1,False,3310
+Brentwood Station (NB),30.326325,-97.725966,1,1,False,5862
+West 38th Station (NB),30.304699,-97.741778,1,1,True,5351
+841 Rundberg/Middle Fiskville,30.357206,-97.686372,1,1,False,6416
+Copano/Clarno,30.211939,-97.84982,1,1,False,4441
+William Cannon/Rockridge,30.184074,-97.754703,1,1,False,4352
+1031 Braker/Bluff Bend,30.374972,-97.671833,1,1,False,6433
+4415 Blue Meadow/Deep,30.17944,-97.758205,1,1,False,5121
+12550 Research/Oak Knoll,30.43024,-97.76044,1,1,False,3813
+Metric/Running Bird,30.411624,-97.69161,1,1,False,4795
+1909 Rosewood/Chicon,30.269696,-97.718601,1,1,False,663
+Riverside/Metro Center,30.216684,-97.689637,1,1,False,5434
+7203 West Gate/Bryonhall,30.204834,-97.816514,1,1,False,2679
+Village Square SB (Pleasant Valley/Village Square),30.188889,-97.745545,1,1,True,1213
+Georgian/Walnut,30.351297,-97.700509,1,1,False,1283
+8th Street SB (San Jacinto/8th),30.268964,-97.739881,1,1,True,6501
+7115 Woodrow/Piedmont,30.342849,-97.724984,1,1,False,1074
+9701 Anderson Mill/US 183,30.447933,-97.793006,1,1,False,5515
+Montopolis/Caddie,30.22735,-97.702007,1,1,False,5191
+307 Dean Keeton/San Jacinto,30.289202,-97.734866,1,1,False,2004
+1111 Braker/Tom Adams,30.373772,-97.669335,1,1,False,5123
+1120 Braker/January,30.37371,-97.66846,1,1,False,5324
+Brentwood Station (SB),30.32686,-97.725902,1,1,False,5861
+6905 West Gate/William Cannon,30.206976,-97.815418,1,1,False,2680
+12525 Metric/Parmer,30.413731,-97.690113,1,1,False,4797
+Latta/Islander,30.215679,-97.849077,1,1,False,4442
+1003 Rundberg/North Plaza,30.355815,-97.684246,1,1,False,6417
+ACC Eastview NB (Webberville/Govalle),30.268094,-97.707357,1,1,True,6489
+2207 Enfield/Kent,30.28741,-97.76683,1,1,False,4158
+Woodrow/Pasadena,30.344977,-97.72521,1,1,False,1075
+6201 Lamar/Denson,30.330183,-97.723541,1,1,False,617
+Grove/Riverside,30.228217,-97.707046,1,1,False,2280
+Blue Meadow/Granger,30.178217,-97.755781,1,1,False,5159
+University Hills NB (Manor/Northeast),30.308569,-97.67035,1,1,True,1599
+6303 Stassney/TX Dot Way NB,30.202497,-97.719435,1,1,False,6468
+Rosedale Station (NB),30.308217,-97.741034,1,1,True,4830
+Research/Technology,30.43266,-97.76536,1,1,False,4690
+Georgian/Little Walnut,30.353431,-97.698728,1,1,False,1284
+West Gate/Berkeley SE Corner,30.208626,-97.814361,1,1,False,2360
+12623 Metric/Scofield,30.414986,-97.688459,1,1,False,4796
+2300 William Cannon/Stoneleigh,30.186637,-97.759034,1,1,False,4350
+620 Radam/James Casey,30.225294,-97.773151,1,1,False,5655
+1814 Montopolis/Kasper,30.225821,-97.702985,1,1,False,3311
+Meadow Lake/Blue Meadow,30.178206,-97.754762,1,1,False,5136
+Cesar Chavez NB (Pleasant Valley/Cesar Chavez),30.253159,-97.712655,1,1,False,6515
+Brush Square SB (San Jacinto/5th),30.266258,-97.740904,1,1,True,6502
+2215 Rosewood/Chestnut,30.27025,-97.71522,1,1,False,3932
+Woodrow/Morrow,30.34743,-97.723761,1,1,False,1076
+West Gate/Aldford SE Corner,30.210706,-97.814332,1,1,False,2361
+9422 Anderson Mill/US 183,30.449417,-97.787707,1,1,False,5672
+3712 Montopolis/Burleson,30.205063,-97.716751,1,1,False,5833
+Seaholm Station (NB),30.265454,-97.752098,1,1,False,5498
+6805 Meadow Lake/Bucks Run,30.179042,-97.753083,1,1,False,2482
+Braker/Wedgewood,30.375894,-97.673184,1,1,False,5325
+Research/Mc Neil,30.434391,-97.768725,1,1,False,5671
+189 Springdale/Cesar Chavez,30.252336,-97.703929,1,1,False,6414
+1708 Slaughter/Orchard Ridge,30.152644,-97.768626,1,1,False,6328
+1207 Rundberg/Teasdale,30.353725,-97.681067,1,1,False,4721
+1801 Enfield/Hartford,30.284786,-97.762233,1,1,False,1444
+6541 Lamar/Brentwood,30.333864,-97.7212,1,1,False,618
+St Edwards Station (SB),30.228933,-97.760817,1,1,True,5870
+Grove/Fairway,30.230394,-97.70616,1,1,False,5043
+Convict Hill/Brush Country,30.217449,-97.846951,1,1,False,3193
+West Gate/Cornish SE Corner,30.212936,-97.814835,1,1,False,2362
+East Dean Keaton NB (Dean Keeton/Robert Dedman),30.287924,-97.728763,1,1,False,2006
+Georgian/Home Place,30.356009,-97.696169,1,1,False,1285
+7717 Woodrow/Princeton,30.34989,-97.72302,1,1,False,1077
+6601 Meadow Lake/William Cannon,30.180708,-97.750278,1,1,False,2483
+Onion Creek SB (William Cannon/Pleasant Valley),30.17902,-97.746313,1,1,True,6509
+Springdale Center NB (Manor/Susquehanna),30.312849,-97.665031,1,1,True,1601
+1912 William Cannon/Elm Creek (Apt),30.18828,-97.764296,1,1,False,5757
+4800 Convict Hill/Brush Country,30.217489,-97.849946,1,1,False,5491
+3120 Montopolis/Ben White,30.210443,-97.71331,1,1,False,5835
+700 Braker/Pollyanna,30.377449,-97.677411,1,1,False,4554
+12801 McCallen/Parmer,30.405922,-97.663623,1,1,False,4672
+5201 William Cannon/Pleasant Valley,30.179893,-97.747991,1,1,False,5398
+Crestview Station (NB),30.336889,-97.719305,1,1,False,5860
+6101 West Gate/Berkett,30.216251,-97.812864,1,1,False,2363
+13207 Metric/Staton,30.421335,-97.683113,1,1,False,5520
+4922 Convict Hill/Flaming Oak,30.217987,-97.852494,1,1,False,4444
+1603 Enfield/West Lynn,30.282771,-97.758105,1,1,False,1446
+Oak Springs NB (Airport/Oak Springs),30.27388,-97.697907,1,1,True,3262
+9013 Georgian/Fawnridge,30.358122,-97.694809,1,1,False,1286
+200 Braker/Oakwood,30.378569,-97.679983,1,1,False,4553
+701 Dean Keeton/San Jacinto,30.289093,-97.73154,1,1,False,2005
+1101 Grove (ACC Riverside),30.235008,-97.704179,1,1,False,953
+1700 William Cannon/Bluff Springs,30.189202,-97.767485,1,1,False,4345
+6306 RIVERSIDE/MONTOPOLIS,30.225204,-97.703776,1,1,False,950
+2399 ROSEWOOD/HARGRAVE,30.271107,-97.710539,1,1,False,665
+1403 Rundberg/Marlborough,30.351563,-97.677494,1,1,False,3134
+Convict Hill/Woodcreek,30.219087,-97.854773,1,1,False,4447
+Leander Station,30.586401,-97.855735,1,1,False,5542
+Sunshine Station (NB),30.316419,-97.735728,1,1,True,1058
+5907 West Gate/Coatbridge,30.217388,-97.809397,1,1,False,2364
+11819 Shropshire/Rotherham,30.378569,-97.659881,1,1,False,3087
+5783 William Cannon/Onion Creek Soccer Field EB,30.17546,-97.743505,1,1,False,6481
+13501 Metric/Chasewood,30.424288,-97.679467,1,1,False,4822
+Rundberg/Cameron,30.349892,-97.676412,1,1,False,3135
+2821 Montopolis/Oltorf,30.215817,-97.70926,1,1,False,4310
+5402 Convict Hill/Beckett,30.220755,-97.858202,1,1,False,5055
+314 Braker/Hornsby,30.380223,-97.683325,1,1,False,4551
+Republic Square Station (NB),30.266218,-97.746056,1,1,False,5868
+2421 Rosewood/Bedford,30.272209,-97.70819,1,1,False,5392
+13175 Pond Springs/Turtle Rock,30.444876,-97.777674,1,1,False,5649
+Shropshire/Tobler,30.380906,-97.661208,1,1,False,3088
+13701 McCallen/Center Ridge,30.417607,-97.661907,1,1,False,4671
+819 Pleasant Valley/Lyons,30.263548,-97.708226,1,1,False,1372
+9100 Cameron/Rundberg,30.347161,-97.677226,1,1,False,3136
+Delco Center NB (Pecan Brook/Springdale),30.317671,-97.659431,1,1,True,1603
+Braker/Lamar NE Corner,30.381776,-97.685877,1,1,False,3895
+13621 Metric/Howard,30.42627,-97.676859,1,1,False,5521
+7545 Lamar/Morrow,30.34385,-97.71492,1,1,False,622
+5616 Convict Hill/Wagon Train,30.222453,-97.861693,1,1,False,3196
+Research/Northcrest,30.343392,-97.705027,1,1,False,5647
+2421 Grove/Montopolis,30.220579,-97.707057,1,1,False,2279
+851 Pleasant Valley/Webberville,30.265299,-97.708781,1,1,False,1373
+1512 Howard/Metric,30.426226,-97.675829,1,1,False,5659
+Braker/Lamar NW Corner,30.382691,-97.687669,1,1,False,4964
+South Congress Station Bay K,30.222718,-97.766459,1,1,True,5553
+13050 Pond Springs/Hunters Chase,30.441581,-97.773724,1,1,False,5650
+Thompkins/Tuffit,30.384103,-97.66232,1,1,False,3089
+Rosewood/Webberville,30.272357,-97.705144,1,1,False,666
+7200 Salt Springs/Orange Blossom EB,30.167139,-97.740724,1,1,False,4357
+Cherrywood NB (Manor/Chestnut),30.284437,-97.717846,1,1,False,1578
+Cameron/Cross Park,30.343606,-97.678835,1,1,False,4557
+2551 Heatherwilde/Wild Senna,30.422415,-97.658839,1,1,False,5770
+LBJ High School NB (Pecan Brook/Rio),30.314586,-97.656099,1,1,True,3655
+Austin History Center Station (NB),30.27042,-97.74444,1,1,False,2606
+Red River/Dean Keeton,30.28758,-97.72652,1,1,False,4144
+1100 Braker/Plains,30.384098,-97.690954,1,1,False,5014
+Nelms/Bluff Springs,30.192738,-97.765327,1,1,False,553
+Convict Hill/John Blocker,30.223818,-97.864469,1,1,False,3197
+Thompkins/Peggotty,30.387545,-97.660983,1,1,False,3090
+Tech Ridge Bay B,30.41844,-97.668279,1,1,False,5274
+2749 Govalle/Webberville,30.267443,-97.706568,1,1,False,5150
+Salt Springs/Tara,30.163611,-97.742899,1,1,False,3901
+9514 Anderson Mill/US 183,30.449535,-97.788219,1,1,False,5673
+Braker/Austin Park,30.385465,-97.694205,1,1,False,4965
+812 Guadalupe/8th,30.271503,-97.745478,1,1,False,5950
+2709 Manor/Walnut,30.285091,-97.71357,1,1,False,1580
+8630 Vertex/Charles Merle,30.156566,-97.752831,1,1,False,6338
+1101 Howard/Center Line,30.42281,-97.668272,1,1,False,5345
+2807 Oak Springs/Webberville,30.272787,-97.702321,1,1,False,667
+St Elmo Station (SB),30.216701,-97.768024,1,1,True,6356
+Chicon/11th,30.266178,-97.720553,1,1,False,2028
+Salt Springs at Roseborough Dr,30.161512,-97.744196,1,1,False,6522
+3107 Red River/32nd,30.290665,-97.727112,1,1,False,2493
+12215 Thompkins/Yager,30.389819,-97.65961,1,1,False,3091
+Easton Park SB (McKinney Falls/William Cannon),30.16283,-97.726298,1,1,True,6441
+North Loop Station (NB),30.326284,-97.739566,1,1,True,817
+6317 Convict Hill/Escarpment,30.226028,-97.868956,1,1,False,6391
+800 Cesar Chavez/West,30.265741,-97.752406,1,1,True,716
+9700 Anderson Mill/US 183,30.448048,-97.79324,1,1,False,4952
+Braker/Swearingen,30.387659,-97.69841,1,1,False,3010
+12th/Branch,30.271886,-97.731306,1,1,False,1113
+3201 Govalle/Tillery,30.265835,-97.701948,1,1,False,5130
+Austin History Center Station (SB),30.271057,-97.745655,1,1,False,2611
+Alexander Station NB (Manor/Alexander),30.285647,-97.709889,1,1,False,1582
+1476 Rutherford/Cameron,30.33794,-97.68431,1,1,False,2439
+3409 Red River/Harris,30.293112,-97.725448,1,1,False,4147
+Research Blvd/Barrington,30.432985,-97.768027,1,1,False,3829
+St Johns/IH 35 (Midblock),30.332158,-97.702924,1,1,False,5104
+Hyde Park Station (NB),30.304422,-97.736957,1,1,True,606
+3201 Oak Springs/Airport,30.273484,-97.698127,1,1,False,668
+1612 Braker/Bittern Hollow,30.389344,-97.701332,1,1,False,3011
+Purple Sage NB (Crystalbrook/Purple Sage),30.308,-97.652679,1,1,True,1608
+8022 Thaxton/Running Water,30.157548,-97.742243,1,1,False,5700
+1107 Mearns Meadow/Quail,30.369909,-97.700949,1,1,False,6256
+801 St Johns/Bennett,30.33112,-97.7006,1,1,False,4713
+Allandale Station (NB),30.3342,-97.7398,1,1,True,822
+3601 Govalle/Gunter,30.264616,-97.698463,1,1,False,1377
+501 Wells Branch/Heatherwilde,30.433412,-97.653076,1,1,False,5769
+12th/Navasota,30.272434,-97.727844,1,1,False,1114
+314 Chicon/4th,30.259509,-97.723601,1,1,False,2032
+Airport Blvd NB (Manor/Airport),30.286327,-97.705715,1,1,False,5616
+Republic Square Station (SB),30.267751,-97.746857,1,1,False,5867
+3805 Red River/38th Half,30.296366,-97.723097,1,1,False,1784
+8071 Lamar/Research,30.348283,-97.711558,1,1,False,623
+11807 Millwright/Missel Thrush,30.447549,-97.803914,1,1,False,4953
+311 Martin Luther King/San Jacinto,30.280007,-97.736338,1,1,False,2522
+Govalle/Springdale,30.264033,-97.696785,1,1,False,5465
+1112 Rutherford/Furness,30.34058,-97.689935,1,1,False,5447
+206 Chicon/2nd,30.258414,-97.724115,1,1,False,2033
+1300 Mearns Meadow/Parkfield,30.371772,-97.702801,1,1,False,6250
+6959 Convict Hill/290,30.230043,-97.87863,1,1,False,6392
+3513 Oak Springs/Gunter,30.27375,-97.694929,1,1,False,3722
+3219 Manor/Tillery,30.286817,-97.702734,1,1,False,5617
+102 Chicon/Cesar Chavez,30.257258,-97.724661,1,1,False,6330
+8208 Alum Rock/Broad Brook,30.154079,-97.736716,1,1,False,5798
+12574 Research/Jollyville,30.429237,-97.760501,1,1,False,3830
+Stassney SB Rapid,30.204553,-97.775064,1,1,True,546
+1900 Braker/Metric,30.391553,-97.706104,1,1,False,3012
+1321 12th/Angelina,30.272878,-97.725052,1,1,False,4173
+M L King/Trinity (Midblock),30.279262,-97.733535,1,1,False,2768
+961 Springdale/Govalle,30.264596,-97.696074,1,1,False,4534
+Canyon Ridge/Yager,30.398734,-97.668725,1,1,False,5336
+3504 Manor/Greenwood,30.288022,-97.700453,1,1,False,6289
+12103 Millwright/Old Stage Trail,30.452086,-97.802828,1,1,False,4954
+8223 Lamar/Powell/NB,30.350957,-97.708703,1,1,False,6451
+Little Texas Station (SB),30.202521,-97.775659,1,1,True,5871
+1017 Camino La Costa/La Posada,30.32551,-97.70152,1,1,False,3496
+651 Martin Luther King Jr/Red River,30.278688,-97.731471,1,1,False,5624
+10001 Mountain Quail/Oak Hollow,30.375732,-97.705971,1,1,False,6253
+6501 Alum Rock/Fall Meadow,30.155447,-97.74224,1,1,False,5701
+2100 Braker/Metric,30.39276,-97.70884,1,1,False,4967
+1114 Wells Branch/Drusillas,30.438694,-97.65949,1,1,False,5766
+1017 Springdale/Goodwin,30.267244,-97.694388,1,1,False,1379
+3607 Manor/Pershing,30.289421,-97.697681,1,1,False,4524
+Justin Station (NB),30.345183,-97.73755,1,1,True,826
+12221 Millwright/Wendts Way,30.455338,-97.80375,1,1,False,4955
+Barton Springs Station (SB),30.26007,-97.758952,1,1,True,4070
+Triangle Station (NB),30.314796,-97.732266,1,1,True,610
+12501 Tech Ridge/Canyon Ridge,30.398589,-97.662869,1,1,False,5330
+1101 Camino La Costa/La Posada,30.324081,-97.698549,1,1,False,2432
+8415 Lamar/Thurmond,30.353121,-97.70573,1,1,False,624
+1700 Holly/Chalmers,30.25422,-97.728132,1,1,False,2039
+Johnny Morris NB (Loyola/Johnny Morris),30.299874,-97.647843,1,1,True,4614
+1255 Martin Luther King/IH 35,30.278682,-97.72723,1,1,False,4183
+Morris Williams Golf Course,30.290077,-97.694633,1,1,False,1588
+10621 Lake Creek/Millwright,30.457116,-97.803597,1,1,False,4956
+12601 Tech Ridge/Parmer,30.399775,-97.65916,1,1,False,5331
+2236 Braker/Kramer,30.391761,-97.713127,1,1,False,4968
+1703 12th/Leona,30.273472,-97.721367,1,1,False,2856
+Leander Station Bay D,30.586407,-97.855296,1,1,False,5387
+9507 Mountain Quail/Rutland,30.371326,-97.709486,1,1,False,6254
+Camino La Costa/Atkinson,30.324264,-97.695355,1,1,False,2433
+1053 Springdale/Prock,30.27106,-97.69193,1,1,False,1381
+1509 Martin Luther King/Comal,30.279074,-97.724701,1,1,False,870
+1819 12th/Chicon,30.273695,-97.720001,1,1,False,1118
+1426 Wells Branch/FM 1825,30.441366,-97.665433,1,1,False,5764
+800 Cesar Chavez/West,30.265741,-97.752406,1,1,False,716
+604 Barton Springs/1st,30.258711,-97.750773,1,1,False,1718
+Fairfield Station (NB),30.355674,-97.702242,1,1,False,6348
+1600 Holly/Comal,30.254921,-97.730153,1,1,False,2040
+6822 Cameron/Camino La Costa,30.323777,-97.693885,1,1,False,6431
+Lamar Square Station (SB),30.254493,-97.762566,1,1,True,2324
+10505 Lake Creek/Hickory Stick,30.458877,-97.799056,1,1,False,4957
+8745 Lamar/Deen,30.356405,-97.70124,1,1,False,627
+Pleasant Hill Station (SB),30.1924,-97.779234,1,1,True,5872
+Northcross Station (NB),30.353858,-97.732081,1,1,True,829
+910 Barton Springs/Bouldin,30.259787,-97.753879,1,1,False,2155
+1813 Martin Luther King/Chicon,30.279695,-97.721372,1,1,False,872
+1400 Holly/Navasota,30.255619,-97.732075,1,1,False,2041
+Colony Park NB (Loyola/Cielo Vista),30.297576,-97.641351,1,1,True,2416
+4601 Manor/Lovell,30.292793,-97.689207,1,1,False,1589
+1107 Springdale/Ledesma,30.274299,-97.689894,1,1,False,1382
+2401 12th/Pleasant Valley,30.274488,-97.714983,1,1,False,5747
+North Loop East Rapid Station (NB),30.321317,-97.729114,1,1,True,612
+8911 Lamar/Carpenter,30.358138,-97.699627,1,1,False,628
+10409 Lake Creek/Mellow Meadows,30.46064,-97.79704,1,1,False,3818
+467 38th/Guadalupe,30.302273,-97.73745,1,1,False,6276
+11700 Research/Duval,30.41999,-97.747572,1,1,False,3831
+2601 12th/Cedar,30.274815,-97.712846,1,1,False,1121
+10701 Burnet/Braker Stadium Rapid (NB),30.391796,-97.721477,1,1,False,4761
+9037 Lamar/Cooper,30.360265,-97.698477,1,1,False,3075
+6116 Cameron/Glencrest,30.319537,-97.697311,1,1,False,5782
+1518 Barton Springs/Lamar,30.261152,-97.758921,1,1,False,4630
+B R Reynolds/Lamar,30.267402,-97.756576,1,1,False,717
+1161 Springdale/Webberville,30.277096,-97.688064,1,1,False,1383
+101 38th/Speedway,30.300391,-97.733404,1,1,False,6278
+51st/Manor NB (Manor/51st),30.298344,-97.68687,1,1,False,6495
+1800 Wells Branch/Wells Port,30.43565,-97.675662,1,1,False,5976
+10135 Lake Creek/US 183,30.462312,-97.791684,1,1,False,4654
+9120 Northgate/Rundberg,30.371705,-97.715859,1,1,False,3155
+2863 12th/Alexander,30.275533,-97.708349,1,1,False,1123
+1612 Barton Springs/Kinney,30.262302,-97.76182,1,1,False,2160
+11590 Research/Thunder Creek,30.41492,-97.746612,1,1,False,3832
+Rundberg Station (NB),30.362617,-97.697133,1,1,False,2821
+Brentwood Station (NB),30.326325,-97.725966,1,1,True,5862
+2525 Kramer/Burnet,30.394612,-97.719265,1,1,False,5791
+Oltorf West Station (SB),30.248028,-97.771756,1,1,True,2328
+Ohlen Station (NB),30.363467,-97.728784,1,1,True,4570
+13201 McCallen/Parmer,30.411847,-97.663686,1,1,False,5332
+Briarcliff/Nassau,30.316544,-97.697807,1,1,False,2393
+1900 Wells Branch/Alex,30.434837,-97.679157,1,1,False,4818
+416 38th/Duval,30.298511,-97.729686,1,1,False,6280
+1806 Barton Springs/Azie Morton,30.264094,-97.763929,1,1,False,2202
+Lake Creek/Hymeadow,30.463646,-97.789238,1,1,False,5785
+Manor/Pecan Springs,30.301198,-97.684791,1,1,False,1592
+58 Waller/Holly,30.256066,-97.734469,1,1,False,5427
+1207 Springdale/12th,30.279924,-97.686346,1,1,False,1384
+9717 Lamar/Rutland,30.366232,-97.695082,1,1,False,4541
+1729 Colony Creek/Northgate,30.369189,-97.715046,1,1,False,4729
+1719 Aldrich/Mueller,30.297877,-97.707818,1,1,False,5669
+12th/Oak Grove,30.276207,-97.70414,1,1,False,4200
+2833 Martin Luther King Jr/Alexander,30.281548,-97.709813,1,1,False,5802
+1503 Briarcliff/Belfast,30.314906,-97.694362,1,1,False,2394
+9813 Lamar/Longspur,30.368162,-97.693983,1,1,False,5517
+9030 Galewood/Colony Creek,30.36748,-97.71512,1,1,False,4730
+2112 Wells Branch/Surrender,30.436623,-97.683609,1,1,False,4816
+220 Lamar/Toomey,30.2631,-97.757876,1,1,False,2322
+Bluebonnet Station (SB),30.246766,-97.777874,1,1,True,5879
+Springdale/Leslie,30.282374,-97.684815,1,1,False,1385
+Barton Springs (Zilker Park),30.266126,-97.768413,1,1,False,4079
+Health Center WB,30.252636,-97.733165,1,1,False,1957
+Manor at Rogge NB (Manor/Rogge),30.30476,-97.68108,1,1,False,1594
+10007 Lake Creek/Pecan Park,30.467978,-97.787873,1,1,False,4655
+8910 Galewood/Payton Gin,30.366009,-97.716055,1,1,False,4732
+814 38th Half/Red River,30.296361,-97.723433,1,1,False,6282
+1701 Briarcliff/Berkman (Midblock),30.313904,-97.692283,1,1,False,5707
+3245 12th/Airport,30.276731,-97.700547,1,1,False,1126
+Crossroads Station (NB),30.370976,-97.726817,1,1,True,4572
+11100 Research/Balcones Woods,30.406858,-97.745727,1,1,False,3833
+Slaughter Station (SB),30.169621,-97.787869,1,1,True,6361
+5819 Manor/Sweeney,30.30631,-97.680068,1,1,False,1595
+2300 Wells Branch/Merrilltown,30.439293,-97.68557,1,1,False,4814
+4804 Mueller/Philomena,30.301239,-97.70562,1,1,False,6332
+Masterson Station (NB),30.372083,-97.691817,1,1,False,4543
+2220 Barton Springs (Zilker),30.26825,-97.772634,1,1,False,2206
+1819 Springdale/Martin Luther King,30.28557,-97.68273,1,1,False,1387
+Manor/Wheless,30.307813,-97.6778,1,1,False,4805
+3403 12th/Greenwood,30.277301,-97.697085,1,1,False,1127
+Barton Springs Station (SB),30.26007,-97.758952,1,1,False,4070
+4311 Springdale/Martin Luther King,30.286366,-97.682192,1,1,False,4742
+1624 Ohlen/Payton Gin,30.36371,-97.71609,1,1,False,3033
+1941 Gaston Place/Wellington,30.312416,-97.688646,1,1,False,2396
+Lamar/Applegate,30.374486,-97.690432,1,1,False,4545
+1509 Barbara Jordan/Mueller,30.303868,-97.703474,1,1,False,6409
+Wells Branch/Double File,30.441831,-97.690286,1,1,False,5929
+Crestview Station (NB),30.336889,-97.719305,1,1,True,5860
+Mopac/Nature Center,30.269505,-97.776342,1,1,False,4166
+Braker/Research NW Corner,30.400813,-97.74724,1,1,False,3834
+3525 12th/E M Franklin,30.277722,-97.694402,1,1,False,1128
+Ohlen/Research,30.362927,-97.71902,1,1,False,4734
+Broken Spoke Station (SB),30.241007,-97.786179,1,1,True,6358
+4609 Springdale/Touchstone,30.289398,-97.68025,1,1,False,4743
+3000 Wells Branch/Tandem,30.441493,-97.692608,1,1,False,5277
+3431 Martin Luther King/Greenwood,30.283318,-97.698197,1,1,False,880
+Lakeline Station Bay I,30.480422,-97.786505,1,1,False,5228
+Rutland Rapid Station (NB),30.379497,-97.724857,1,1,True,4757
+201 W Carrie Manor/Lexington,30.339694,-97.559124,1,1,False,5776
+906 Lamar/Treadwell,30.256342,-97.761433,1,1,False,5635
+6210 North Hampton/Haney,30.312836,-97.683749,1,1,False,2397
+Chinatown Station (NB),30.379385,-97.687683,1,1,False,4548
+University Hills NB (Manor/Northeast),30.308569,-97.67035,1,1,False,1599
+3601 Martin Luther King/EM Franklin,30.283699,-97.695712,1,1,False,881
+Lamar Square Station (SB),30.254493,-97.762566,1,1,False,2324
+3300 Wells Branch/Howard,30.440229,-97.695602,1,1,False,5339
+Barbara Jordan NB (Berkman/Barbara Jordan),30.302547,-97.699539,1,1,False,5925
+12th/Luna,30.27828,-97.69077,1,1,False,4668
+10300 Jollyville/Great Hills,30.396981,-97.750138,1,1,False,6093
+10818 Lakeline Mall/Lake Creek,30.474728,-97.795902,1,1,False,5653
+6311 North Hampton/Bristol,30.313627,-97.681795,1,1,False,2398
+11213 Lamar/Braker,30.38168,-97.686359,1,1,False,3080
+1820 Ohlen/Renton,30.361169,-97.723184,1,1,False,5575
+Lakeline Station,30.48103,-97.786543,1,1,False,5541
+4281 51st/Springdale,30.293984,-97.678299,1,1,False,6296
+3815 Martin Luther King/Perez,30.284091,-97.693161,1,1,False,882
+1612 38th Half/Cherrywood,30.291761,-97.713782,1,1,False,6285
+6699 Manor/Loyola,30.30992,-97.66719,1,1,False,1600
+1414 Lamar/Collier/SB,30.252465,-97.764114,1,1,False,722
+Brodie Oaks Station (SB),30.236571,-97.792508,1,1,True,2334
+Lamar/Caddo,30.385845,-97.684238,1,1,False,4896
+9829 Great Hills/Jollyville,30.394037,-97.74835,1,1,False,2732
+Springdale Center NB (Manor/Susquehanna),30.312849,-97.665031,1,1,False,1601
+3105 51st/Pecan Springs,30.295848,-97.682332,1,1,False,6298
+4609 12th/Springdale,30.278604,-97.686295,1,1,False,4667
+5304 Berkman/Westmoor,30.306662,-97.697044,1,1,False,6294
+11900 Lamar/Little Oak,30.389618,-97.682674,1,1,False,5518
+11020 Lakeline Mall/Pecan Park,30.472378,-97.801255,1,1,False,5428
+2008 Lamar/Hether,30.249289,-97.767901,1,1,False,2326
+1802 38th Half/Basford,30.289979,-97.71002,1,1,False,6287
+1201 Webberville/12th,30.278282,-97.684544,1,1,False,1130
+9700 North Lake Creek/Lakeline Mall,30.476288,-97.794455,1,1,False,5223
+2306 Ohlen/Bowling Green,30.362828,-97.72843,1,1,False,3159
+11100 Pecan Park/Lakeline Mall,30.4727,-97.802246,1,1,False,5222
+12001 Lamar/Oakbrook,30.393627,-97.681006,1,1,False,5348
+Pinnacle Park and Ride,30.23176,-97.881544,1,1,False,5943
+Elmont/Pleasant Valley/1,30.239624,-97.721486,1,1,False,1363
+2760 51st/Manor,30.298344,-97.687272,1,1,False,6301
+UT Research Campus Station (NB),30.388232,-97.727049,1,1,True,5724
+1300 Spyglass/Wallingwood,30.261146,-97.786623,1,1,False,4489
+Oltorf West Station (SB),30.248028,-97.771756,1,1,False,2328
+Berkman/Larkwood,30.31036,-97.69473,1,1,False,1396
+1906 38th Half/Airport,30.289159,-97.706708,1,1,False,6290
+8118 Burnet/Steck,30.360468,-97.729812,1,1,False,3160
+Martin Luther King/Springdale,30.28569,-97.68292,1,1,False,886
+1419 Webberville/Fort Branch,30.279744,-97.680966,1,1,False,1132
+4705 Heflin/Springdale,30.285183,-97.681314,1,1,False,5636
+Spyglass/Barton Skyway,30.258129,-97.787481,1,1,False,2191
+6911 Brush Country/One Oak,30.219895,-97.843893,1,1,False,5900
+Delco Center NB (Pecan Brook/Springdale),30.317671,-97.659431,1,1,False,1603
+2330 Lamar/Goodrich,30.247258,-97.776176,1,1,False,2255
+Burnet/Ashdale,30.358333,-97.730386,1,1,False,3060
+1404 Fort Branch/Delano,30.278343,-97.680174,1,1,False,5461
+Lamar/Yager,30.402463,-97.678967,1,1,False,4699
+5030 Tilley/51st,30.301487,-97.692365,1,1,False,6462
+Bluebonnet Station (SB),30.246766,-97.777874,1,1,False,5879
+1788 Spyglass/Barton Skyway,30.259147,-97.79103,1,1,False,4490
+Riverside SB (Pleasant Valley HEB),30.23524,-97.721977,1,1,False,4288
+Parmer Rapid  Station (NB),30.40559,-97.678489,1,1,False,5270
+6001 Berkman/Briarcliff,30.314786,-97.692049,1,1,False,1398
+6703 Brush Country/William Cannon,30.222951,-97.841813,1,1,False,5902
+North Lamar Transit Center,30.349326,-97.711685,1,1,True,5859
+Lakeline/US 183,30.478414,-97.804675,1,1,False,5881
+10001 Capital of Texas/Stonelake,30.390475,-97.738894,1,1,False,3838
+LBJ High School NB (Pecan Brook/Rio),30.314586,-97.656099,1,1,False,3655
+5507 Jackie Robinson/Delano,30.276475,-97.678406,1,1,False,5911
+10701 Burnet/Braker Stadium Rapid (NB),30.391796,-97.721477,1,1,True,4761
+6207 Berkman/Glen Valley,30.31646,-97.691029,1,1,False,1399
+2007 Pleasant Valley/Riverside,30.233458,-97.724063,1,1,False,6428
+Mopac/Barton Skyway,30.262083,-97.78957,1,1,False,4491
+5513 Pecan Brook/Tumbleweed,30.313182,-97.653153,1,1,False,1606
+2806 Menchaca/Lightsey,30.243035,-97.781628,1,1,False,728
+1818 51st/Bartholomew Pool,30.303536,-97.698581,1,1,False,6343
+Lakeline/US 183,30.480007,-97.800186,1,1,False,5654
+6509 Berkman/Wheless,30.318728,-97.689634,1,1,False,1400
+Pleasant Hill Station (SB),30.1924,-97.779234,1,1,False,5872
+Sheringham SB (Pleasant Valley/Sheringham),30.230883,-97.725761,1,1,False,4298
+Mueller Tower NB (Berkman/Tom Miller),30.290322,-97.698669,1,1,False,6091
+3204 Menchaca/Glen Allen,30.240345,-97.782242,1,1,False,729
+11101 Lakeline/North Lake Creek,30.479846,-97.79749,1,1,False,5805
+Berkman/US 290 SE Corner,30.320741,-97.688771,1,1,False,1401
+Tumbleweed at Purplesage,30.309797,-97.655034,1,1,False,6523
+4021 Tannehill/Samuel Huston,30.279192,-97.673977,1,1,False,1138
+Berkman/US 290 NE Corner,30.32244,-97.68899,1,1,False,1402
+1410 51st/Mueller,30.306564,-97.704286,1,1,False,5932
+3624 Menchaca/Larchmont,30.237452,-97.783568,1,1,False,730
+Mopac/Braker,30.393962,-97.732447,1,1,False,5920
+4701 Loyola/Manor,30.309468,-97.666739,1,1,False,4611
+3913 Medical/39th Half,30.307742,-97.742786,1,1,False,4128
+4301 Tannehill/Webberville,30.281393,-97.672539,1,1,False,6386
+1504 St Johns/Berkman,30.324859,-97.68969,1,1,False,6342
+Medical Pkwy/41st,30.309731,-97.742576,1,1,False,811
+51st/Lancaster,30.308232,-97.707768,1,1,False,5455
+3608 Menchaca/Valley View,30.235223,-97.784979,1,1,False,2650
+7310 Congress/Dittmar,30.185789,-97.781306,1,1,False,5315
+5007 Loyola/Greensboro,30.306534,-97.665444,1,1,False,2406
+Medical/42nd,30.311492,-97.742464,1,1,False,4129
+Simond NB (Berkman/Simond),30.296343,-97.700088,1,1,False,6292
+3906 Menchaca/Prather,30.233969,-97.785765,1,1,False,732
+Cameron/52nd,30.309887,-97.708858,1,1,False,2388
+4527 Oltorf/Wickersham,30.225638,-97.724566,1,1,False,2273
+Fairfield Station (NB),30.355674,-97.702242,1,1,True,6348
+7209 Cameron/St Johns,30.326238,-97.692041,1,1,False,4709
+ACC Cypress Creek,30.479477,-97.834422,1,1,False,5698
+Tannehill/Webberville,30.283973,-97.671344,1,1,False,5007
+Medical Pkwy/44th,30.314054,-97.741916,1,1,False,813
+5213 Loyola/Bridgewater,30.304699,-97.664109,1,1,False,2407
+Cameron/Broadmoor,30.311881,-97.706361,1,1,False,2389
+4308 Menchaca/Ben White,30.230504,-97.788112,1,1,False,733
+4809 Oltorf/Sunridge,30.223249,-97.72253,1,1,False,2274
+7401 Cameron/Coronado Hills,30.329295,-97.690041,1,1,False,4708
+Cameron/Corona,30.313185,-97.704679,1,1,False,2390
+3513 Jefferson/35th,30.30833,-97.751132,1,1,False,1864
+4430 Menchaca/Redd,30.228464,-97.78938,1,1,False,734
+3617 Bull Creek/Jefferson,30.309849,-97.751043,1,1,False,4133
+Cameron/Northridge,30.315645,-97.701544,1,1,False,4609
+1010 Walsh Tarlton/Bee Caves,30.2736,-97.80122,1,1,False,4492
+Rundberg Station (NB),30.362617,-97.697133,1,1,True,2821
+Burnet/49th,30.320494,-97.739145,1,1,False,815
+7605 Cameron/Anderson,30.331463,-97.686986,1,1,False,2436
+Bull Creek/39th,30.311658,-97.752215,1,1,False,1866
+4616 Menchaca/Forest Hill,30.225991,-97.790916,1,1,False,735
+5627 Loyola/Millrace,30.302822,-97.657453,1,1,False,4612
+Delco Center SB (Pecan Brook/Springdale),30.317947,-97.659681,1,1,False,1618
+5011 Burnet/Hancock,30.321766,-97.739242,1,1,False,816
+1200 Congress/Nellie,30.252434,-97.74878,1,1,False,5743
+5913 Cameron/Briarcliff,30.317126,-97.699679,1,1,False,2392
+8200 Congress/Foremost,30.175257,-97.784715,1,1,False,5311
+4804 Menchaca/Frontier,30.223743,-97.792347,1,1,False,736
+Howard Station,30.43999,-97.701734,1,1,False,5540
+Lakeline Station Bay G,30.480719,-97.786775,1,1,False,5230
+1508 Barbara Jordan/Mueller,30.304113,-97.703462,1,1,False,6387
+7911 Cameron/Anderson,30.33485,-97.68471,1,1,False,4707
+5413 Oltorf/Alvin Devane,30.21916,-97.718973,1,1,False,2275
+5911 Loyola/Crystalbrook,30.302554,-97.653518,1,1,False,4613
+North Loop Station (NB),30.326284,-97.739566,1,1,False,817
+5000 Menchaca/Jones,30.220975,-97.794067,1,1,False,737
+1500 Walsh Tarlton/Terrapin,30.268486,-97.805071,1,1,False,2212
+Rutland Rapid Station (SB),30.3836,-97.72419,1,1,False,4756
+4219 Bull Creek/Jackson,30.316743,-97.754711,1,1,False,4497
+Norwood Transit Center - E,30.340471,-97.690999,1,1,False,6423
+Soco Station (SB),30.248134,-97.750367,1,1,False,4029
+5214 Menchaca/Fair Oaks,30.219433,-97.794929,1,1,False,5048
+Burnet/Houston,30.328766,-97.739742,1,1,False,819
+1614 Walsh Tarlton/Thousand Oaks,30.266895,-97.806086,1,1,False,2213
+4419 Bull Creek/45th,30.318984,-97.754302,1,1,False,1871
+Slaughter Station (SB),30.169621,-97.787869,1,1,False,6361
+Burnet/Adams,30.330446,-97.739876,1,1,False,820
+5322 Menchaca/Inverness,30.217683,-97.796093,1,1,False,739
+12001 Amhearst/Duval,30.412316,-97.721527,1,1,False,3900
+6101 Oltorf/Alvin Devane,30.216272,-97.71299,1,1,False,2277
+Johnny Morris NB (Loyola/Johnny Morris),30.299874,-97.647843,1,1,False,4614
+9600 Burnet/Longhorn,30.379659,-97.725088,1,1,False,5784
+1916 Walsh Tarlton/Stoneridge,30.26439,-97.807634,1,1,False,2214
+5621 Burnet/Northland,30.332384,-97.739997,1,1,False,821
+Masterson Station (NB),30.372083,-97.691817,1,1,True,4543
+5532 Menchaca/Stassney,30.216058,-97.797163,1,1,False,740
+6143 Oltorf/Montopolis/EB,30.21541,-97.711223,1,1,False,6483
+1322 St Johns/Cameron,30.32636,-97.692703,1,1,False,4711
+6725 Loyola/Sandshof,30.298647,-97.645181,1,1,False,2410
+Allandale Station (NB),30.3342,-97.7398,1,1,False,822
+4701 Bull Creek/Perry,30.323119,-97.75182,1,1,False,4498
+2020 Congress/Crockett,30.243058,-97.752263,1,1,False,522
+Burnet/Waterford Center,30.375734,-97.725963,1,1,False,4754
+9901 Curlew/Slaughter,30.177129,-97.833854,1,1,False,2667
+5720 Menchaca/Whitestone,30.214391,-97.799519,1,1,False,742
+Walsh Tarlton/Tamarron,30.261559,-97.80944,1,1,False,2215
+Colony Park NB (Loyola/Cielo Vista),30.297576,-97.641351,1,1,False,2416
+1601 Rutherford/Cameron,30.33645,-97.68178,1,1,False,2441
+1120 St Johns/Blessing,30.328921,-97.695629,1,1,False,5505
+1605 Centre Creek/Rutherford,30.335254,-97.67997,1,1,False,4704
+6303 Burnet/White Horse/NB,30.338339,-97.739163,1,1,False,6486
+Research/Burnet,30.37228,-97.72535,1,1,False,4691
+6212 Menchaca/Berkett,30.210671,-97.803629,1,1,False,743
+Curlew/Monarch,30.180091,-97.833358,1,1,False,4434
+5017 Bull Creek/Fresco,30.327083,-97.749386,1,1,False,1874
+2300 Congress/College,30.240333,-97.752905,1,1,False,524
+6425 Burnet/Whitehorse,30.33997,-97.7389,1,1,False,824
+12209 Amherst/Dugan,30.417825,-97.717878,1,1,False,4878
+1823 Centre Creek/Cross Park,30.336404,-97.676493,1,1,False,2443
+1008 St Johns/Bethune,30.33032,-97.69854,1,1,False,1409
+6372 Menchaca/Berkeley,30.208952,-97.804711,1,1,False,744
+2824 Hancock/Bull Creek,30.328576,-97.750935,1,1,False,1876
+Lavaca/3rd,30.265792,-97.746213,1,1,False,5944
+6514 Menchaca/Miles,30.207078,-97.80593,1,1,False,745
+2205 Forbes/Cross Park,30.335264,-97.673676,1,1,False,5819
+Curlew/Crownspoint,30.183117,-97.832175,1,1,False,2669
+Oltorf Station (SB),30.238013,-97.754383,1,1,False,4046
+Barton Creek Mall (Backside of Mall ),30.256415,-97.80931,1,1,False,3924
+Chinatown Station (NB),30.379385,-97.687683,1,1,True,4548
+Hancock/Frances Place,30.329875,-97.753562,1,1,False,1877
+Justin Station (NB),30.345183,-97.73755,1,1,False,826
+12401 Amherst/Adelphi,30.42131,-97.71561,1,1,False,4876
+6505 Burleson (Goodwill),30.204222,-97.714111,1,1,False,5882
+Exchange/Interparke,30.330534,-97.672337,1,1,False,5817
+Menchaca/William Cannon SW Corner,30.202031,-97.807163,1,1,False,746
+2622 Congress/Cumberland,30.235695,-97.756374,1,1,False,526
+517 Lavaca/6th,30.268613,-97.745114,1,1,False,2605
+Kramer Station,30.392786,-97.7164,1,1,False,5539
+Curlew/Kentish Drive,30.187173,-97.829818,1,1,False,4433
+467 St Johns/Duval,30.334122,-97.706753,1,1,False,6306
+Burnet/Greenlawn Pkwy,30.34851,-97.73545,1,1,False,827
+7300 Menchaca/Matthews,30.198694,-97.808351,1,1,False,3772
+Research/Ohlen,30.364075,-97.718149,1,1,False,3839
+8073 Exchange/Cross Park,30.33016,-97.666769,1,1,False,5814
+Amherst/Parmer,30.424353,-97.713654,1,1,False,4873
+3308 Hancock/Balcones,30.332741,-97.759601,1,1,False,1878
+7504 Menchaca/Lear,30.196326,-97.80986,1,1,False,3773
+Tech Ridge Bay J,30.418161,-97.667996,1,1,False,5279
+2918 Congress/La Vista,30.23259,-97.75853,1,1,False,527
+7439 Burnet/Richcreek,30.3504,-97.73424,1,1,False,828
+Guidepost/Marsh,30.188075,-97.827667,1,1,False,2673
+6749 Metropolis/Smith School,30.203554,-97.707045,1,1,False,6434
+7800 Menchaca/Beauregard,30.193854,-97.811433,1,1,False,3774
+8500 Research/Fairfield,30.359635,-97.716748,1,1,False,3840
+8609 Leo/Davis,30.190177,-97.825412,1,1,False,2674
+Northcross Station (NB),30.353858,-97.732081,1,1,False,829
+Balcones/Parkcrest,30.336139,-97.75796,1,1,False,1879
+McKalla Station,30.387973,-97.717549,1,1,False,6519
+8200 Menchaca/Shiloh,30.190828,-97.813363,1,1,False,3775
+Exchange/Tuscany,30.337281,-97.662047,1,1,False,5812
+514 St Johns/Guadalupe,30.337813,-97.714297,1,1,False,2874
+St Edwards Station (SB),30.228933,-97.760817,1,1,False,5870
+8503 Seminary Ridge/Cameron Loop,30.19154,-97.824587,1,1,False,2675
+8400 Menchaca/Keepsake,30.188239,-97.815012,1,1,False,5472
+703 St Johns/Lamar,30.339091,-97.717053,1,1,False,6363
+Congress/Pickle,30.226896,-97.761935,1,1,False,529
+8120 Research/Anderson,30.353034,-97.714976,1,1,False,5969
+Tannehill/Martin Luther King,30.286011,-97.669518,1,1,False,5643
+Congress/Dunlap,30.22443,-97.763196,1,1,False,4267
+8407 Tuscany/US 290,30.330713,-97.65973,1,1,False,5811
+Metropolis/Metlink,30.206856,-97.695054,1,1,False,6085
+6101 Balcones/Northland,30.34337,-97.75318,1,1,False,1882
+12323 Pearce/Las Alas,30.171314,-97.627242,1,1,False,5980
+8700 Menchaca/Davis,30.185354,-97.816843,1,1,False,4414
+Parmer Rapid  Station (NB),30.40559,-97.678489,1,1,True,5270
+Ohlen Station (NB),30.363467,-97.728784,1,1,False,4570
+2501 Parmer/Tomanet,30.418592,-97.701867,1,1,False,3045
+Metropolis/Veterans Clinic,30.207627,-97.690495,1,1,False,5844
+College Park/University,30.566885,-97.658493,1,1,False,6232
+9304 Menchaca/Sedgemoor,30.179515,-97.820578,1,1,False,3776
+Triangle Station (SB),30.314586,-97.732526,1,1,False,484
+Bee Street/Main Street,30.502724,-97.914549,1,1,False,2832
+Burnet/Colfax,30.367566,-97.727715,1,1,False,4571
+North Hills/Valleyside,30.34922,-97.75418,1,1,False,4651
+South Congress Bay C,30.223084,-97.766853,1,1,False,5545
+9510 Menchaca/Monarch,30.176806,-97.822278,1,1,False,3753
+7703 Manassas/Whispering Oaks,30.199565,-97.820124,1,1,False,2678
+Evergreen/Pecan,30.505705,-97.912343,1,1,False,5220
+University/Sandy Brook,30.567374,-97.664627,1,1,False,6230
+6401 FM 969/Craigwood,30.284631,-97.660034,1,1,False,5914
+6805 Wood Hollow/North Hills,30.350884,-97.754614,1,1,False,1884
+Crossroads Station (NB),30.370976,-97.726817,1,1,False,4572
+1st/FM 1626 (Akins),30.147252,-97.803199,1,1,False,5778
+University/Teravista Club,30.565967,-97.669358,1,1,False,6228
+Wood Hollow/Far West NE Corner,30.35377,-97.75282,1,1,False,1885
+12905 Thome Valley/Alomar,30.172853,-97.617366,1,1,False,5986
+12460 Lamplight Village/Alderbrook,30.415114,-97.6965,1,1,False,2564
+4210 Congress/Radam,30.220763,-97.765411,1,1,False,531
+7131 Wood Hollow/Far West,30.355387,-97.75181,1,1,False,1886
+Crestview Station,30.338559,-97.719691,1,1,False,5538
+St Elmo Station (SB),30.216701,-97.768024,1,1,False,6356
+Lamplight Village/Metric NW Corner,30.41085,-97.695734,1,1,False,2566
+3536 Greystone/Wood Hollow,30.35839,-97.75136,1,1,False,1887
+Park/Crestview Jonestown,30.492932,-97.92296,1,1,False,2823
+11906 Stonehollow/Metric,30.401527,-97.704398,1,1,False,5760
+Gilwell/Justice,30.174761,-97.61346,1,1,False,5989
+4722 Congress/Sheraton,30.214748,-97.769232,1,1,False,543
+3614 Greystone/Hart,30.35882,-97.75363,1,1,False,1888
+Hyde Park Station (SB),30.30358,-97.737757,1,1,False,5405
+Highland Station,30.328601,-97.716203,1,1,False,5537
+Tech Ridge Bay I,30.418199,-97.668243,1,1,True,5304
+4917 Congress/Ramble,30.212115,-97.770916,1,1,False,5489
+Gilwell/Mathra,30.175667,-97.616277,1,1,False,5991
+N Mays St/University,30.561527,-97.686898,1,1,False,6226
+5300 Congress/Ramble,30.208685,-97.773108,1,1,False,545
+5701 Johnny Morris/FM 969,30.292629,-97.653013,1,1,False,4937
+5310 Congress/Mockingbird,30.207092,-97.773971,1,1,False,5363
+Menchaca/William Cannon NE Corner,30.203378,-97.806692,1,1,False,2681
+Hobby Horse/Gracy Farms,30.404089,-97.714035,1,1,False,5133
+7503 Mesa/Greystone,30.36499,-97.76295,1,1,False,1890
+N Mays St/Teravista Pkwy,30.568408,-97.686563,1,1,False,6224
+Stassney SB Rapid,30.204553,-97.775064,1,1,False,546
+Little Texas Station (SB),30.202521,-97.775659,1,1,False,5871
+6601 Menchaca/Miles,30.206901,-97.805837,1,1,False,751
+6403 Johnny Morris/FM 969,30.297443,-97.649934,1,1,False,4938
+Burnet/Mopac,30.402716,-97.717565,1,1,False,2753
+Mesa/Myrick,30.36829,-97.75911,1,1,False,1891
+6220 Congress/North Bluff,30.199041,-97.776595,1,1,False,548
+6305 Menchaca/Berkeley,30.209018,-97.804497,1,1,False,752
+8045 Mesa/Spicewood Springs,30.37133,-97.757205,1,1,False,1892
+Purple Sage NB (Crystalbrook/Purple Sage),30.308,-97.652679,1,1,False,1608
+6610 Congress/Eberhart,30.194215,-97.778449,1,1,False,4381
+11241 Escarpment/South Bay,30.185521,-97.894708,1,1,False,5909
+4039 Steck/Mesa,30.37404,-97.75497,1,1,False,1893
+11100 Burnet/Kramer,30.395964,-97.72032,1,1,False,2754
+Sunrise/Hidden Valley,30.558732,-97.679367,1,1,False,6222
+3933 Steck/Spicewood,30.373071,-97.752995,1,1,False,1894
+Crystalbrook/Loyola,30.303295,-97.653761,1,1,False,4801
+376 Dellway /Greenlawn,30.485451,-97.663909,1,1,False,6474
+Johnny Morris SB (Loyola/Johnny Morris),30.300569,-97.648626,1,1,False,5644
+Braker/Mopac NE Corner,30.395374,-97.731553,1,1,False,4895
+3813 Steck/Greenslope,30.37266,-97.74893,1,1,False,1895
+Sunrise/Eagles Nest,30.552211,-97.676815,1,1,False,6220
+1st/Bronco,30.474202,-97.973709,1,1,False,4600
+5501 Menchaca/Stassney,30.216254,-97.796781,1,1,False,4227
+M L King Jr Station,30.279818,-97.709031,1,1,False,5536
+9200 South 1st/Island Oak,30.157841,-97.800157,1,1,False,4908
+Steck/Forest Mesa,30.37077,-97.746856,1,1,False,1896
+Bronco/Dodge Trace,30.479306,-97.974374,1,1,False,4925
+Braker/Mopac (Farside/Midblock),30.397553,-97.736066,1,1,False,5755
+3605 Steck/Forest Mesa,30.36958,-97.74562,1,1,False,1897
+6505 Loyola/Johnny Morris,30.300175,-97.648393,1,1,False,5645
+6705 Crystalbrook/Loyola (Park),30.303303,-97.65354,1,1,False,5846
+10405 Escarpment/La Crosse,30.193652,-97.885356,1,1,False,5908
+3519 Steck/Mopac,30.36875,-97.74387,1,1,False,1898
+Travis County Precinct 4,30.19557,-97.693747,1,1,False,3974
+8032 Bar K Ranch (Lago Vista HS),30.48075,-97.978271,1,1,False,2825
+4223 Braker/Stonelake,30.399251,-97.73955,1,1,False,6472
+Sunrise/Double File,30.541036,-97.671114,1,1,False,6216
+UT Research Campus Station (NB),30.388232,-97.727049,1,1,False,5724
+6402 Johnny Morris/Loyola,30.29748,-97.650032,1,1,False,4939
+3305 Steck/Mopac,30.366743,-97.739675,1,1,False,1899
+Mc Kinney Falls/Burleson,30.192301,-97.698227,1,1,False,5722
+Purple Sage SB (Crystalbrook/Purple Sage),30.308573,-97.652374,1,1,False,1614
+1816 Mays/Tower,30.492449,-97.675522,1,1,False,6190
+Braker/Seton Center,30.400365,-97.742281,1,1,False,4763
+Steck/Shoal Creek,30.365507,-97.736934,1,1,False,4648
+Bluff Springs/William Cannon,30.189427,-97.767879,1,1,False,554
+6600 Silvermine/SH 71,30.246587,-97.888607,1,1,False,2595
+SE Corner Road A/Road B,30.391468,-97.72598,1,1,False,5369
+Sunrise/Old Settlers,30.537555,-97.668187,1,1,False,6213
+Metric/Boyer,30.3836,-97.71304,1,1,False,2572
+9201 S 1st/Slaughter,30.171737,-97.800185,1,1,False,4909
+Rockwood/Steck,30.36436,-97.73534,1,1,False,1900
+Balcones Woods/Research,30.407777,-97.747021,1,1,False,4659
+Sunrise/Country Aire,30.534574,-97.668065,1,1,False,6212
+Burleson/Felter NW,30.197813,-97.705025,1,1,False,5170
+3909 Menchaca/Prather,30.234049,-97.785514,1,1,False,765
+1907 Mearns Meadow/Little Pebble,30.38291,-97.7111,1,1,False,2573
+5800 Johnny Morris/Loyola,30.292869,-97.653011,1,1,False,4940
+5801 Slaughter/Escarpment,30.200218,-97.876027,1,1,False,5889
+Crossbow/Paseo de Vaca,30.47157,-97.9911,1,1,False,2827
+MLK Station Stop 1,30.280159,-97.709219,1,1,False,5588
+Mays/Mays Crossing,30.500578,-97.676059,1,1,False,6194
+5600 Pecan Brook/Tumbleweed,30.313092,-97.652605,1,1,False,1615
+Sunrise/Bowman (Tiger Trail),30.530674,-97.668014,1,1,False,6210
+21459 Coyote/Camstock Cove,30.46992,-97.98794,1,1,False,4927
+7920 Rockwood/Ashdale,30.360677,-97.737737,1,1,False,1902
+6806 Burleson/Smith School,30.201668,-97.709615,1,1,False,5739
+21475 Coyote/Camstock Cove,30.4726,-97.98673,1,1,False,4928
+Sunrise/Wayne,30.526518,-97.667947,1,1,False,6208
+Bar K Ranch/Coyote,30.474413,-97.989681,1,1,False,4926
+LBJ High School SB (Pecan Brook/Uray),30.314638,-97.655825,1,1,False,1616
+1611 Mearns Meadow/Quail Valley,30.37867,-97.70659,1,1,False,2575
+9111 Beckett/La Cresada,30.204241,-97.870686,1,1,False,5891
+8310 Red Willow/Smokey Hill,30.241604,-97.89409,1,1,False,4454
+Slaughter Station (NB),30.169961,-97.787073,1,1,False,6362
+Esperanza Crossing/Domain,30.39988,-97.724385,1,1,False,5845
+Quail Valley/Rutland,30.377423,-97.709544,1,1,False,4834
+Sunrise/Greenfield,30.523172,-97.667891,1,1,False,6206
+Bagdad/Brown,30.50715,-97.681161,1,1,False,6094
+Plaza Saltillo Station,30.262242,-97.727578,1,1,False,5535
+500 Guadalupe/5th,30.268253,-97.74669,1,1,False,2612
+8719 Beckett/Davis,30.208187,-97.869105,1,1,False,5893
+Rutland/Quail Valley,30.376082,-97.710918,1,1,False,4782
+Montopolis/Oltorf,30.21515,-97.71042,1,1,False,2231
+7500 Manor/Pecan Brook,30.319038,-97.660988,1,1,False,5808
+8201 Congress/Foremost,30.176243,-97.784118,1,1,False,5310
+8033 Bar K Ranch (Lago Vista HS),30.480668,-97.978167,1,1,False,2829
+1649 Rutland/Quail Valley,30.374408,-97.71203,1,1,False,4783
+6100 Oltorf/Montopolis,30.216576,-97.713186,1,1,False,2232
+8530 Red Willow/Selway,30.240596,-97.898425,1,1,False,4458
+Mesa Park/Bayland,30.520856,-97.661434,1,1,False,6203
+8101 Beckett at Dick Nichols Park,30.213884,-97.863891,1,1,False,5896
+Main/Burnet,30.509196,-97.676355,1,1,False,6195
+Plateau Vista/Aw Grimes,30.520992,-97.657819,1,1,False,6202
+1601 Rutland/Mountain Quail,30.371209,-97.709678,1,1,False,2578
+5500 Oltorf (Attorney General),30.219068,-97.718317,1,1,False,2233
+5th/San Antonio,30.26835,-97.74792,1,1,False,2111
+Red Willow/Fenton,30.236772,-97.900898,1,1,False,4461
+6506 FM 969/Craigwood EB,30.284968,-97.660672,1,1,False,5915
+Main St/Georgetown St,30.510439,-97.671924,1,1,False,6197
+Bronco/1st,30.47447,-97.97358,1,1,False,4924
+7309 Congress/Dittmar,30.186,-97.781105,1,1,False,5314
+Lohman Ford/FM 1431,30.474088,-97.975103,1,1,False,6071
+Downtown Station,30.264843,-97.738448,1,1,False,5534
+4820 Oltorf/Sunridge,30.223369,-97.722336,1,1,False,2235
+6811 Congress/Clearday,30.190842,-97.779568,1,1,False,5313
+Lavaca/9th,30.271378,-97.744115,1,1,False,4007
+9100 US 290/Springdale,30.328995,-97.656302,1,1,False,5945
+7405 Beckett/Ponoma,30.219823,-97.858161,1,1,False,5898
+Oltorf/Wickersham,30.225462,-97.724035,1,1,False,5789
+Georgetown/Palm Valley,30.516627,-97.670963,1,1,False,6199
+Scenic Brook/Banpass,30.235646,-97.897868,1,1,False,4485
+Lavaca/12th,30.274408,-97.742995,1,1,False,590
+4600 Tannehill/Martin Luther King,30.285718,-97.669918,1,1,False,5913
+8408 Tuscany/US 290,30.330722,-97.659482,1,1,False,5810
+Comal/21st,30.280784,-97.725615,1,1,False,4184
+Scenic Brook/Kirkham,30.237722,-97.892904,1,1,False,4482
+Georgetown/Palm Valley,30.517453,-97.670963,1,1,False,6200
+20204 Dawn/Lohman Ford,30.454746,-97.980364,1,1,False,4930
+104 Georgetown/Main,30.510752,-97.671697,1,1,False,6198
+8009 Exchange/Tuscany,30.337487,-97.662196,1,1,False,5813
+117 15th/Brazos,30.276572,-97.738732,1,1,False,6518
+5887 Thunderbird/Dawn,30.453482,-97.987134,1,1,False,2830
+7068 Cameron/St Johns,30.325799,-97.692672,1,1,False,2871
+Main/Burnet,30.509463,-97.675994,1,1,False,6196
+8073 Exchange/Cross Park,30.330305,-97.666971,1,1,False,5815
+6905 Scenic Brook/SH 71,30.236888,-97.878511,1,1,False,4474
+Plateau Vista/Aw Grimes,30.521138,-97.657237,1,1,False,6201
+8124 Exchange/Interparke,30.330492,-97.671781,1,1,False,5816
+35th/Jefferson,30.30776,-97.7519,1,1,False,1996
+Mesa Park/Bayland,30.520999,-97.661556,1,1,False,6204
+2219 Elmont/Town Lake,30.240939,-97.724233,1,1,False,6082
+Kermit/Lufkin,30.288949,-97.783344,1,1,False,4985
+Mays/Mays Crossing,30.499799,-97.676214,1,1,False,6193
+Sunrise/Greenfield,30.522608,-97.667727,1,1,False,6205
+5900 Cameron/Clayton,30.317046,-97.700104,1,1,False,2306
+Kermit/Jasper,30.287388,-97.782369,1,1,False,3520
+Mays/Shipley,30.496413,-97.67599,1,1,False,6192
+2202 Forbes/Cross Park,30.335191,-97.673447,1,1,False,5818
+Sunrise/Wayne,30.526146,-97.667778,1,1,False,6207
+5700 Cameron/Reinli,30.315549,-97.701918,1,1,False,2307
+Mays/Tower,30.49196,-97.67575,1,1,False,6191
+Lafayette/Manor,30.283897,-97.722231,1,1,False,2019
+Jasper/Lake Austin,30.287732,-97.780403,1,1,False,4838
+Sunrise/Bowman (Tiger Trail),30.529748,-97.667802,1,1,False,6209
+1706 Centre Creek/Cross Park,30.33623,-97.67771,1,1,False,2451
+1600 Centre Creek/Rutherford,30.335382,-97.68026,1,1,False,4703
+5420 Cameron/Corona,30.312939,-97.705293,1,1,False,2308
+Sunrise/Country Aire,30.534731,-97.66787,1,1,False,6211
+Fisher-Rosemount Systems,30.33692,-97.68223,1,1,False,4706
+5324 Cameron/Broadmoor,30.31124,-97.707439,1,1,False,5783
+University/21st,30.283593,-97.739574,1,1,False,6159
+Dell Way/Greenlawn,30.485241,-97.6639,1,1,False,6161
+Sunrise/Old Settlers,30.53805,-97.668019,1,1,False,6214
+3600 North Hills/Village Center,30.351595,-97.756663,1,1,False,3513
+2629 Lake Austin/Exposition,30.282567,-97.776462,1,1,False,5626
+Sunrise/Double File,30.541191,-97.670999,1,1,False,6215
+21st/Whitis (Midblock),30.283844,-97.741124,1,1,False,2780
+1215 51st/Cameron,30.308132,-97.708046,1,1,False,5613
+Hart/Far West,30.357422,-97.754595,1,1,False,4983
+1401 51st/Lancaster,30.306715,-97.70507,1,1,False,5683
+2531 Lake Austin/Dumas,30.279378,-97.774279,1,1,False,4162
+Louis Henna/Walmart,30.481344,-97.670476,1,1,False,6160
+Sunrise/Eagles Nest,30.552161,-97.676562,1,1,False,6219
+2211 Lake Austin/Veterans,30.27738,-97.77137,1,1,False,2102
+Banister/Summer Oaks,30.229708,-97.777993,1,1,False,1762
+Sunrise/Hidden Valley,30.55775,-97.678726,1,1,False,6221
+1828 51st/HEB,30.302821,-97.698114,1,1,False,6303
+3803 Garden Villa/Banister,30.230185,-97.773487,1,1,False,1763
+1500 Crossing Place/Faro,30.234887,-97.71506,1,1,False,4302
+Garden Villa/South Center,30.231689,-97.772529,1,1,False,1764
+2121 51st/Tilley,30.301332,-97.691719,1,1,False,6463
+5th/West Lynn,30.273605,-97.763241,1,1,False,4086
+Mays/Teravista,30.56808,-97.686785,1,1,False,6223
+5Th/Pressler,30.2726,-97.760749,1,1,False,2104
+2785 51st/Manor,30.298024,-97.686908,1,1,False,6300
+Wickersham/Riverside,30.232959,-97.720095,1,1,False,5079
+1008 Barton Skyway/Locke,30.236267,-97.769888,1,1,False,1767
+8309 Loyola/Wentworth,30.292743,-97.631318,1,1,False,5982
+1515 Wickersham/Riverside,30.235709,-97.718516,1,1,False,5078
+N Mays/University,30.561458,-97.687175,1,1,False,6225
+5th/Baylor,30.270977,-97.756406,1,1,False,2106
+9301 Hog Eye - Community First,30.282478,-97.6232,1,1,False,5984
+3114 51st/Pecan Springs,30.295511,-97.681993,1,1,False,6299
+2901 Raywood/Weathers,30.238523,-97.769749,1,1,False,1768
+8473 Loyola/Decker,30.291505,-97.62879,1,1,False,6384
+Elmont/Wickersham,30.238352,-97.718471,1,1,False,5077
+305 Dean Keeton/San Jacinto,30.28922,-97.735182,1,1,False,5438
+4918 Springdale/51st,30.293146,-97.67813,1,1,False,6297
+2428 Elmont/Town Lake,30.239842,-97.721572,1,1,False,6542
+4903 Guadalupe/46th,30.316531,-97.72913,1,1,False,4518
+321 Nueces/3rd,30.267105,-97.749241,1,1,False,6275
+9999 University/Orion/Goodwill,30.564111,-97.673601,1,1,False,6477
+Cumberland/S. 5th,30.239818,-97.766179,1,1,False,1770
+4612 Springdale/Touchstone,30.289603,-97.680296,1,1,False,1330
+2324 San Jacinto/24th,30.28671,-97.733652,1,1,False,1178
+2220 Elmont/Town Lake,30.241145,-97.724319,1,1,False,6534
+University/Teravista Club,30.565842,-97.669101,1,1,False,6227
+Johnny Morris/Craybrough,30.303039,-97.64631,1,1,False,6003
+4300 Springdale/Martin Luther King,30.286134,-97.682608,1,1,False,1331
+University/Sandy Brook,30.567009,-97.665125,1,1,False,6229
+601 23rd/Trinity,30.284999,-97.731804,1,1,False,5176
+6036 Elfen/Hog Eye,30.284038,-97.626837,1,1,False,5983
+Springdale/Oak Cliff,30.285006,-97.683281,1,1,False,1332
+701 23rd/Robert Dedman,30.284984,-97.731602,1,1,False,5177
+Johnny Morris/Point North,30.308047,-97.643051,1,1,False,6004
+Springdale/Glomar,30.281879,-97.685305,1,1,False,1334
+Colony Loop/Shannon,30.298856,-97.641267,1,1,False,5581
+1200 Springdale/12th,30.279234,-97.686965,1,1,False,1335
+9999 Seton/Chautauqua/TX State,30.56782,-97.652914,1,1,False,6478
+1150 Springdale/Webberville,30.276735,-97.688489,1,1,False,1336
+San Jacinto/23rd (Midblock),30.286032,-97.733433,1,1,False,5379
+Overton Driveway/Overton Driveway,30.300421,-97.636572,1,1,False,5997
+1106 Springdale/Ledesma,30.274303,-97.69009,1,1,False,1337
+7309 Ritchie/Colony Park,30.305498,-97.639174,1,1,False,5583
+Howard Station Bay B,30.440473,-97.701695,1,1,False,6406
+Speedway/45th,30.30835,-97.728674,1,1,False,980
+9999 College Park/ACC Round Rock,30.563415,-97.65603,1,1,False,6476
+Colony Park/Loyola,30.29876,-97.64462,1,1,False,2287
+4300 Speedway/43rd,30.306697,-97.729732,1,1,False,981
+Daffan/Oak Crest,30.314304,-97.620203,1,1,False,6005
+21st/Whitis,30.283826,-97.7409,1,1,False,5178
+Daffan/Decker,30.312258,-97.615894,1,1,False,6006
+4004 Speedway/40th,30.303498,-97.731786,1,1,False,982
+Capitol/Waterloo NB (Trinity/12th),30.272682,-97.737179,1,1,False,6500
+3600 Govalle/Gunter,30.265076,-97.699351,1,1,False,1341
+3812 Speedway/38th Half,30.30138,-97.733132,1,1,False,983
+3200 Govalle/Tillery,30.26602,-97.70202,1,1,False,1342
+Speedway/38th,30.299792,-97.734149,1,1,False,4114
+Eagles Landing Apt/Decker,30.307142,-97.622128,1,1,False,6070
+203 Dean Keeton/Whitis,30.289553,-97.739586,1,1,False,5528
+3204 Speedway/33rd,30.29713,-97.735816,1,1,False,985
+Govalle/Webberville,30.26774,-97.706989,1,1,False,1344
+26th/Pearl,30.29086,-97.746437,1,1,False,4123
+31st/Grooms,30.294366,-97.735868,1,1,False,4116
+850 Pleasant Valley/Webberville,30.26517,-97.708825,1,1,False,1346
+820 Pleasant Valley/Lyons,30.263658,-97.708344,1,1,False,1347
+San Gabriel/25 1/2,30.29005,-97.747693,1,1,False,4121
+2001 San Jacinto/20th,30.281645,-97.733191,1,1,False,4135
+2630 Speedway/27th,30.29121,-97.736689,1,1,False,5543
+7th Street SB (Pleasant Valley/7th),30.259748,-97.709736,1,1,False,1349
+500 Pleasant Valley/5th,30.257219,-97.710922,1,1,False,2803
+301 Dean Keeton/San Jacinto,30.289237,-97.735367,1,1,False,5038
+2204 San Gabriel/22nd Half,30.285872,-97.748124,1,1,False,4979
+405 23rd/Trinity,30.285019,-97.73202,1,1,False,5775
+501 23rd/Trinity,30.285069,-97.732623,1,1,False,5175
+Cesar Chavez SB (Pleasant Valley/Cesar Chavez),30.25282,-97.713,1,1,False,6516
+416 6th/San Antonio,30.26939,-97.7472,1,1,False,1967
+5106 Quicksilver/Canella,30.172401,-97.752691,1,1,False,6364
+516 Pleasant Valley/Lakeshore,30.246213,-97.714935,1,1,False,5032
+6th/Baylor,30.271955,-97.754879,1,1,False,1971
+Roy G Guerrero SB (Pleasant Valley/Lakeshore),30.2422,-97.717511,1,1,False,1353
+6th/Pressler,30.273935,-97.760118,1,1,False,1973
+Elmont SB (Pleasant Valley/Elmont),30.240131,-97.718817,1,1,False,4283
+31st/Walling,30.294287,-97.735581,1,1,False,4117
+6th/Campbell,30.276005,-97.76454,1,1,False,3519
+3201 Speedway/33rd,30.29722,-97.735581,1,1,False,4115
+2208 Lake Austin/Upson,30.277571,-97.771314,1,1,False,5824
+Speedway/35th,30.299217,-97.734341,1,1,False,1049
+2530 Lake Austin/Hearn,30.279419,-97.774048,1,1,False,5825
+Speedway/39th,30.301591,-97.732825,1,1,False,1051
+Lake Austin/7th,30.282319,-97.776058,1,1,False,1981
+4001 Speedway/40th,30.303334,-97.731711,1,1,False,3515
+4301 Speedway/43rd,30.306616,-97.729616,1,1,False,1053
+Speedway/44th,30.308091,-97.728681,1,1,False,4113
+Oltorf at Burton SB (Oltorf/Burton),30.23107,-97.734031,1,1,False,6512
+1730 Oltorf/Parker,30.232592,-97.737362,1,1,False,2241
+1616 E Oltorf,30.233502,-97.739665,1,1,False,2242
+4801 Guadalupe/46th,30.314726,-97.730353,1,1,False,4516
+1300 Oltorf/Schriber,30.23465,-97.74353,1,1,False,2243
+1100 Oltorf/Schriber,30.235895,-97.745863,1,1,False,2244
+710 Oltorf/East Side,30.23677,-97.748611,1,1,False,1494
+512 Oltorf/Rebel,30.237484,-97.751288,1,1,False,2246
+137 Oltorf/Euclid (Saint Ignatius),30.240124,-97.75551,1,1,False,5674
+Elmont/Pleasant Valley,30.238125,-97.718348,1,1,False,4285
+526 Oltorf/1st,30.242137,-97.759362,1,1,False,2249
+1600 Wickersham/Elmont,30.235821,-97.718624,1,1,False,4286
+Wickersham/Elmont,30.233631,-97.720092,1,1,False,3526
+910 Oltorf/ South 4th,30.243574,-97.763748,1,1,False,2251
+1901 Crossing Place/Riverside,30.232153,-97.717055,1,1,False,4300
+1404 Oltorf/Thornton,30.246909,-97.769288,1,1,False,4206
+1501 Crossing Place/Faro,30.235016,-97.714646,1,1,False,4301
+Melrose Place Apt,30.237369,-97.7135,1,1,False,3852
+2638 Lamar/Dickson,30.245471,-97.779927,1,1,False,2329
+Dean Keeton/Speedway,30.289287,-97.73607,1,1,False,3955
+3000 Lamar/Barton Skyway,30.243186,-97.783077,1,1,False,2331
+Broken Spoke Station (SB),30.241007,-97.786179,1,1,False,6358
+2317 Panther/Victory,30.238133,-97.788756,1,1,False,4215
+Victory/Prather,30.235811,-97.790086,1,1,False,3360
+4206 Victory/Ben White,30.232792,-97.790917,1,1,False,4213
+Westgate Transit Center - B,30.231106,-97.790843,1,1,False,6374
+Gardner/Jain Ln.,30.259882,-97.681633,1,1,False,1822
+7925 Rockwood/Ashdale,30.360488,-97.735877,1,1,False,2908
+633 Calles/Diaz,30.259543,-97.712031,1,1,False,6366
+North Loop/Woodview,30.325374,-97.742201,1,1,False,5002
+2730 7th/Pleasant Valley,30.260388,-97.710078,1,1,False,3337
+2700 7th/Calles,30.260665,-97.711521,1,1,False,847
+2500 7th/Pedernales,30.260963,-97.71356,1,1,False,848
+7th/Northwestern,30.261408,-97.716495,1,1,False,4181
+Burnet/Allandale (HEB),30.3344,-97.740705,1,1,False,5160
+7th/Chicon,30.262602,-97.721983,1,1,False,5119
+7th/Concho,30.26388,-97.725646,1,1,False,5120
+5350 Burnet/Lawnmont,30.327517,-97.739833,1,1,False,5964
+1114 7th/Waller,30.265561,-97.7305,1,1,False,6460
+North Loop/Burnet,30.325594,-97.742036,1,1,False,5006
+411 8th/Trinity,30.268997,-97.738479,1,1,False,5949
+1208 6th/Harthan,30.273061,-97.757846,1,1,False,1972
+Northcross Mall,30.355782,-97.734268,1,1,False,830
+6th/West Lynn,30.274836,-97.762509,1,1,False,1974
+Walmart Norwood,30.339404,-97.690619,1,1,False,3931
+7921 Rockwood/Anderson,30.361328,-97.737137,1,1,False,1904
+1443 Coronado Hills/Cameron,30.327914,-97.68894,1,1,False,5287
+1000 Cesar Chavez/San Marcos,30.260578,-97.73438,1,1,False,1850
+400 Cesar Chavez/Trinity,30.26246,-97.74084,1,1,False,1038
+Camino La Costa/Calidad,30.324373,-97.696676,1,1,False,5286
+Primose,30.319961,-97.704051,1,1,False,5970
+Capital Plaza,30.315894,-97.706435,1,1,False,5284
+East Austin Multi-Center,30.259425,-97.728034,1,1,False,2810
+Fiesta (3909 S IH35/38th Half),30.295825,-97.717787,1,1,False,5316
+Anderson/Cameron,30.334092,-97.688306,1,1,False,5317
+Park/Crestview Jonestown,30.492835,-97.92283,1,1,False,2831
+116 15th/Brazos,30.276851,-97.738575,1,1,False,5092
+5109 Quicksilver/Pleasant Valley,30.1722,-97.752393,1,1,False,6365
+Lakeline Station Bay F,30.480899,-97.786969,1,1,False,5231
+10727 Jollyville/Braker,30.400546,-97.748813,1,1,False,5237
+Jollyville/Balcones Woods,30.407651,-97.747776,1,1,False,4658
+510 Bouldin/Barton Springs,30.259115,-97.753844,1,1,False,4779
+710 Bouldin/Retama,30.257211,-97.755057,1,1,False,1720
+1006 Bouldin/Columbus,30.254698,-97.756428,1,1,False,1721
+1316 Bouldin/Elizabeth,30.252323,-97.757885,1,1,False,1722
+1514 Bouldin/Monroe,30.250809,-97.758737,1,1,False,1723
+Bouldin/Annie,30.24878,-97.759825,1,1,False,1724
+Annie/5th,30.249232,-97.761383,1,1,False,1725
+1816 S 5th/Mary,30.248451,-97.762069,1,1,False,1726
+2006 S 5th/Brodie,30.246802,-97.763104,1,1,False,4209
+2406 S 5th/Oltorf,30.243364,-97.764598,1,1,False,4208
+5th/Cumberland,30.239991,-97.766028,1,1,False,1730
+1010 Cumberland/5th,30.240685,-97.767903,1,1,False,1731
+2714 Raywood/Locke,30.240225,-97.769008,1,1,False,1732
+2866 Raywood/Weathers,30.238767,-97.769729,1,1,False,1733
+1003 Barton Skyway/Garden Villa,30.235922,-97.769523,1,1,False,1734
+3400 Garden Villa/Cardinal,30.234267,-97.771044,1,1,False,1735
+Garden Villa/South Center NW Corner,30.231869,-97.772554,1,1,False,1736
+Garden Villa/Banister,30.229371,-97.774161,1,1,False,1737
+4005 Banister/Summer Oaks,30.229794,-97.778143,1,1,False,5608
+4104 Banister/Morgan,30.228317,-97.77908,1,1,False,6002
+4402 Banister/Casey,30.225327,-97.781084,1,1,False,1741
+Redd/Gillis,30.224112,-97.783447,1,1,False,1742
+Redd/Clawson,30.225828,-97.78604,1,1,False,1743
+1918 Redd/Menchaca,30.228227,-97.789189,1,1,False,1744
+Redd/Cactus,30.22897,-97.79075,1,1,False,1745
+6704 Brush Country/William Cannon,30.222867,-97.842115,1,1,False,5903
+6914 Brush Country/One Oak (Church),30.219297,-97.844402,1,1,False,5901
+7406 Beckett/Ponoma,30.219825,-97.858349,1,1,False,5899
+8100 Beckett at Dick Nichols Park,30.213994,-97.864006,1,1,False,5897
+Beckett/Davis,30.208176,-97.869316,1,1,False,5905
+Beckett/La Cresada,30.204359,-97.870832,1,1,False,5906
+12301 Lamplight Village/Metric,30.411106,-97.695672,1,1,False,2545
+5796 Slaughter/Escarpment,30.200512,-97.876375,1,1,False,5890
+12425 Lamplight Village/Parmer,30.413849,-97.696742,1,1,False,5732
+10404 Escarpment/La Crosse,30.193886,-97.885556,1,1,False,5907
+11148 Escarpment/South Bay,30.185994,-97.89469,1,1,False,5910
+12400 Amherst/Adelphi,30.421212,-97.71596,1,1,False,4875
+12200 Amherst/Mosley,30.417718,-97.718153,1,1,False,4877
+12016 Amherst/Eton,30.413599,-97.720831,1,1,False,5577
+500 Lamar/5th,30.270539,-97.754587,1,1,False,2321
+New Life Park and Ride,30.435217,-97.697402,1,1,False,6095
+Seminary Ridge/Manassas,30.198811,-97.81952,1,1,False,2652
+Seminary Ridge/Shiloh,30.195669,-97.821554,1,1,False,2653
+Seminary Ridge/Sweet Clover,30.1925,-97.823745,1,1,False,2654
+Guidepost/Huebinger Pass,30.188355,-97.827991,1,1,False,2656
+Curlew/Guidepost,30.188517,-97.829121,1,1,False,2657
+9412 Curlew/Crownspoint,30.183032,-97.832409,1,1,False,2660
+9614 Curlew/Monarch,30.180475,-97.833345,1,1,False,2661
+9800 Curlew/Aftonshire,30.177943,-97.833807,1,1,False,5750
+6900 Scenic Brook/SH 71,30.237011,-97.878699,1,1,False,4473
+Scenic Brook/Hanbridge,30.237524,-97.893567,1,1,False,4481
+Fenton/Scenic Brook,30.235646,-97.898749,1,1,False,2618
+Fenton/Red Willow,30.236672,-97.900803,1,1,False,4462
+8525 Red Willow/Bargamen,30.240953,-97.898066,1,1,False,4457
+8403 Red Willow/Smokey Hill,30.24159,-97.894279,1,1,False,4453
+6701 Silvermine/SH 71,30.245996,-97.888647,1,1,False,4448
+178 6Th/Colorado,30.268565,-97.744465,1,1,False,5158
+6th/Guadalupe,30.269079,-97.746086,1,1,False,1966
+7200 Riverside/Yellow Jacket,30.221045,-97.69468,1,1,False,3247
+7th/San Jacinto,30.268274,-97.740219,1,1,False,924
+612 Congress/Riverside,30.255385,-97.747685,1,1,False,517
+220 Lamar/B R Reynolds,30.268227,-97.755652,1,1,False,4082
+4405 Riverside/Pleasant Valley,30.233381,-97.723235,1,1,False,6536
+2283 William Cannon/Stoneleigh,30.186202,-97.758733,1,1,False,4349
+William Cannon/Branchwood,30.183639,-97.754477,1,1,False,4351
+6217 Riverside/Montopolis,30.224947,-97.703802,1,1,False,3314
+6605 Riverside/Vargas,30.223718,-97.700756,1,1,False,3315
+6903 Riverside/Maxwell,30.22227,-97.697493,1,1,False,3316
+Riverside/Yellow Jacket,30.22077,-97.694749,1,1,False,3317
+7343 Riverside/Coriander,30.219999,-97.693331,1,1,False,3318
+Lamar Square Station (NB),30.254034,-97.762592,1,1,False,777
+907 Lamar/Treadwell,30.256548,-97.761038,1,1,False,5396
+615 Lamar/Bluff,30.258835,-97.758983,1,1,False,4071
+Northgate/Research,30.368637,-97.71763,1,1,False,5070
+Barton Springs Station (NB),30.261634,-97.758053,1,1,False,781
+New Airport/Spirit of Texas,30.212481,-97.663827,1,1,False,5098
+North Lamar Transit Center,30.349326,-97.711685,1,1,False,5859
+7520 Lamar/Morrow,30.343739,-97.715301,1,1,False,472
+7346 Lamar/Sugaree,30.34127,-97.71682,1,1,False,1296
+7240 Lamar/St Johns,30.339956,-97.71769,1,1,False,620
+Crestview Station (SB),30.337824,-97.719068,1,1,False,5606
+6814 Lamar/Justin,30.336204,-97.720006,1,1,False,474
+6600 Lamar/Brentwood,30.334163,-97.721314,1,1,False,475
+Soco Station (NB),30.248772,-97.749826,1,1,False,4026
+Congress/The Circle,30.251531,-97.748789,1,1,False,576
+611 Congress/Academy,30.25534,-97.74739,1,1,False,577
+4500 Guadalupe/45th,30.311103,-97.733009,1,1,False,485
+Guadalupe/43rd Street,30.308828,-97.734406,1,1,False,486
+Guadalupe/41st Street,30.306695,-97.735774,1,1,False,487
