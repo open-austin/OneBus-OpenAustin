@@ -71,7 +71,7 @@ OneBus is a web app designed to encourage people in Austin, TX to use public tra
 
 Check it out live at **[onebusaustin.com](https://onebusaustin.com)**
 
-![OneBus Screenshot](images/screenshot.png)
+![OneBus Screenshot](images/onebus_screenshot.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
