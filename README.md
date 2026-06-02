@@ -9,7 +9,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/mmaliu97/OneBus-OA">
+  <a href="https://github.com/open-austin/OneBus-OpenAustin">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -18,14 +18,14 @@
   <p align="center">
     Discover interesting places you can reach with just one bus ride.
     <br />
-    <a href="https://github.com/mmaliu97/OneBus-OA"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/open-austin/OneBus-OpenAustin"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://onebusaustin.com">Live Site</a>
     &middot;
-    <a href="https://github.com/mmaliu97/OneBus-OA/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/open-austin/OneBus-OpenAustin/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/mmaliu97/OneBus-OA/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/open-austin/OneBus-OpenAustin/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@ OneBus is a web app designed to encourage people in Austin, TX to use public tra
 
 Check it out live at **[onebusaustin.com](https://onebusaustin.com)**
 
-![OneBus Screenshot](images/onebus_screenshot.png)
+![OneBus Screenshot](images/screenshot.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,7 +143,7 @@ You'll need [Python 3](https://www.python.org/downloads/) installed.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mmaliu97/OneBus-OA.git
+   git clone https://github.com/open-austin/OneBus-OpenAustin.git
    ```
 2. Install packages
    ```sh
@@ -179,10 +179,9 @@ POST http://127.0.0.1:8000/api/
 ## Roadmap
 
 - [ ] Yellow Pages scraper via Selenium for expanded POI data
-- [ ] Expanded POI categories
-- [ ] Support for additional cities beyond Austin
+- [ ] Backend migration from Render to AWS
 
-See the [open issues](https://github.com/mmaliu97/OneBus-OA/issues) for a full list of proposed features and known issues.
+See the [open issues](https://github.com/open-austin/OneBus-OpenAustin/issues) for a full list of proposed features and known issues.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,9 +216,7 @@ Distributed under the project license. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/mmaliu97/OneBus-OA](https://github.com/mmaliu97/OneBus-OA)
+Your Name - Martin Liu - martincodesthings@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,13 +234,13 @@ Project Link: [https://github.com/mmaliu97/OneBus-OA](https://github.com/mmaliu9
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/mmaliu97/OneBus-OA.svg?style=for-the-badge
-[contributors-url]: https://github.com/mmaliu97/OneBus-OA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mmaliu97/OneBus-OA.svg?style=for-the-badge
-[forks-url]: https://github.com/mmaliu97/OneBus-OA/network/members
-[stars-shield]: https://img.shields.io/github/stars/mmaliu97/OneBus-OA.svg?style=for-the-badge
-[stars-url]: https://github.com/mmaliu97/OneBus-OA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mmaliu97/OneBus-OA.svg?style=for-the-badge
-[issues-url]: https://github.com/mmaliu97/OneBus-OA/issues
-[license-shield]: https://img.shields.io/github/license/mmaliu97/OneBus-OA.svg?style=for-the-badge
-[license-url]: https://github.com/mmaliu97/OneBus-OA/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/open-austin/OneBus-OpenAustin.svg?style=for-the-badge
+[contributors-url]: https://github.com/open-austin/OneBus-OpenAustin/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/open-austin/OneBus-OpenAustin.svg?style=for-the-badge
+[forks-url]: https://github.com/open-austin/OneBus-OpenAustin/network/members
+[stars-shield]: https://img.shields.io/github/stars/open-austin/OneBus-OpenAustin.svg?style=for-the-badge
+[stars-url]: https://github.com/open-austin/OneBus-OpenAustin/stargazers
+[issues-shield]: https://img.shields.io/github/issues/open-austin/OneBus-OpenAustin.svg?style=for-the-badge
+[issues-url]: https://github.com/open-austin/OneBus-OpenAustin/issues
+[license-shield]: https://img.shields.io/github/license/open-austin/OneBus-OpenAustin.svg?style=for-the-badge
+[license-url]: https://github.com/open-austin/OneBus-OpenAustin/blob/master/LICENSE.txt
