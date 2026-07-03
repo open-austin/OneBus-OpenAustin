@@ -1,6 +1,7 @@
 """Scrape one Yellow Pages results page with Selenium."""
 
 import time
+import random 
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -10,22 +11,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 BASE_URL = "https://www.yellowpages.com"
 PAGE_LOAD_WAIT_SEC = 5
 
-
-def create_driver() -> webdriver.Chrome:
-    options = webdriver.ChromeOptions()
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_experimental_option("excludeSwitches", ["enable-automation"])
-    options.add_experimental_option("useAutomationExtension", False)
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    )
-    driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager().install()),
-        options=options,
-    )
-    driver.execute_script(
-        "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
-    )
+def create_driver() -> webdriver.Safari:
+    options = webdriver.SafariOptions()
+    driver = webdriver.Safari(options=options)
     return driver
 
 
@@ -47,7 +35,11 @@ def scrape_page(
         print(f"Scraping {url}")
         driver.get(url)
         time.sleep(PAGE_LOAD_WAIT_SEC)
-
+        # Random scroll before scraping
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight/2)")
+        time.sleep(random.uniform(1, 3))
+        driver.execute_script("window.scrollTo(0, 0)")
+        time.sleep(random.uniform(1, 2))
         results = driver.find_elements(By.CLASS_NAME, "result")
         print(f"Found {len(results)} listings")
 
