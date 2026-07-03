@@ -19,25 +19,81 @@ OUTPUT_FILE = OUTPUT_DIR / "first_test.csv"
 CATEGORIES = [
     "restaurants",
     "coffee-shops",
-    "hotels",
-    "golf-courses",
     "grocery-stores",
     "massage-therapists",
     "barbers",
     "nail-salons",
     "beauty-salons",
-    "day-spas",
-    "skin-care",
-    "hair-stylists",
     "animal-shelters",
-    "dog-training",
-    "dog-day-care",
-    "pet-boarding-kennels",
     "pet-grooming",
-    "veterinary-clinics-hospitals",
+    "parks",
+    "libraries",
+    "places-of-interest",
+    "temples",
+    "museums",
+    "antiques",
+    "zoos",
+    "toy-stores",
+    "shoes-stores",
+    "skating-rinks",
+    "post-offices",
+    "movie-theatres",
+    "florists",
+    "dog-parks",
+    "concert-halls",
+    "comedy-halls",
+    "cosmetologists",
+    "clothing-stores",
+    "book-stores",
+    "bars",
+    "banks"
 ]
-PAGE_NUMBERS = range(1, 3)
 CITY_SLUG = "austin-tx"
+MAX_PAGES_PER_CATEGORY = 100  # safety cap in case pagination never terminates
+MAX_PAGE_RETRIES = 2
+
+
+def scrape_page_with_retries(page: int, category_slug: str) -> list[dict] | None:
+    """Scrape a page, retrying on WebDriver hangs/errors. Returns None if every attempt fails."""
+    for attempt in range(1, MAX_PAGE_RETRIES + 1):
+        try:
+            return scrape_page(
+                page_number=page,
+                city_slug=CITY_SLUG,
+                category_slug=category_slug,
+            )
+        except Exception as exc:
+            print(f"  Page {page}: attempt {attempt}/{MAX_PAGE_RETRIES} failed ({exc!r}); retrying...")
+            time.sleep(random.uniform(5, 10))
+    return None
+
+
+def scrape_all_pages(category_slug: str) -> list[dict]:
+    """Scrape pages for a category until the results run out."""
+    all_listings = []
+    previous_names = None
+
+    for page in range(1, MAX_PAGES_PER_CATEGORY + 1):
+        listings = scrape_page_with_retries(page, category_slug)
+        if listings is None:
+            print(f"  Page {page}: giving up after repeated failures, stopping category.")
+            break
+        if not listings:
+            print(f"  Page {page}: no listings, stopping.")
+            break
+
+        current_names = {listing["name"] for listing in listings}
+        if current_names == previous_names:
+            print(f"  Page {page}: same as previous page, stopping.")
+            break
+
+        all_listings.extend(listings)
+        print(f"  Page {page}: {len(listings)} listings")
+        previous_names = current_names
+        time.sleep(random.uniform(3, 8))
+
+    return all_listings
+
 
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -45,17 +101,7 @@ def main() -> None:
 
     for category_slug in CATEGORIES:
         print(f"\n=== Scraping: {category_slug} ===")
-        all_listings = []
-
-        for page in PAGE_NUMBERS:
-            listings = scrape_page(
-                page_number=page,
-                city_slug=CITY_SLUG,
-                category_slug=category_slug,
-            )
-            all_listings.extend(listings)
-            time.sleep(random.uniform(3, 8))
-            print(f"  Page {page}: {len(listings)} listings")
+        all_listings = scrape_all_pages(category_slug)
 
         print(f"  Total: {len(all_listings)} listings — geocoding...")
         all_listings = add_coordinates_to_listings(all_listings)
